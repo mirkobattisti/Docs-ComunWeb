@@ -38,6 +38,48 @@ Se il numero dell’ufficio cambia, non è necessario eseguire un tedioso “tro
 
 In totale nel sistema sono presenti circa 200 classi di contenuto.
 
+A titolo esemplificativo, vengono elencate sotto alcune delle più rilevanti classi di contenuto, suddivise per tipologia:
+
++-------------+------------------------------------------------------------------------------------------------------+
+|\ |STYLE9|\  |Bando di gara, Concorso, Deliberazione, Determinazione, Ordinanza                                     |
++-------------+------------------------------------------------------------------------------------------------------+
+|\ |STYLE10|\ |Avviso, Calendario, Comunicato stampa, Evento                                                         |
++-------------+------------------------------------------------------------------------------------------------------+
+|\ |STYLE11|\ |Area tematica, Cartella, Frontpage, Homepage, Pagina del sito                                         |
++-------------+------------------------------------------------------------------------------------------------------+
+|\ |STYLE12|\ |Circolare, Disciplinare, Modulitstica, Procedura, Utilità                                             |
++-------------+------------------------------------------------------------------------------------------------------+
+|\ |STYLE13|\ |Area, Organigramma, Ruolo, Servizio, Struttura, Ufficio                                               |
++-------------+------------------------------------------------------------------------------------------------------+
+|\ |STYLE14|\ |Gruppo consiliare, Interpellanza, Interrogazione, Lista elettorale, Organo Politico, Politico, Sindaco|
++-------------+------------------------------------------------------------------------------------------------------+
+|\ |STYLE15|\ |Associazione, Azienda, Punto di interesse, Servizio sul territorio, Struttura ricettiva               |
++-------------+------------------------------------------------------------------------------------------------------+
+
+.. _h6f5150673f2401a4b21804d4b464224:
+
+Aspetto estetico del sito web
+=============================
+
+Dal punto di vista del design, un sito web basato su \ |STYLE16|\  è allineato all’iniziativa \ |LINK1|\ . Il sito risulta accessibile e ottimizzato per la lettura da dispositivi mobili (smartphone, tablet)
+
+.. _h6e4d39105a64461f4f3377d353919:
+
+Accesso al sistema
+==================
+
+.. _h4624c19596c6969246833368586b43:
+
+Gestione del proprio profilo utente
+===================================
+
+...
+
+.. _h1c7c136469373a66106eff3c436153:
+
+La scelta delle immagini
+========================
+
 * Concetto di classi di contenuto
 
 * Funzionamento del menu del sito (+ cache menu)
@@ -102,6 +144,28 @@ Gestione delle traduzioni
 .. |STYLE7| replace:: **mettono in relazione un oggetto con altri presenti nel sistema**
 
 .. |STYLE8| replace:: *L’interfaccia di modifica di un oggetto Circolare*
+
+.. |STYLE9| replace:: **Albo**
+
+.. |STYLE10| replace:: **Comunicazione**
+
+.. |STYLE11| replace:: **Contenitori di base**
+
+.. |STYLE12| replace:: **Intranet**
+
+.. |STYLE13| replace:: **Organizzazione**
+
+.. |STYLE14| replace:: **Politica**
+
+.. |STYLE15| replace:: **Territorio**
+
+.. |STYLE16| replace:: **Open City**
+
+
+.. |LINK1| raw:: html
+
+    <a href="https://designers.italia.it/" target="_blank">Design Italia di AgID</a>
+
 
 .. |IMG1| image:: static/Index_1.png
    :height: 414 px
