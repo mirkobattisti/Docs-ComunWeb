@@ -15,13 +15,13 @@ La gestione dei contenuti avviene attraverso le cosiddette “classi di contenut
 
 Ad esempio, se un editor deve inserire una circolare sul sito web, in fase di creazione del contenuto utilizzerà la classe di contenuto “Circolare”.
 
-\ |STYLE4|\ 
+\ |IMG1|\ \ |STYLE4|\ 
 
 Ogni classe di contenuto è costituita da \ |STYLE5|\  (ad esempio “Titolo”, “Testo”, “Data di inizio validità”, “Ufficio proponente”) che vanno compilati in fase di creazione e/o modifica dei contenuti: le interfacce di creazione e modifica di un contenuto sono infatti basate sugli attributi specifici di ogni classe di contenuto.
 
 Alcuni attributi sono di tipo “\ |STYLE6|\ ”, perché \ |STYLE7|\ . 
 
-\ |IMG1|\ 
+\ |IMG2|\ 
 
 \ |STYLE8|\ 
 
@@ -104,5 +104,9 @@ Gestione delle traduzioni
 .. |STYLE8| replace:: *L’interfaccia di modifica di un oggetto Circolare*
 
 .. |IMG1| image:: static/Index_1.png
+   :height: 414 px
+   :width: 642 px
+
+.. |IMG2| image:: static/Index_2.png
    :height: 569 px
    :width: 505 px
