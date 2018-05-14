@@ -37,7 +37,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Verso OntoPiA - Classi di contenuto'
+project = 'Manuale Open City'
 copyright = '[licenza CC - BY OpenContent - SA]'
 
 # The version info for the project you're documenting, acts as replacement for
