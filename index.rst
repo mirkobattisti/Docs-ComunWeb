@@ -63,15 +63,22 @@ Aspetto estetico del sito web
 
 Dal punto di vista del design, un sito web basato su \ |STYLE16|\  è allineato all’iniziativa \ |LINK1|\ . Il sito risulta accessibile e ottimizzato per la lettura da dispositivi mobili (smartphone, tablet)
 
+\ |IMG3|\ 
+
+\ |STYLE17|\ 
+
 .. _h6e4d39105a64461f4f3377d353919:
 
 Accesso al sistema
 ==================
 
-.. _h4624c19596c6969246833368586b43:
+Per accedere al sistema è necessario spostarsi in fondo alla pagina per trovare, vicino alle indicazioni sul Copyright, il link “Accedi con il tuo account”
 
-Gestione del proprio profilo utente
-===================================
+\ |IMG4|\ 
+
+Una volta effettuato l’accesso, si vedono i link “Profilo utente” (dove è possibile modificare i propri dati e la propria password), agli strumenti a disposizione, e per uscire dal sistema.
+
+\ |IMG5|\ 
 
 ...
 
@@ -79,6 +86,12 @@ Gestione del proprio profilo utente
 
 La scelta delle immagini
 ========================
+
+Immagini a buona risoluzione
+
+Preferibilmente che si sviluppano in orizzontale 
+
+Attenzione alle licenze
 
 * Concetto di classi di contenuto
 
@@ -161,6 +174,8 @@ Gestione delle traduzioni
 
 .. |STYLE16| replace:: **Open City**
 
+.. |STYLE17| replace:: *Il Design di Open City è allineato a Design Italia*
+
 
 .. |LINK1| raw:: html
 
@@ -168,9 +183,21 @@ Gestione delle traduzioni
 
 
 .. |IMG1| image:: static/Index_1.png
-   :height: 414 px
-   :width: 642 px
+   :height: 428 px
+   :width: 661 px
 
 .. |IMG2| image:: static/Index_2.png
    :height: 569 px
    :width: 505 px
+
+.. |IMG3| image:: static/Index_3.png
+   :height: 326 px
+   :width: 624 px
+
+.. |IMG4| image:: static/Index_4.png
+   :height: 48 px
+   :width: 624 px
+
+.. |IMG5| image:: static/Index_5.png
+   :height: 49 px
+   :width: 624 px
