@@ -80,7 +80,45 @@ Una volta effettuato l’accesso, si vedono i link “Profilo utente” (dove è
 
 \ |IMG5|\ 
 
-...
+.. _h1f184e272f67487d30753a697b3c5351:
+
+Gestione dei contenuti
+======================
+
+Una volta effettuato l’accesso al sistema, si vedrà comparire in alto, la barra degli strumenti, che consente di operare sui contenuti del sito.
+
+
+.. admonition:: L’albero dei contenuti
+
+    Nel sistema Open City, i contenuti sono organizzati in una struttura ad albero. Ogni contenuto ha una sua collocazione nell’albero dei contenuti. Questo va tenuto in considerazione quando viene creato un nuovo contenuto, perché esso va creato nella posizione corretta all’interno di un albero. Fanno eccezioni le immagini, che idealmente vengono create in un unico contenitore (Media/Images) per poter poi essere riutilizzate all’interno dei contenuti del sito.
+
+.. _h7c2b7466704f1f106c504a672c3d3750:
+
+La barra degli strumenti
+------------------------
+
+La barra degli strumenti consente di disporre delle funzionalità di \ |STYLE18|\  direttamente sulle pagine del sito (senza bisogno di accedere all’interfaccia di amministrazione). In questo modo è possibile navigare il sito come un normale visitatore, e operare modifiche a contenuti esistenti, spostamento di contenuti, ordinamenti, creazione di nuovi contenuti.
+
+.. _h2853a65f2843553c4e2cb4b6f4b:
+
+\ |IMG6|\ ----------
+
+\ |STYLE19|\ 
+
+Le azioni che è possibile svolgere attraverso l’uso della barra degli strumenti sono contestuali al contenuto visualizzato in quel momento: ad esempio se l’utente sta visualizzando un contenuto di tipo “Avviso” e clicca sull’icona con la matita (modifica), modificherà esattamente quel contenuto, e così via.
+
+.. _h20112a6435232c2ee1a474074635b31:
+
+Modifica di un contenuto esistente
+----------------------------------
+
+Per modificare un contenuto esistente, è sufficiente navigare verso quel contenuto attraverso i menù e i link del sito, esattamente come farebbe un visitatore. Una volta raggiunto il contenuto da modificare, si clicca sull’icona della matita e si passa alla modalità di modifica del contenuto: viene mostrata l’interfaccia di modifica, basata sugli attributi della classe di contenuto di quel particolare contenuto.
+
+Ad esempio, modificando un oggetto di tipo “Avviso”, l’interfaccia sarà basata sugli attributi della classe “Avviso”.
+
+\ |IMG7|\ 
+
+\ |STYLE20|\  \ |STYLE21|\ 
 
 .. _h1c7c136469373a66106eff3c436153:
 
@@ -176,6 +214,14 @@ Gestione delle traduzioni
 
 .. |STYLE17| replace:: *Il Design di Open City è allineato a Design Italia*
 
+.. |STYLE18| replace:: *content management*
+
+.. |STYLE19| replace:: *La barra degli strumenti con le varie funzionalità*
+
+.. |STYLE20| replace:: *Interfaccia di modifica di un oggetto di tipo*
+
+.. |STYLE21| replace:: **Avviso**
+
 
 .. |LINK1| raw:: html
 
@@ -201,3 +247,11 @@ Gestione delle traduzioni
 .. |IMG5| image:: static/Index_5.png
    :height: 49 px
    :width: 624 px
+
+.. |IMG6| image:: static/Index_6.png
+   :height: 153 px
+   :width: 624 px
+
+.. |IMG7| image:: static/Index_7.png
+   :height: 916 px
+   :width: 550 px
