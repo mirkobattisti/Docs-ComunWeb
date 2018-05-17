@@ -68,6 +68,10 @@ Dal punto di vista del design, un sito web basato su \ |STYLE16|\  è allineato 
 \ |STYLE17|\ 
 
 
+.. toctree::
+
+    gestione_contenuti.rst
+
 .. bottom of content
 
 
