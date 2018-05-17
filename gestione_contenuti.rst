@@ -1,4 +1,17 @@
 
+.. _h6e4d39105a64461f4f3377d353919:
+
+Accesso al sistema
+******************
+
+Per accedere al sistema è necessario spostarsi in fondo alla pagina per trovare, vicino alle indicazioni sul Copyright, il link “Accedi con il tuo account”
+
+\ |IMG1|\ 
+
+Una volta effettuato l’accesso, si vedono i link “Profilo utente” (dove è possibile modificare i propri dati e la propria password), agli strumenti a disposizione, e per uscire dal sistema.
+
+\ |IMG2|\ 
+
 .. _h1f184e272f67487d30753a697b3c5351:
 
 Gestione dei contenuti
@@ -18,9 +31,9 @@ La barra degli strumenti
 
 La barra degli strumenti consente di disporre delle funzionalità di \ |STYLE0|\  direttamente sulle pagine del sito (senza bisogno di accedere all’interfaccia di amministrazione). In questo modo è possibile navigare il sito come un normale visitatore, e operare modifiche a contenuti esistenti, spostamento di contenuti, ordinamenti, creazione di nuovi contenuti.
 
-.. _h761ab401543201137a78553757464:
+.. _h80796f6531d141926653d426622443a:
 
-\ |IMG1|\ ----------
+\ |IMG3|\ ----------
 
 \ |STYLE1|\ 
 
@@ -64,7 +77,7 @@ Per modificare un contenuto esistente, è sufficiente \ |STYLE15|\  attraverso i
 
 Ad esempio, modificando un oggetto di tipo “Avviso”, l’interfaccia sarà basata sugli attributi della classe “Avviso”.
 
-\ |IMG2|\ 
+\ |IMG4|\ 
 
 \ |STYLE19|\  \ |STYLE20|\ 
 
@@ -77,11 +90,11 @@ La creazione di un contenuto avviene nel seguente modo:
 
 Si naviga il sito fino a raggiungere il contenitore all’interno del quale si vuole creare il contenuto, ad esempio un calendario:
 
-\ |IMG3|\ 
+\ |IMG5|\ 
 
 Dalla tendina nella barra degli strumenti (1), è possibile filtrare le tipologie di contentuo (2) e  selezionare il tipo di contenuto da creare (3). Infine si preme sul pulsante Crea qui (4):
 
-\ |IMG4|\ 
+\ |IMG6|\ 
 
 \ |STYLE21|\  \ |STYLE22|\ \ |STYLE23|\ 
 
@@ -99,11 +112,11 @@ Il menù principale
 
 Il menù principale viene gestito modificando la home page del sito. Bisogna quindi navigare verso la Home page, e poi premere sull’icona “Modifica” della barra degli strumenti.
 
-\ |IMG5|\ 
+\ |IMG7|\ 
 
 Si apre l’interfaccia di modifica della Home page, che è di tipo “Homepage”.  Spostandosi verso il basso, si incontra l’attributo che consente di gestire il menu principale. Da qui è possibile ordinare le voci esistenti (1), cancellare alcune delle voci esistenti (2,3), aggiungere contenuti che diventeranno voci di menù in modalità sfoglia (4) o ricerca (5).
 
-\ |IMG6|\ 
+\ |IMG8|\ 
 
 Nel menù vengono aggiunti di fatto dei link a contenuti già esistenti nel sito (e collocati nell’albero dei contenuti). Quindi il testo che compare nel menù è quello relativo ai nomi dei contenuti che sono stati aggiunti.
 
@@ -219,26 +232,34 @@ Gestione delle traduzioni
 
 .. |STYLE23| replace:: *.*
 
-.. |IMG1| image:: static/Gestione_contenuti_1.png
+.. |IMG1| image:: static/Gestione_dei_contenuti_1.png
+   :height: 48 px
+   :width: 624 px
+
+.. |IMG2| image:: static/Gestione_dei_contenuti_2.png
+   :height: 49 px
+   :width: 624 px
+
+.. |IMG3| image:: static/Gestione_dei_contenuti_3.png
    :height: 153 px
    :width: 624 px
 
-.. |IMG2| image:: static/Gestione_contenuti_2.png
+.. |IMG4| image:: static/Gestione_dei_contenuti_4.png
    :height: 916 px
    :width: 550 px
 
-.. |IMG3| image:: static/Gestione_contenuti_3.png
+.. |IMG5| image:: static/Gestione_dei_contenuti_5.png
    :height: 193 px
    :width: 349 px
 
-.. |IMG4| image:: static/Gestione_contenuti_4.png
+.. |IMG6| image:: static/Gestione_dei_contenuti_6.png
    :height: 134 px
    :width: 434 px
 
-.. |IMG5| image:: static/Gestione_contenuti_5.png
+.. |IMG7| image:: static/Gestione_dei_contenuti_7.png
    :height: 261 px
    :width: 624 px
 
-.. |IMG6| image:: static/Gestione_contenuti_6.png
+.. |IMG8| image:: static/Gestione_dei_contenuti_8.png
    :height: 306 px
    :width: 624 px
