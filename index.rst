@@ -105,20 +105,73 @@ La barra degli strumenti consente di disporre delle funzionalità di \ |STYLE18|
 
 \ |STYLE19|\ 
 
-Le azioni che è possibile svolgere attraverso l’uso della barra degli strumenti sono contestuali al contenuto visualizzato in quel momento: ad esempio se l’utente sta visualizzando un contenuto di tipo “Avviso” e clicca sull’icona con la matita (modifica), modificherà esattamente quel contenuto, e così via.
+
+..  Important:: 
+
+    Le azioni che è possibile svolgere attraverso l’uso della barra degli strumenti \ |STYLE20|\  in quel momento: ad esempio se si sta visualizzando un contenuto di tipo “Avviso” e si clicca sull’icona con la matita (modifica), verrà modificato esattamente quel contenuto, la stessa cosa vale per la creazione di nuovi contenuti, la cancellazione, e così via.
+
+Le funzionalità principali che è possibile operare dalla barra degli strumenti sono:
+
+* \ |STYLE21|\ 
+
+* \ |STYLE22|\ 
+
+* \ |STYLE23|\ : come visto in precedenza, ogni contenuto del sito ha una collocazione in una struttura ad albero. Questa funzionalità consente di rendere uno stesso contenuto visibile in più sezioni del sito;
+
+* \ |STYLE24|\  prima di cancellare un contenuto, il sistema chiede conferma. Inoltre, è possibile fare in modo che il contenuto venga messo nel cestino, in modo che sia possibile recuperarlo eventualmente;
+
+* \ |STYLE25|\  da una collocazione a un’altra all’interno dell’albero dei contenuti;
+
+* \ |STYLE26|\  posizionandosi su un contenuto, è possibile definire la modalità di ordinamento dei contenuti “figli” (per nome, data di creazione, priorità, …);
+
+* \ |STYLE27|\  è possibile caricare dei files dal proprio pc (immagini, documenti pdf), che vengono convertiti in contenuti (seguendo una mappatura file/contenuto definita a livello di configurazione);
+
+* \ |STYLE28|\  nel caso in cui il menù non mostra le modifiche apportate, è possibile forzare un refresh della visualizzazione del menù stesso;
+
+* \ |STYLE29|\  per copiare un contenuto;
+
+* \ |STYLE30|\  per accedere all’interfaccia di amministrazione e guardare “dietro le quinte”;
+
+* \ |STYLE31|\  consente di tradurre un contenuto;
+
+* \ |STYLE32|\  apre (o chiude) il box con informazioni sul contenuto che si sta visualizzando (data di creazione,  autore, tipologia di contenuto, …)
 
 .. _h20112a6435232c2ee1a474074635b31:
 
 Modifica di un contenuto esistente
 ----------------------------------
 
-Per modificare un contenuto esistente, è sufficiente navigare verso quel contenuto attraverso i menù e i link del sito, esattamente come farebbe un visitatore. Una volta raggiunto il contenuto da modificare, si clicca sull’icona della matita e si passa alla modalità di modifica del contenuto: viene mostrata l’interfaccia di modifica, basata sugli attributi della classe di contenuto di quel particolare contenuto.
+Per modificare un contenuto esistente, è sufficiente \ |STYLE33|\  attraverso i menù e i link del sito, esattamente come farebbe un visitatore. Una volta raggiunto il contenuto da modificare, \ |STYLE34|\  e si passa alla modalità di modifica del contenuto: viene mostrata l’\ |STYLE35|\ , \ |STYLE36|\  di quel particolare contenuto.
 
 Ad esempio, modificando un oggetto di tipo “Avviso”, l’interfaccia sarà basata sugli attributi della classe “Avviso”.
 
 \ |IMG7|\ 
 
-\ |STYLE20|\  \ |STYLE21|\ 
+\ |STYLE37|\  \ |STYLE38|\ 
+
+.. _h2c316b717f547316a522c1143139e:
+
+Creazione di un nuovo contenuto
+-------------------------------
+
+La creazione di un contenuto avviene nel seguente modo:
+
+Si naviga il sito fino a raggiungere il contenitore all’interno del quale si vuole creare il contenuto, ad esempio un calendario:
+
+\ |IMG8|\ 
+
+Dalla tendina nella barra degli strumenti (1), è possibile filtrare le tipologie di contentuo (2) e  selezionare il tipo di contenuto da creare (3). Infine si preme sul pulsante Crea qui (4):
+
+\ |IMG9|\ 
+
+\ |STYLE39|\  \ |STYLE40|\ \ |STYLE41|\ 
+
+Una volta effettuate queste operazioni, il sistema presenta una interfaccia identica a quella di modifica di un contenuto, con la differenza che i campi (attributi) saranno tutti vuoti.
+
+
+.. admonition:: Attributi obbligatori
+
+    Nelle interfacce di creazione e modifica dei contenuti, alcuni degli attributi sono marcati con un asterisco. Questo significa che è obbligatorio compilare quegli attributi.
 
 .. _h1c7c136469373a66106eff3c436153:
 
@@ -218,9 +271,49 @@ Gestione delle traduzioni
 
 .. |STYLE19| replace:: *La barra degli strumenti con le varie funzionalità*
 
-.. |STYLE20| replace:: *Interfaccia di modifica di un oggetto di tipo*
+.. |STYLE20| replace:: **sono contestuali al contenuto visualizzato**
 
-.. |STYLE21| replace:: **Avviso**
+.. |STYLE21| replace:: **Modifica di un contenuto esistente;**
+
+.. |STYLE22| replace:: **Creazione di un contenuto;**
+
+.. |STYLE23| replace:: **Aggiunta di una collocazione**
+
+.. |STYLE24| replace:: **Cancellazione di un contenuto:**
+
+.. |STYLE25| replace:: **Spostamento di un contenuto**
+
+.. |STYLE26| replace:: **Ordinare i contenuti:**
+
+.. |STYLE27| replace:: **Caricamento multiplo:**
+
+.. |STYLE28| replace:: **Refresh menu:**
+
+.. |STYLE29| replace:: **Copia:**
+
+.. |STYLE30| replace:: **Interfaccia di amministrazione:**
+
+.. |STYLE31| replace:: **Traduci:**
+
+.. |STYLE32| replace:: **Informazioni sul contenuto:**
+
+.. |STYLE33| replace:: **navigare verso quel contenuto**
+
+.. |STYLE34| replace:: **si clicca sull’icona della matita**
+
+.. |STYLE35| replace:: **interfaccia di modifica**
+
+.. |STYLE36| replace:: **basata sugli attributi della classe di contenuto**
+
+.. |STYLE37| replace:: *Interfaccia di modifica di un oggetto di tipo*
+
+.. |STYLE38| replace:: **Avviso.**
+
+.. |STYLE39| replace:: *Creazione di un nuovo oggetto di tipo*
+
+.. |STYLE40| replace:: **Evento**
+
+.. |STYLE41| replace:: *.*
 
 
 .. |LINK1| raw:: html
@@ -255,3 +348,11 @@ Gestione delle traduzioni
 .. |IMG7| image:: static/Index_7.png
    :height: 916 px
    :width: 550 px
+
+.. |IMG8| image:: static/Index_8.png
+   :height: 193 px
+   :width: 349 px
+
+.. |IMG9| image:: static/Index_9.png
+   :height: 134 px
+   :width: 434 px
