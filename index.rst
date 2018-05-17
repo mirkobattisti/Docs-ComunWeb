@@ -67,18 +67,6 @@ Dal punto di vista del design, un sito web basato su \ |STYLE16|\  è allineato 
 
 \ |STYLE17|\ 
 
-.. _h6e4d39105a64461f4f3377d353919:
-
-Accesso al sistema
-==================
-
-Per accedere al sistema è necessario spostarsi in fondo alla pagina per trovare, vicino alle indicazioni sul Copyright, il link “Accedi con il tuo account”
-
-\ |IMG4|\ 
-
-Una volta effettuato l’accesso, si vedono i link “Profilo utente” (dove è possibile modificare i propri dati e la propria password), agli strumenti a disposizione, e per uscire dal sistema.
-
-\ |IMG5|\ 
 
 .. bottom of content
 
@@ -135,12 +123,4 @@ Una volta effettuato l’accesso, si vedono i link “Profilo utente” (dove è
 
 .. |IMG3| image:: static/Index_3.png
    :height: 326 px
-   :width: 624 px
-
-.. |IMG4| image:: static/Index_4.png
-   :height: 48 px
-   :width: 624 px
-
-.. |IMG5| image:: static/Index_5.png
-   :height: 49 px
    :width: 624 px
