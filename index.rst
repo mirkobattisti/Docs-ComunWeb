@@ -173,6 +173,29 @@ Una volta effettuate queste operazioni, il sistema presenta una interfaccia iden
 
     Nelle interfacce di creazione e modifica dei contenuti, alcuni degli attributi sono marcati con un asterisco. Questo significa che è obbligatorio compilare quegli attributi.
 
+.. _h2939163554334774451b95757d5c2a:
+
+Il menù principale
+==================
+
+Il menù principale viene gestito modificando la home page del sito. Bisogna quindi navigare verso la Home page, e poi premere sull’icona “Modifica” della barra degli strumenti.
+
+\ |IMG10|\ 
+
+Si apre l’interfaccia di modifica della Home page, che è di tipo “Homepage”.  Spostandosi verso il basso, si incontra l’attributo che consente di gestire il menu principale. Da qui è possibile ordinare le voci esistenti (1), cancellare alcune delle voci esistenti (2,3), aggiungere contenuti che diventeranno voci di menù in modalità sfoglia (4) o ricerca (5).
+
+\ |IMG11|\ 
+
+
+..  Important:: 
+
+    Nel menù vengono aggiunti di fatto dei link a contenuti già esistenti nel sito (e collocati nell’albero dei contenuti). Quindi il testo che compare nel menù è quello relativo ai nomi dei contenuti che sono stati aggiunti.
+
+
+.. admonition:: Refresh dei menu
+
+    Dopo aver apportato una modifica al menù, o ai contenuti che fanno parte del menù, potrebbe essere necessario effettuare un refresh dei menu per rendere effettive le modifiche. Questa operazione è possibile attraverso la funzione “refresh menù” presente nella barra degli strumenti. 
+
 .. _h1c7c136469373a66106eff3c436153:
 
 La scelta delle immagini
@@ -356,3 +379,11 @@ Gestione delle traduzioni
 .. |IMG9| image:: static/Index_9.png
    :height: 134 px
    :width: 434 px
+
+.. |IMG10| image:: static/Index_10.png
+   :height: 261 px
+   :width: 624 px
+
+.. |IMG11| image:: static/Index_11.png
+   :height: 306 px
+   :width: 624 px
