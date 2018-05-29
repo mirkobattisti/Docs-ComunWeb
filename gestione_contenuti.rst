@@ -108,7 +108,7 @@ Una volta effettuate queste operazioni, il sistema presenta una interfaccia iden
 .. _h2939163554334774451b95757d5c2a:
 
 Il menù principale
-==================
+******************
 
 Il menù principale viene gestito modificando la home page del sito. Bisogna quindi navigare verso la Home page, e poi premere sull’icona “Modifica” della barra degli strumenti.
 
@@ -124,6 +124,85 @@ Nel menù vengono aggiunti di fatto dei link a contenuti già esistenti nel sito
 .. admonition:: Refresh dei menu
 
     Dopo aver apportato una modifica al menù, o ai contenuti che fanno parte del menù, potrebbe essere necessario effettuare un refresh dei menu per rendere effettive le modifiche. Questa operazione è possibile attraverso la funzione “refresh menù” presente nella barra degli strumenti. 
+
+.. _h112e363548804723d644a25d2e5020:
+
+Organigramma
+************
+
+Per gestire un organigramma in un sito basato su Open City è necessario creare un oggetto di tipo “Organigramma”. La visualizzazione è gestita partendo da una serie di oggetti e dalle relazioni che intercorrono tra di loro.
+
+Tipicamente, nella struttura dei contenuti, sono presenti i seguenti contenitori
+
+* Aree: contiene oggetti di tipo “Area”, che rappresentano le aree nelle quali è divisa l’organizzazione dell’ente.
+
+* Servizi: contiene oggetti di tipo “Servizio”, che rappresentano i Servizi operanti all’interno dell’ente.
+
+* Uffici: contiene oggetti di tipo “Ufficio”, che rappresentano gli uffici fisici dell’ente.
+
+Ogni ufficio contiene un riferimento ad un servizio, ed ogni servizio contiene un riferimento ad un area. Attraverso questi riferimenti viene costruito l’albero che compare nell’organigramma.
+
+\ |IMG9|\ 
+
+\ |STYLE24|\ 
+
+Potrebbero esserci casi (enti di piccole dimensioni) in cui non ci siano tre livelli organizzativi, in quel caso l’organigramma può essere generato seguendo i collegamenti tra servizi e uffici.
+
+\ |IMG10|\ 
+
+\ |STYLE25|\ 
+
+Una volta inserite le Aree, I Servizi e gli Uffici, posizionarsi sul nodo dell’Organigramma, aprire le informazioni per l’editor con l’icona “i” in alto a destra sulla barra degli strumenti, e poi premere il pulsante “aggiorna organigramma”:
+
+\ |IMG11|\ 
+
+
+.. admonition:: Suggerimento
+
+    Se la pressione del pulsante “aggiorna organigramma” non dovesse sortire l’effetto desiderato, provare a modificare il contenuto di tipo organigramma (premendo l’icona con la matita sulla barra strumenti) e poi salvare senza apportare modifiche. Una volta usciti dalla modalità di modifica, premere nuovamente il pulsante “aggiorna organigramma”.
+
+.. _h642e1439c702c7635643e1d7545d59:
+
+Pagina del sito e visualizzazione dei figli
+*******************************************
+
+La tipologia di contenuto più generica è la “Pagina del sito”. Viene utilizzata per contenuti generici, non molto strutturati, oppure come contenitore di contenuti. Una volta inseriti i contenuti dentro una pagina del sito, è possibile selezionare il tipo di visualizzazione da applicare ai figli: questo offre diverse possibilità a seconda dello scopo della pagina.
+
+Ad esempio è possibile Creare una pagina del sito per mostrare un elenco di strutture di servizio dislocate sul territorio, strutturando i contenuti come segue:
+
+* Servizi sul territorio [Pagina del sito]
+
+    * Centro educazione ambientale [Punto di interesse]
+
+    * Farmacia XX [Servizio sul territorio]
+
+    * Biblioteca Comunale [Servizio sul territorio]
+
+    * Parafarmacia [Servizio sul territorio]
+
+    * …
+
+La visualizzazione degli oggetti “figli” di una pagina del sito è impostata di default “lista”, ma è possibile scegliere tra diverse altre modalità: modificando la pagina (icona con la matita sulla barra degli strumenti), tra gli attributi della pagina si trova, in fondo, l’attributo “visualizzazione dei figli”
+
+\ |IMG12|\ 
+
+Le scelte possibili sono:
+
+* \ |STYLE26|\  - la visualizzazione a lista;
+
+* \ |STYLE27|\  -  una visualizzazione a tabella con informazioni minime su ogni contenuto;
+
+* \ |STYLE28|\  - sulla destra vengono proposti dei filtri per effettuare delle ricerche sui contenuti (un filtro per ogni tipologia di contenuto) utile in caso di gran numero di contenuti dello stesso tipo;
+
+* \ |STYLE29|\  - i contenuti “figli” vengono mostrati su una mappa (sulla mappa vengono mostrati solo gli oggetti per cui è stata specificata una geolocalizzazione);
+
+* \ |STYLE30|\  - vengono mostrati dei pannelli, uno per contenuto;
+
+* \ |STYLE31|\  - i contenuti vengono mostrati con dei pannelli, ma vicino al titolo viene mostrata una icona.
+
+\ |IMG13|\ 
+
+\ |STYLE32|\ 
 
 .. _h1c7c136469373a66106eff3c436153:
 
@@ -232,6 +311,24 @@ Gestione delle traduzioni
 
 .. |STYLE23| replace:: *.*
 
+.. |STYLE24| replace:: *Attraverso la struttura e le relazioni viene generato l’organigramma*
+
+.. |STYLE25| replace:: *Esempio di organigramma a due livelli*
+
+.. |STYLE26| replace:: **Default**
+
+.. |STYLE27| replace:: **Datatable**
+
+.. |STYLE28| replace:: **Filters**
+
+.. |STYLE29| replace:: **Map**
+
+.. |STYLE30| replace:: **Panels**
+
+.. |STYLE31| replace:: **Icons**
+
+.. |STYLE32| replace:: *Il sistema consente diverse tipologie di visualizzazione per gli oggetti contenuti in una pagina*
+
 .. |IMG1| image:: static/Gestione_dei_contenuti_1.png
    :height: 48 px
    :width: 624 px
@@ -263,3 +360,23 @@ Gestione delle traduzioni
 .. |IMG8| image:: static/Gestione_dei_contenuti_8.png
    :height: 306 px
    :width: 624 px
+
+.. |IMG9| image:: static/Gestione_dei_contenuti_9.jpeg
+   :height: 254 px
+   :width: 618 px
+
+.. |IMG10| image:: static/Gestione_dei_contenuti_10.png
+   :height: 550 px
+   :width: 376 px
+
+.. |IMG11| image:: static/Gestione_dei_contenuti_11.png
+   :height: 185 px
+   :width: 474 px
+
+.. |IMG12| image:: static/Gestione_dei_contenuti_12.png
+   :height: 102 px
+   :width: 624 px
+
+.. |IMG13| image:: static/Gestione_dei_contenuti_13.png
+   :height: 646 px
+   :width: 552 px
