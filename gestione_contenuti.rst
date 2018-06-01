@@ -142,19 +142,17 @@ Tipicamente, nella struttura dei contenuti, sono presenti i seguenti contenitori
 
 Ogni ufficio contiene un riferimento ad un servizio, ed ogni servizio contiene un riferimento ad un area. Attraverso questi riferimenti viene costruito l’albero che compare nell’organigramma.
 
-\ |IMG9|\ 
-
 \ |STYLE24|\ 
 
 Potrebbero esserci casi (enti di piccole dimensioni) in cui non ci siano tre livelli organizzativi, in quel caso l’organigramma può essere generato seguendo i collegamenti tra servizi e uffici.
 
-\ |IMG10|\ 
+\ |IMG9|\ 
 
 \ |STYLE25|\ 
 
 Una volta inserite le Aree, I Servizi e gli Uffici, posizionarsi sul nodo dell’Organigramma, aprire le informazioni per l’editor con l’icona “i” in alto a destra sulla barra degli strumenti, e poi premere il pulsante “aggiorna organigramma”:
 
-\ |IMG11|\ 
+\ |IMG10|\ 
 
 
 .. admonition:: Suggerimento
@@ -184,7 +182,7 @@ Ad esempio è possibile Creare una pagina del sito per mostrare un elenco di str
 
 La visualizzazione degli oggetti “figli” di una pagina del sito è impostata di default “lista”, ma è possibile scegliere tra diverse altre modalità: modificando la pagina (icona con la matita sulla barra degli strumenti), tra gli attributi della pagina si trova, in fondo, l’attributo “visualizzazione dei figli”
 
-\ |IMG12|\ 
+\ |IMG11|\ 
 
 Le scelte possibili sono:
 
@@ -200,7 +198,7 @@ Le scelte possibili sono:
 
 * \ |STYLE31|\  - i contenuti vengono mostrati con dei pannelli, ma vicino al titolo viene mostrata una icona.
 
-\ |IMG13|\ 
+\ |IMG12|\ 
 
 \ |STYLE32|\ 
 
@@ -361,22 +359,18 @@ Gestione delle traduzioni
    :height: 306 px
    :width: 624 px
 
-.. |IMG9| image:: static/Gestione_dei_contenuti_9.jpeg
-   :height: 254 px
-   :width: 618 px
-
-.. |IMG10| image:: static/Gestione_dei_contenuti_10.png
+.. |IMG9| image:: static/Gestione_dei_contenuti_9.png
    :height: 550 px
    :width: 376 px
 
-.. |IMG11| image:: static/Gestione_dei_contenuti_11.png
+.. |IMG10| image:: static/Gestione_dei_contenuti_10.png
    :height: 185 px
    :width: 474 px
 
-.. |IMG12| image:: static/Gestione_dei_contenuti_12.png
+.. |IMG11| image:: static/Gestione_dei_contenuti_11.png
    :height: 102 px
    :width: 624 px
 
-.. |IMG13| image:: static/Gestione_dei_contenuti_13.png
+.. |IMG12| image:: static/Gestione_dei_contenuti_12.png
    :height: 646 px
    :width: 552 px
