@@ -361,7 +361,7 @@ Gestione delle traduzioni
    :height: 306 px
    :width: 624 px
 
-.. |IMG9| image:: static/Gestione_dei_contenuti_9.jpeg
+.. |IMG9| image:: static/Gestione_dei_contenuti_9.png
    :height: 257 px
    :width: 624 px
 
