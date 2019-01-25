@@ -204,60 +204,7 @@ Le scelte possibili sono:
 
 \ |STYLE32|\ 
 
-.. _h1c7c136469373a66106eff3c436153:
-
-La scelta delle immagini
-========================
-
-Immagini a buona risoluzione
-
-Preferibilmente che si sviluppano in orizzontale 
-
-Attenzione alle licenze
-
-* Concetto di classi di contenuto
-
-* Funzionamento del menu del sito (+ cache menu)
-
-* Funzionamento Website toolbar
-
-* Organigramma
-
-* Pagina del sito e varie viste per i figli
-
-* Frontpage e blocchi principali
-
-* Come pubblicare una news
-
-* Come pubblicare una determina
-
-* Galleria immagini
-
-* Folder virtuale
-
-* Come funziona la colonna di destra
-
-* Creazione ruoli dipendenti con openpa/roles
-
-* Area tematica (esempi?)
-
-* Consigli sugli allegati (file_pdf)
-
-* Scadenze automatiche dei contenuti
-
-* CSVimport
-
-* opendata/console/1
-
-Scadenze automatiche dei contenuti
-
-    con  le sezione e con gli stati
-
-    funzionamento degli allegati (file_pdf) e delle gallerie di immagini
-
-    visualizzazione dei figli
-
-Gestione delle traduzioni
+ 
 
 
 .. bottom of content
