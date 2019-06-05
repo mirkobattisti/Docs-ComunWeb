@@ -573,6 +573,15 @@ Le scelte possibili sono:
 
 * \ |STYLE63|\  - i contenuti vengono mostrati con dei pannelli, ma vicino al titolo viene mostrata una icona.
 
+\ |IMG42|\ 
+
+\ |STYLE64|\ 
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h112e363548804723d644a25d2e5020:
 
 Organigramma
@@ -590,28 +599,24 @@ Tipicamente, nella struttura dei contenuti, sono presenti i seguenti contenitori
 
 Ogni ufficio contiene un riferimento ad un servizio, ed ogni servizio contiene un riferimento ad un area. Attraverso questi riferimenti viene costruito l’albero che compare nell’organigramma.
 
-\ |IMG42|\ 
-
-\ |STYLE64|\ 
-
-Potrebbero esserci casi (enti di piccole dimensioni) in cui non ci siano tre livelli organizzativi, in quel caso l’organigramma può essere generato seguendo i collegamenti tra servizi e uffici.
-
 \ |IMG43|\ 
 
 \ |STYLE65|\ 
 
-Una volta inserite le Aree, I Servizi e gli Uffici, posizionarsi sul nodo dell’Organigramma, aprire le informazioni per l’editor con l’icona “i” in alto a destra sulla barra degli strumenti, e poi premere il pulsante “aggiorna organigramma”:
+Potrebbero esserci casi (enti di piccole dimensioni) in cui non ci siano tre livelli organizzativi, in quel caso l’organigramma può essere generato seguendo i collegamenti tra servizi e uffici.
 
 \ |IMG44|\ 
+
+\ |STYLE66|\ 
+
+Una volta inserite le Aree, I Servizi e gli Uffici, posizionarsi sul nodo dell’Organigramma, aprire le informazioni per l’editor con l’icona “i” in alto a destra sulla barra degli strumenti, e poi premere il pulsante “aggiorna organigramma”:
+
+\ |IMG45|\ 
 
 
 .. admonition:: Suggerimento
 
     Se la pressione del pulsante “aggiorna organigramma” non dovesse sortire l’effetto desiderato, provare a modificare il contenuto di tipo organigramma (premendo l’icona con la matita sulla barra strumenti) e poi salvare senza apportare modifiche. Una volta usciti dalla modalità di modifica, premere nuovamente il pulsante “aggiorna organigramma”.
-
-\ |IMG45|\ 
-
-\ |STYLE66|\ 
 
  
 
@@ -747,11 +752,11 @@ Una volta inserite le Aree, I Servizi e gli Uffici, posizionarsi sul nodo dell�
 
 .. |STYLE63| replace:: **Icons**
 
-.. |STYLE64| replace:: *Attraverso la struttura e le relazioni viene generato l’organigramma*
+.. |STYLE64| replace:: *Il sistema consente diverse tipologie di visualizzazione per gli oggetti contenuti in una pagina*
 
-.. |STYLE65| replace:: *Esempio di organigramma a due livelli*
+.. |STYLE65| replace:: *Attraverso la struttura e le relazioni viene generato l’organigramma*
 
-.. |STYLE66| replace:: *Il sistema consente diverse tipologie di visualizzazione per gli oggetti contenuti in una pagina*
+.. |STYLE66| replace:: *Esempio di organigramma a due livelli*
 
 
 .. |LINK1| raw:: html
@@ -1076,17 +1081,17 @@ Una volta inserite le Aree, I Servizi e gli Uffici, posizionarsi sul nodo dell�
    :width: 624 px
 
 .. |IMG42| image:: static/Gestione_dei_contenuti_[Federica]_39.png
+   :height: 646 px
+   :width: 552 px
+
+.. |IMG43| image:: static/Gestione_dei_contenuti_[Federica]_40.png
    :height: 257 px
    :width: 624 px
 
-.. |IMG43| image:: static/Gestione_dei_contenuti_[Federica]_40.png
+.. |IMG44| image:: static/Gestione_dei_contenuti_[Federica]_41.png
    :height: 550 px
    :width: 376 px
 
-.. |IMG44| image:: static/Gestione_dei_contenuti_[Federica]_41.png
+.. |IMG45| image:: static/Gestione_dei_contenuti_[Federica]_42.png
    :height: 185 px
    :width: 474 px
-
-.. |IMG45| image:: static/Gestione_dei_contenuti_[Federica]_42.png
-   :height: 646 px
-   :width: 552 px
