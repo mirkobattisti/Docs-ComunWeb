@@ -1,75 +1,4 @@
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-| `L’interfaccia del sito <#h2584d795d6359545e183c6111315752>`_
-|     `L'interfaccia del redattore <#h164c2e6e95130701d25620b16353a>`_
-|     `L'interfaccia di amministrazione <#ha4e37692153a2d496546773960565c>`_
-| `Accesso al sistema <#h6e4d39105a64461f4f3377d353919>`_
-| `Gestione del profilo utente <#h45a7b11202953692f35174c5752c5b>`_
-|     `Modifica il tuo profilo <#h254773682e787c2a7342801623527c28>`_
-|     `Gestione delle bozze <#h543db5213201f7057203255d54b46>`_
-| `Gestione dei contenuti <#h1f184e272f67487d30753a697b3c5351>`_
-|     `Informazioni sul contenuto <#h626e518702c7c2b52132a3675f2271>`_
-|     `La barra degli strumenti <#h7c2b7466704f1f106c504a672c3d3750>`_
-|         `Creare un nuovo contenuto <#h446e1e74f406341a17187e2023342b>`_
-|         `Modificare un contenuto esistente <#h623b12807a5967151285b15636b763e>`_
-|         `Spostare un contenuto <#h6f797b5ae124496622133f2621740>`_
-|         `Eliminare un contenuto <#h5e68755539e37045648426c163d17>`_
-|         `Recuperare del contenuto dal cestino <#h7df7c776b4051050602379363f7c45>`_
-|         `Visualizzare un contenuto in più posti <#h2240736754442d35296a627136282576>`_
-|         `Ordinare un elenco di contenuti <#h186d3e232255c2d71724e1d376f4d6c>`_
-|     `Gestire la pubblicazione di un contenuto <#h767585962235668053c5e40387877>`_
-|         `Pubblicare un contenuto <#h3a185351287965787e58745836626238>`_
-|         `Salvare una bozza <#h135b1173858785b746a581212b213a>`_
-|         `Annullare una bozza <#hf307a4b362627629761f2e7d26b63>`_
-|     `Gestire le versioni di un contenuto <#h803704e74727f3f1969533867f4b16>`_
-|         `Ripristinare una versione precedente di un oggetto <#h709111e6d7c634a5217577b23a7033>`_
-| `Il menù principale <#h2939163554334774451b95757d5c2a>`_
-| `Classi di contenuto <#h2878256a793dd584a14e7776663c4a>`_
-|     `Pagina del sito <#h45157173d5d196e7e2f554452e2a7b>`_
-|         `Modalità di visualizzazione dei figli <#ha74627d763497d63d685d57631276>`_
-|     `Organigramma <#h112e363548804723d644a25d2e5020>`_
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h446b242f2a1d781506c12a461e6823:
-
-Guida all’utilizzo
-##################
-
-La seguente Guida all’utilizzo fornisce informazioni su come utilizzare le funzioni dell'interfaccia del redattore, per quanto riguarda tutti i siti della suite OpenPA (OpenCity, OpenTrasparenza) che si basano sulla piattaforma eZ Publish.
-
 .. _h2584d795d6359545e183c6111315752:
 
 L’interfaccia del sito
@@ -168,10 +97,10 @@ Gestione dei contenuti
 
 Questa sezione spiega come aggiungere, modificare e rimuovere contenuti utilizzando l'\ |LINK8|\ . Per gestire il contenuto, è necessario aver effettuato l'\ |LINK9|\  con diritti di modifica (per impostazione predefinita, bisogna essere un membro dei gruppi Editors o Administrators).
 
-.. _h626e518702c7c2b52132a3675f2271:
+.. _h2878256a793dd584a14e7776663c4a:
 
-Informazioni sul contenuto
-==========================
+Classi di contenuto
+===================
 
 OpenCity e OpenTrasparenza supportano vari tipi di contenuto, come immagini, articoli, file multimediali, forum, moduli di feedback, ecc. Un particolare tipo di contenuto è chiamato una \ |STYLE11|\ , mentre uno specifico contenuto è chiamato \ |STYLE12|\ .
 
