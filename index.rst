@@ -58,3 +58,8 @@ OpenPA è un \ |STYLE1|\  (basato sulla piattaforma Open Source eZ Publish) orie
 
     <a href="https://manuale-stanza-del-cittadino.readthedocs.io" target="_blank">Manuale Stanza del Cittadino</a>
 
+
+.. toctree::
+
+    gestione_contenuti.rst
+
