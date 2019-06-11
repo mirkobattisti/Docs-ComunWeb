@@ -903,9 +903,9 @@ Quando cerchi un determinato nodo (in genere perché vuoi fare qualcosa con esso
 Gestire i conflitti di modifica
 ===============================
 
-Durante l’attività di gestione dei contenuti, soprattutto nei casi in cui più persone lavorano sugli stessi contenuti, può capitare che ci si imbatta in un messaggio che segnala un \ |STYLE127|\  del contenuto. 
+Durante l’attività di gestione dei contenuti, soprattutto nei casi in cui più persone lavorano su uno stesso contenuto, può capitare che ci si imbatta in un messaggio che segnala un \ |STYLE127|\  del contenuto. 
 
-Questo di solito accade quando due persone stanno cercando di lavorare sullo stesso oggetto, oppure quando qualcuno ha lasciato una bozza aperta. Il messaggio di "possibile conflitto di modifica" del contenuto è il seguente:
+Questo di solito accade quando due persone stanno cercando di lavorare sullo stesso oggetto, oppure quando qualcuno ha lasciato una bozza aperta. Il messaggio di possibile conflitto di modifica del contenuto è il seguente:
 
 \ |IMG67|\ 
 
@@ -918,7 +918,7 @@ Problema di bozza non pubblicata: stesso utente
 
 A volte, quando si modifica un contenuto, può capitare di chiudere accidentalmente il browser, di uscire dall’interfaccia di modifica utilizzando il tasto “Indietro” del proprio browser oppure semplicemente di fare clic sul pulsante "Salva bozza e esci". 
 
-Quello che succede, in questi casi, è che il sistema salva una bozza (n. 55) di quell’oggetto che si stava modificando, anche se questa non è stata pubblicata (la versione pubblicata è la numero 54). Ogni volta che proverai a modificare di nuovo l'oggetto, il sistema ti avviserà di questo. 
+Quello che succede, in questi casi, è che il sistema salva una bozza (n. 55) di quell’oggetto che si stava modificando. Ogni volta che proverai a modificare di nuovo l'oggetto, il sistema ti avviserà di questo. 
 
 L'immagine seguente mostra come appare questo avvertimento.
 
@@ -926,43 +926,39 @@ L'immagine seguente mostra come appare questo avvertimento.
 
 \ |STYLE128|\ 
 
-Il sistema sta semplicemente cercando di dirti che hai già iniziato a modificare questo oggetto ma non hai ancora pubblicato il contenuto. Tieni presente che potresti aver lasciato diverse bozze. In tal caso, la finestra sotto l'avviso mostrerà tutte le bozze non pubblicate per questo oggetto.
+Il sistema sta semplicemente cercando di dirti che hai già iniziato a modificare questo oggetto ma non ne hai ancora pubblicato il contenuto. Tieni presente che potresti aver lasciato aperte diverse bozze. In tal caso, la finestra sotto l'avviso ti mostrerà tutte le bozze non pubblicate relative a questo oggetto.
 
 \ |STYLE129|\ 
 
 * È possibile selezionare una delle bozze (es.: n. 55) e modificarla utilizzando il pulsante \ |STYLE130|\ . Questo è l'approccio più comunemente usato poiché di solito c'è solo una bozza non pubblicata. Se ci sono diverse bozze non pubblicate, dovresti rimuoverle per evitare ulteriori conflitti. Inoltre, dovresti selezionare la bozza più recente da modificare per continuare a lavorare sulla versione più aggiornata.
 
-* Puoi creare una nuova bozza facendo clic sul pulsante \ |STYLE131|\  e modificarla (in questo caso verrà creata una nuova bozza, n. 56). Tuttavia, tieni presente che la nuova bozza sarà una copia della versione pubblicata. La bozza che causa il conflitto può contenere informazioni aggiornate/nuove. Se crei una nuova bozza, dovresti anche assicurarti di rimuovere quella che causa il conflitto.
-
-* Il pulsante \ |STYLE132|\  cancellerà semplicemente l'intera operazione di modifica e il sistema verrà lasciato nello stesso stato di quando si è tentato di modificare l'oggetto. In altre parole: non verranno apportate modifiche.
+* Puoi creare una nuova bozza facendo clic sul pulsante \ |STYLE131|\  e modificarla (in questo caso verrà creata una nuova bozza, n. 56). Tuttavia, tieni presente che la nuova bozza sarà una copia della versione pubblicata. La bozza che causa il conflitto (n. 55) potrebbe contenere informazioni aggiornate/nuove. Se crei una nuova bozza, dovresti quindi assicurarti di rimuovere quella che causa il conflitto.
 
 .. _h3d1e5544627c675e624125803d704853:
 
 Problema di bozza non pubblicata: utente diverso
 ------------------------------------------------
 
-A volte, può capitare che qualcun altro stia modificando lo stesso oggetto che vorresti modificare tu. Potrebbe essere che l'altra persona lo stia modificando nello stesso momento, o che l'altra persona abbia lasciato una bozza aperta (5). In tutti questi casi, quando proverai a modificare lo stesso oggetto, il sistema mostrerà un avviso che indica che esiste un conflitto di modifica.
+A volte, può capitare che qualcun altro stia modificando lo stesso oggetto che vorresti modificare tu. Potrebbe essere che l'altra persona lo stia modificando proprio in quel momento, oppure che l'altra persona abbia lasciato una bozza aperta (5). In tutti questi casi, quando proverai a modificare lo stesso oggetto, il sistema mostrerà un avviso che indica che esiste un conflitto di modifica.
 
 \ |IMG69|\ 
 
-Il sistema sta semplicemente cercando di dirti che dovresti stare attento, perché qualcun altro sta lavorando sullo stesso oggetto. Si noti che potrebbero esserci diverse bozze nell'elenco. Tuttavia, il caso più comune è che ce n'è una sola. A differenza dello scenario precedente, non è possibile modificare la bozza (che causa il conflitto) perché \ |STYLE133|\ .
+Il sistema sta semplicemente cercando di dirti che dovresti stare attento, perché qualcun altro sta lavorando sullo stesso oggetto. Si noti che potrebbero esserci diverse bozze nell'elenco. Tuttavia, il caso più comune è che ce n'è una sola. A differenza dello scenario precedente, non è possibile modificare la bozza (che causa il conflitto) perché \ |STYLE132|\ .
 
-\ |STYLE134|\ 
+\ |STYLE133|\ 
 
-* Puoi creare una nuova bozza facendo clic sul pulsante \ |STYLE135|\  e modificarla. Tuttavia, tieni presente che la nuova bozza sarà una copia della versione pubblicata (n. 4). La bozza che causa il conflitto può contenere informazioni aggiornate/nuove. Ti consigliamo in questo caso di \ |STYLE136|\ . Se decidi invece di procedere nella creazione di una nuova bozza (n. 6) devi essere consapevole che le modifiche apportate da te potrebbe essere sovrascritte nel momento in cui la persona che sta modificando la bozza n. 5 decide di pubblicarla.
-
-* Il pulsante \ |STYLE137|\  cancellerà semplicemente l'intera operazione di modifica e il sistema verrà lasciato nello stesso stato di quando si è tentato di modificare l'oggetto. In altre parole: non verranno apportate modifiche.
+* Puoi creare una nuova bozza facendo clic sul pulsante \ |STYLE134|\  e modificarla. Tuttavia, tieni presente che la nuova bozza sarà una copia della versione pubblicata (n. 4). La bozza che causa il conflitto (n. 5) potrebbe contenere informazioni aggiornate/nuove. Ti consigliamo in questo caso di \ |STYLE135|\ . Se decidi invece di procedere nella creazione di una nuova bozza (n. 6) devi essere consapevole che le modifiche apportate da te potrebbe essere sovrascritte nel momento in cui la persona che sta modificando la bozza n. 5 decide di pubblicarla.
 
 .. _h38237735744066156f5e8321b21501b:
 
 Problema di bozza non pubblicata: più utenti compreso te
 --------------------------------------------------------
 
-A volte, può capitare che qualcun altro stia modificando lo stesso oggetto che desideri modificare. Inoltre, potrebbero esserci ulteriori bozze che sono state lasciate aperte durante l’operazione di modifica di una pagina. In questo caso, l'interfaccia di amministrazione mostrerà un avviso simile a quelli mostrati nei casi precedenti.
+A volte, può capitare che qualcun altro stia modificando lo stesso oggetto che desideri modificare. Inoltre, potrebbero esserci ulteriori bozze che sono state lasciate aperte da te durante l’operazione di modifica di una pagina. In questo caso, l'interfaccia di amministrazione mostrerà un avviso simile a quelli mostrati nei casi precedenti.
 
 \ |IMG70|\ 
 
-In questo caso, ti consigliamo di contattare l'altra persona prima di fare qualsiasi altra cosa e/o di sbarazzarti delle tue bozze aperte, se necessario.
+In questo caso, ti consigliamo di \ |STYLE136|\  e/o di sbarazzarti delle tue bozze aperte, se necessario.
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -1237,17 +1233,15 @@ In questo caso, ti consigliamo di contattare l'altra persona prima di fare quals
 
 .. |STYLE131| replace:: **Nuova bozza**
 
-.. |STYLE132| replace:: **Annulla**
+.. |STYLE132| replace:: **appartiene a un altro utente**
 
-.. |STYLE133| replace:: **appartiene a un altro utente**
+.. |STYLE133| replace:: **Possibili soluzioni**
 
-.. |STYLE134| replace:: **Possibili soluzioni**
+.. |STYLE134| replace:: **Nuova bozza**
 
-.. |STYLE135| replace:: **Nuova bozza**
+.. |STYLE135| replace:: **contattare la persona a cui appartiene la bozza esistente prima di apportare ulteriori modifiche**
 
-.. |STYLE136| replace:: **contattare la persona a cui appartiene la bozza esistente prima di apportare ulteriori modifiche**
-
-.. |STYLE137| replace:: **Annulla**
+.. |STYLE136| replace:: **contattare l'altra persona prima di fare qualsiasi altra cosa**
 
 
 .. |LINK1| raw:: html
