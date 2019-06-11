@@ -1334,282 +1334,282 @@ In questo caso, ti consigliamo di \ |STYLE136|\  e/o di sbarazzarti delle tue bo
     <a href="#heading=h.joqishgpytei">albero</a>
 
 
-.. |IMG1| image:: static/Gestione_dei_contenuti_[Federica]_1.png
+.. |IMG1| image:: static/2_1.png
    :height: 441 px
    :width: 624 px
 
-.. |IMG2| image:: static/Gestione_dei_contenuti_[Federica]_2.png
+.. |IMG2| image:: static/2_2.png
    :height: 188 px
    :width: 344 px
 
-.. |IMG3| image:: static/Gestione_dei_contenuti_[Federica]_3.png
+.. |IMG3| image:: static/2_3.png
    :height: 188 px
    :width: 344 px
 
-.. |IMG4| image:: static/Gestione_dei_contenuti_[Federica]_4.png
+.. |IMG4| image:: static/2_4.png
    :height: 178 px
    :width: 561 px
 
-.. |IMG5| image:: static/Gestione_dei_contenuti_[Federica]_5.png
+.. |IMG5| image:: static/2_5.png
    :height: 40 px
    :width: 624 px
 
-.. |IMG6| image:: static/Gestione_dei_contenuti_[Federica]_6.png
+.. |IMG6| image:: static/2_6.png
    :height: 253 px
    :width: 624 px
 
-.. |IMG7| image:: static/Gestione_dei_contenuti_[Federica]_7.png
+.. |IMG7| image:: static/2_7.png
    :height: 41 px
    :width: 624 px
 
-.. |IMG8| image:: static/Gestione_dei_contenuti_[Federica]_8.jpeg
+.. |IMG8| image:: static/2_8.jpeg
    :height: 309 px
    :width: 624 px
 
-.. |IMG9| image:: static/Gestione_dei_contenuti_[Federica]_9.png
+.. |IMG9| image:: static/2_9.png
    :height: 38 px
    :width: 624 px
 
-.. |IMG10| image:: static/Gestione_dei_contenuti_[Federica]_10.png
+.. |IMG10| image:: static/2_10.png
    :height: 117 px
    :width: 602 px
 
-.. |IMG11| image:: static/Gestione_dei_contenuti_[Federica]_11.png
+.. |IMG11| image:: static/2_11.png
    :height: 576 px
    :width: 624 px
 
-.. |IMG12| image:: static/Gestione_dei_contenuti_[Federica]_12.png
+.. |IMG12| image:: static/2_12.png
    :height: 217 px
    :width: 624 px
 
-.. |IMG13| image:: static/Gestione_dei_contenuti_[Federica]_13.png
+.. |IMG13| image:: static/2_13.png
    :height: 106 px
    :width: 624 px
 
-.. |IMG14| image:: static/Gestione_dei_contenuti_[Federica]_14.png
+.. |IMG14| image:: static/2_14.png
    :height: 381 px
    :width: 174 px
 
-.. |IMG15| image:: static/Gestione_dei_contenuti_[Federica]_15.png
+.. |IMG15| image:: static/2_15.png
    :height: 78 px
    :width: 402 px
 
-.. |IMG16| image:: static/Gestione_dei_contenuti_[Federica]_16.png
+.. |IMG16| image:: static/2_16.png
    :height: 204 px
    :width: 613 px
 
-.. |IMG17| image:: static/Gestione_dei_contenuti_[Federica]_17.png
+.. |IMG17| image:: static/2_17.png
    :height: 62 px
    :width: 380 px
 
-.. |IMG18| image:: static/Gestione_dei_contenuti_[Federica]_18.png
+.. |IMG18| image:: static/2_18.png
    :height: 48 px
    :width: 624 px
 
-.. |IMG19| image:: static/Gestione_dei_contenuti_[Federica]_19.png
+.. |IMG19| image:: static/2_19.png
    :height: 341 px
    :width: 313 px
 
-.. |IMG20| image:: static/Gestione_dei_contenuti_[Federica]_20.png
+.. |IMG20| image:: static/2_20.png
    :height: 224 px
    :width: 429 px
 
-.. |IMG21| image:: static/Gestione_dei_contenuti_[Federica]_21.png
+.. |IMG21| image:: static/2_21.png
    :height: 49 px
    :width: 624 px
 
-.. |IMG22| image:: static/Gestione_dei_contenuti_[Federica]_21.png
+.. |IMG22| image:: static/2_21.png
    :height: 49 px
    :width: 624 px
 
-.. |IMG23| image:: static/Gestione_dei_contenuti_[Federica]_22.png
+.. |IMG23| image:: static/2_22.png
    :height: 22 px
    :width: 624 px
 
-.. |IMG24| image:: static/Gestione_dei_contenuti_[Federica]_23.png
+.. |IMG24| image:: static/2_23.png
    :height: 208 px
    :width: 560 px
 
-.. |IMG25| image:: static/Gestione_dei_contenuti_[Federica]_24.png
+.. |IMG25| image:: static/2_24.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG26| image:: static/Gestione_dei_contenuti_[Federica]_25.png
+.. |IMG26| image:: static/2_25.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG27| image:: static/Gestione_dei_contenuti_[Federica]_26.png
+.. |IMG27| image:: static/2_26.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG28| image:: static/Gestione_dei_contenuti_[Federica]_27.png
+.. |IMG28| image:: static/2_27.png
    :height: 368 px
    :width: 624 px
 
-.. |IMG29| image:: static/Gestione_dei_contenuti_[Federica]_28.png
+.. |IMG29| image:: static/2_28.png
    :height: 813 px
    :width: 601 px
 
-.. |IMG30| image:: static/Gestione_dei_contenuti_[Federica]_29.png
+.. |IMG30| image:: static/2_29.png
    :height: 916 px
    :width: 550 px
 
-.. |IMG31| image:: static/Gestione_dei_contenuti_[Federica]_30.png
+.. |IMG31| image:: static/2_30.png
    :height: 153 px
    :width: 624 px
 
-.. |IMG32| image:: static/Gestione_dei_contenuti_[Federica]_31.png
+.. |IMG32| image:: static/2_31.png
    :height: 41 px
    :width: 624 px
 
-.. |IMG33| image:: static/Gestione_dei_contenuti_[Federica]_32.png
+.. |IMG33| image:: static/2_32.png
    :height: 193 px
    :width: 349 px
 
-.. |IMG34| image:: static/Gestione_dei_contenuti_[Federica]_33.png
+.. |IMG34| image:: static/2_33.png
    :height: 134 px
    :width: 434 px
 
-.. |IMG35| image:: static/Gestione_dei_contenuti_[Federica]_34.png
+.. |IMG35| image:: static/2_34.png
    :height: 46 px
    :width: 624 px
 
-.. |IMG36| image:: static/Gestione_dei_contenuti_[Federica]_35.png
+.. |IMG36| image:: static/2_35.png
    :height: 46 px
    :width: 624 px
 
-.. |IMG37| image:: static/Gestione_dei_contenuti_[Federica]_36.png
+.. |IMG37| image:: static/2_36.png
    :height: 352 px
    :width: 624 px
 
-.. |IMG38| image:: static/Gestione_dei_contenuti_[Federica]_37.png
+.. |IMG38| image:: static/2_37.png
    :height: 352 px
    :width: 624 px
 
-.. |IMG39| image:: static/Gestione_dei_contenuti_[Federica]_38.png
+.. |IMG39| image:: static/2_38.png
    :height: 42 px
    :width: 624 px
 
-.. |IMG40| image:: static/Gestione_dei_contenuti_[Federica]_39.png
+.. |IMG40| image:: static/2_39.png
    :height: 228 px
    :width: 602 px
 
-.. |IMG41| image:: static/Gestione_dei_contenuti_[Federica]_40.png
+.. |IMG41| image:: static/2_40.png
    :height: 238 px
    :width: 624 px
 
-.. |IMG42| image:: static/Gestione_dei_contenuti_[Federica]_41.png
+.. |IMG42| image:: static/2_41.png
    :height: 201 px
    :width: 188 px
 
-.. |IMG43| image:: static/Gestione_dei_contenuti_[Federica]_42.png
+.. |IMG43| image:: static/2_42.png
    :height: 46 px
    :width: 624 px
 
-.. |IMG44| image:: static/Gestione_dei_contenuti_[Federica]_43.png
+.. |IMG44| image:: static/2_43.png
    :height: 317 px
    :width: 624 px
 
-.. |IMG45| image:: static/Gestione_dei_contenuti_[Federica]_44.png
+.. |IMG45| image:: static/2_44.png
    :height: 317 px
    :width: 624 px
 
-.. |IMG46| image:: static/Gestione_dei_contenuti_[Federica]_45.png
+.. |IMG46| image:: static/2_45.png
    :height: 42 px
    :width: 624 px
 
-.. |IMG47| image:: static/Gestione_dei_contenuti_[Federica]_46.png
+.. |IMG47| image:: static/2_46.png
    :height: 364 px
    :width: 624 px
 
-.. |IMG48| image:: static/Gestione_dei_contenuti_[Federica]_47.png
+.. |IMG48| image:: static/2_47.png
    :height: 305 px
    :width: 624 px
 
-.. |IMG49| image:: static/Gestione_dei_contenuti_[Federica]_48.png
+.. |IMG49| image:: static/2_48.png
    :height: 42 px
    :width: 492 px
 
-.. |IMG50| image:: static/Gestione_dei_contenuti_[Federica]_49.png
+.. |IMG50| image:: static/2_49.png
    :height: 45 px
    :width: 496 px
 
-.. |IMG51| image:: static/Gestione_dei_contenuti_[Federica]_50.png
+.. |IMG51| image:: static/2_50.png
    :height: 45 px
    :width: 496 px
 
-.. |IMG52| image:: static/Gestione_dei_contenuti_[Federica]_51.png
+.. |IMG52| image:: static/2_51.png
    :height: 142 px
    :width: 624 px
 
-.. |IMG53| image:: static/Gestione_dei_contenuti_[Federica]_52.png
+.. |IMG53| image:: static/2_52.png
    :height: 42 px
    :width: 492 px
 
-.. |IMG54| image:: static/Gestione_dei_contenuti_[Federica]_25.png
+.. |IMG54| image:: static/2_25.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG55| image:: static/Gestione_dei_contenuti_[Federica]_26.png
+.. |IMG55| image:: static/2_26.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG56| image:: static/Gestione_dei_contenuti_[Federica]_53.png
+.. |IMG56| image:: static/2_53.png
    :height: 29 px
    :width: 624 px
 
-.. |IMG57| image:: static/Gestione_dei_contenuti_[Federica]_54.png
+.. |IMG57| image:: static/2_54.png
    :height: 240 px
    :width: 624 px
 
-.. |IMG58| image:: static/Gestione_dei_contenuti_[Federica]_55.png
+.. |IMG58| image:: static/2_55.png
    :height: 204 px
    :width: 624 px
 
-.. |IMG59| image:: static/Gestione_dei_contenuti_[Federica]_56.png
+.. |IMG59| image:: static/2_56.png
    :height: 190 px
    :width: 624 px
 
-.. |IMG60| image:: static/Gestione_dei_contenuti_[Federica]_57.jpeg
+.. |IMG60| image:: static/2_57.jpeg
    :height: 201 px
    :width: 600 px
 
-.. |IMG61| image:: static/Gestione_dei_contenuti_[Federica]_58.png
+.. |IMG61| image:: static/2_58.png
    :height: 258 px
    :width: 600 px
 
-.. |IMG62| image:: static/Gestione_dei_contenuti_[Federica]_59.png
+.. |IMG62| image:: static/2_59.png
    :height: 18 px
    :width: 600 px
 
-.. |IMG63| image:: static/Gestione_dei_contenuti_[Federica]_60.png
+.. |IMG63| image:: static/2_60.png
    :height: 149 px
    :width: 600 px
 
-.. |IMG64| image:: static/Gestione_dei_contenuti_[Federica]_61.png
+.. |IMG64| image:: static/2_61.png
    :height: 64 px
    :width: 168 px
 
-.. |IMG65| image:: static/Gestione_dei_contenuti_[Federica]_62.png
+.. |IMG65| image:: static/2_62.png
    :height: 64 px
    :width: 165 px
 
-.. |IMG66| image:: static/Gestione_dei_contenuti_[Federica]_63.png
+.. |IMG66| image:: static/2_63.png
    :height: 313 px
    :width: 616 px
 
-.. |IMG67| image:: static/Gestione_dei_contenuti_[Federica]_64.png
+.. |IMG67| image:: static/2_64.png
    :height: 204 px
    :width: 624 px
 
-.. |IMG68| image:: static/Gestione_dei_contenuti_[Federica]_65.png
+.. |IMG68| image:: static/2_65.png
    :height: 222 px
    :width: 624 px
 
-.. |IMG69| image:: static/Gestione_dei_contenuti_[Federica]_66.png
+.. |IMG69| image:: static/2_66.png
    :height: 204 px
    :width: 624 px
 
-.. |IMG70| image:: static/Gestione_dei_contenuti_[Federica]_67.png
+.. |IMG70| image:: static/2_67.png
    :height: 228 px
    :width: 624 px
