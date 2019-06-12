@@ -1,8 +1,8 @@
 
-.. _hd759192e2e61373d44567e1748202a:
+.. _h50f222f584470655b17a9783d1046:
 
-Gestire i contenuti: l’interfaccia del redattore
-************************************************
+Gestisci i contenuti: l’interfaccia del redattore
+*************************************************
 
 .. _hf464843526245477320527c5120671:
 
