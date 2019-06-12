@@ -1,9 +1,4 @@
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h472425424a674c4f672e6655245d6f:
 
 Funzionalità di OpenCity
@@ -393,46 +388,46 @@ Dopo aver apportato una modifica al menu, o ai contenuti che fanno parte del men
     <a href="https://manuale-opencity.readthedocs.io/it/latest/gestione_contenuti.html#modificare-un-contenuto-esistente" target="_blank">Modificare un contenuto esistente</a>
 
 
-.. |IMG1| image:: static/Manuale_OpenCity_[Federica]_1.png
+.. |IMG1| image:: static/2_1.png
    :height: 326 px
    :width: 624 px
 
-.. |IMG2| image:: static/Manuale_OpenCity_[Federica]_2.png
+.. |IMG2| image:: static/2_2.png
    :height: 102 px
    :width: 624 px
 
-.. |IMG3| image:: static/Manuale_OpenCity_[Federica]_3.png
+.. |IMG3| image:: static/2_3.png
    :height: 646 px
    :width: 552 px
 
-.. |IMG4| image:: static/Manuale_OpenCity_[Federica]_4.png
+.. |IMG4| image:: static/2_4.png
    :height: 257 px
    :width: 624 px
 
-.. |IMG5| image:: static/Manuale_OpenCity_[Federica]_5.png
+.. |IMG5| image:: static/2_5.png
    :height: 550 px
    :width: 376 px
 
-.. |IMG6| image:: static/Manuale_OpenCity_[Federica]_6.png
+.. |IMG6| image:: static/2_6.png
    :height: 185 px
    :width: 474 px
 
-.. |IMG7| image:: static/Manuale_OpenCity_[Federica]_6.png
+.. |IMG7| image:: static/2_6.png
    :height: 185 px
    :width: 474 px
 
-.. |IMG8| image:: static/Manuale_OpenCity_[Federica]_7.png
+.. |IMG8| image:: static/2_7.png
    :height: 184 px
    :width: 624 px
 
-.. |IMG9| image:: static/Manuale_OpenCity_[Federica]_8.png
+.. |IMG9| image:: static/2_8.png
    :height: 261 px
    :width: 624 px
 
-.. |IMG10| image:: static/Manuale_OpenCity_[Federica]_9.png
+.. |IMG10| image:: static/2_9.png
    :height: 306 px
    :width: 624 px
 
-.. |IMG11| image:: static/Manuale_OpenCity_[Federica]_10.png
+.. |IMG11| image:: static/2_10.png
    :height: 45 px
    :width: 564 px
