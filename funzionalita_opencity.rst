@@ -1,15 +1,50 @@
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+| `Funzionalità di OpenCity <#h472425424a674c4f672e6655245d6f>`_
+|     `Aspetto estetico del sito web <#h6f5150673f2401a4b21804d4b464224>`_
+|     `Classi di contenuto <#h2878256a793dd584a14e7776663c4a>`_
+|         `Pagina del sito <#h45157173d5d196e7e2f554452e2a7b>`_
+|             `Modalità di visualizzazione dei figli <#ha74627d763497d63d685d57631276>`_
+|         `Organigramma <#h112e363548804723d644a25d2e5020>`_
+|             `Come funziona <#h201f103596e646a163d386454463551>`_
+|             `Creare un organigramma <#h4a505c44654d271f804d3844784d4d40>`_
+|             `Costruire un organigramma <#h7c175c3c7122d68524e227c661942>`_
+|             `Aggiornare l’organigramma <#h44f04f9252cf3f57f65364f5d66>`_
+|         `Menu principale <#h56733513cc4274f186abd7f4548>`_
+|             `Modificare il menu principale <#h19761121312e4621493e1172595d3630>`_
+|             `Aggiornare il menu principale <#h5ec6c6f634d3d4b16575d7d7a465e>`_
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h472425424a674c4f672e6655245d6f:
 
 Funzionalità di OpenCity
 ************************
+
+.. _h6f5150673f2401a4b21804d4b464224:
+
+Aspetto estetico del sito web
+=============================
+
+Dal punto di vista del design, un sito web basato su \ |STYLE0|\  è allineato all’iniziativa \ |LINK1|\ . Il sito risulta accessibile e ottimizzato per la lettura da dispositivi mobili (smartphone, tablet)
+
+\ |IMG1|\ 
+
+\ |STYLE1|\ 
 
 .. _h2878256a793dd584a14e7776663c4a:
 
 Classi di contenuto
 ===================
 
-In totale nel sistema OpenCity sono presenti circa \ |STYLE0|\ .
+In totale nel sistema OpenCity sono presenti circa \ |STYLE2|\ .
 
 A titolo esemplificativo, vengono elencate sotto alcune delle più rilevanti classi di contenuto, suddivise per tipologia:
 
@@ -17,32 +52,16 @@ A titolo esemplificativo, vengono elencate sotto alcune delle più rilevanti cla
 +-------------+------------------------------------------------------------------------------------------------------+
 |Comunicazione|Avviso, Calendario, Comunicato stampa, Evento                                                         |
 +-------------+------------------------------------------------------------------------------------------------------+
-|\ |STYLE1|\  |Area tematica, Cartella, Frontpage, Homepage, Pagina del sito                                         |
+|\ |STYLE3|\  |Area tematica, Cartella, Frontpage, Homepage, Pagina del sito                                         |
 +-------------+------------------------------------------------------------------------------------------------------+
-|\ |STYLE2|\  |Circolare, Disciplinare, Modulistica, Procedura, Utilità                                              |
+|\ |STYLE4|\  |Circolare, Disciplinare, Modulistica, Procedura, Utilità                                              |
 +-------------+------------------------------------------------------------------------------------------------------+
-|\ |STYLE3|\  |Area, Organigramma, Ruolo, Servizio, Struttura, Ufficio                                               |
+|\ |STYLE5|\  |Area, Organigramma, Ruolo, Servizio, Struttura, Ufficio                                               |
 +-------------+------------------------------------------------------------------------------------------------------+
-|\ |STYLE4|\  |Gruppo consiliare, Interpellanza, Interrogazione, Lista elettorale, Organo Politico, Politico, Sindaco|
+|\ |STYLE6|\  |Gruppo consiliare, Interpellanza, Interrogazione, Lista elettorale, Organo Politico, Politico, Sindaco|
 +-------------+------------------------------------------------------------------------------------------------------+
-|\ |STYLE5|\  |Associazione, Azienda, Punto di interesse, Servizio sul territorio, Struttura ricettiva               |
+|\ |STYLE7|\  |Associazione, Azienda, Punto di interesse, Servizio sul territorio, Struttura ricettiva               |
 +-------------+------------------------------------------------------------------------------------------------------+
-
-.. _h6f5150673f2401a4b21804d4b464224:
-
-Aspetto estetico del sito web
-=============================
-
-Dal punto di vista del design, un sito web basato su \ |STYLE6|\  è allineato all’iniziativa \ |LINK1|\ . Il sito risulta accessibile e ottimizzato per la lettura da dispositivi mobili (smartphone, tablet)
-
-\ |IMG1|\ 
-
-\ |STYLE7|\ 
-
-.. _h2878256a793dd584a14e7776663c4a:
-
-Classi di contenuto
-===================
 
 La seguenti sezione descrive alcune classe di contenuto disponibili nei siti OpenPA. Come descritto sopra, l'elenco delle classi di contenuti visualizzate nell'elenco a discesa varia in base all'oggetto di contenuto attualmente visualizzato e se si è effettuato l'accesso con un account utente che appartiene a un gruppo di Editor o Amministratori.
 
@@ -58,7 +77,7 @@ Per \ |LINK4|\ , selezionare Pagina del sito dal menu a discesa nella \ |LINK5|\
 .. _ha74627d763497d63d685d57631276:
 
 Modalità di visualizzazione dei figli
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Una volta inseriti i contenuti sotto una pagina del sito, è possibile selezionare il tipo di visualizzazione da applicare ai figli: questo offre diverse possibilità a seconda dello scopo della pagina.
 
@@ -103,20 +122,15 @@ Le scelte possibili sono:
 
 
 
-.. _h1658185d7958376a785540316d3c5a5c:
-
-Attività del redattore
-**********************
-
 .. _h112e363548804723d644a25d2e5020:
 
 Organigramma
-============
+------------
 
 .. _h201f103596e646a163d386454463551:
 
 Come funziona
--------------
+~~~~~~~~~~~~~
 
 La visualizzazione di un Organigramma viene gestita partendo da una serie di oggetti e dalle relazioni che intercorrono tra di loro.
 
@@ -148,7 +162,7 @@ Potrebbero esserci casi (enti di piccole dimensioni) in cui non ci siano tre liv
 .. _h4a505c44654d271f804d3844784d4d40:
 
 Creare un organigramma
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 Se non già presente sul sistema OpenCity un oggetto di tipo Organigramma è necessario crearne uno utilizzando proprio la classe di contenuto \ |STYLE22|\ . 
 
@@ -157,7 +171,7 @@ Per creare un oggetto di tipo Organigramma vedere la sezione \ |LINK8|\ .
 .. _h7c175c3c7122d68524e227c661942:
 
 Costruire un organigramma
--------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per costruire l’organigramma della tua struttura è necessario seguire i seguenti passi:
 
@@ -179,7 +193,7 @@ Per costruire l’organigramma della tua struttura è necessario seguire i segue
 .. _h637805d197e7916372a6784062275a:
 
 Aggiornare l’organigramma 
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per aggiornare l’organigramma relativo alla tua struttura è necessario seguire i seguenti passi:
 
@@ -201,12 +215,12 @@ Per aggiornare l’organigramma relativo alla tua struttura è necessario seguir
 .. _h56733513cc4274f186abd7f4548:
 
 Menu principale
-===============
+---------------
 
 .. _h19761121312e4621493e1172595d3630:
 
 Modificare il menu principale
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \ |IMG8|\ 
 
@@ -236,7 +250,7 @@ Dopo aver apportato le modifiche desiderate, cliccare sul pulsante \ |STYLE40|\ 
 .. _h5ec6c6f634d3d4b16575d7d7a465e:
 
 Aggiornare il menu principale
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \ |IMG11|\ 
 
@@ -246,21 +260,21 @@ Dopo aver apportato una modifica al menu, o ai contenuti che fanno parte del men
 .. bottom of content
 
 
-.. |STYLE0| replace:: **200 classi di contenuto**
+.. |STYLE0| replace:: **OpenCity**
 
-.. |STYLE1| replace:: **Contenitori di base**
+.. |STYLE1| replace:: *Il Design di Open City è allineato a Design Italia*
 
-.. |STYLE2| replace:: **Intranet**
+.. |STYLE2| replace:: **200 classi di contenuto**
 
-.. |STYLE3| replace:: **Organizzazione**
+.. |STYLE3| replace:: **Contenitori di base**
 
-.. |STYLE4| replace:: **Politica**
+.. |STYLE4| replace:: **Intranet**
 
-.. |STYLE5| replace:: **Territorio**
+.. |STYLE5| replace:: **Organizzazione**
 
-.. |STYLE6| replace:: **OpenCity**
+.. |STYLE6| replace:: **Politica**
 
-.. |STYLE7| replace:: *Il Design di Open City è allineato a Design Italia*
+.. |STYLE7| replace:: **Territorio**
 
 .. |STYLE8| replace:: **contenitore di contenuti**
 
