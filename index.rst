@@ -16,8 +16,8 @@ Questo \ |STYLE4|\  è una \ |STYLE5|\  all’utilizzo del sistema e alla gestio
 
 
 .. toctree:: 
-        2.funzionalita_opencity.rst
-        1.gestione_contenuti.rst
+        funzionalita_opencity.rst
+        gestione_contenuti.rst
     
 
 
