@@ -53,7 +53,7 @@ Se l’accesso invece va a buon fine, comparirà in alto la \ |STYLE19|\  del re
 .. _h4635145e5a54773a6d9144a52b215e:
 
 Gestisci il tuo profilo utente
-==============================
+******************************
 
 I dettagli personali e le preferenze dell'account associati a un account utente sono chiamati "Profilo utente". Per visualizzare o modificare il tuo profilo utente, puoi utilizzare l'interfaccia del redattore. 
 
@@ -95,10 +95,10 @@ Per eliminare le bozze, fai clic sul pulsante Svuota bozze.
 
 \ |IMG10|\ 
 
-.. _h301f2a6f4b4249437c485c2b4d33627:
+.. _h50f222f584470655b17a9783d1046:
 
-Gestisci i contenuti
-====================
+Gestisci i contenuti: l’interfaccia del redattore
+*************************************************
 
 Questa sezione spiega come gestire i tuoi contenuti attraverso l'\ |STYLE26|\ . 
 
