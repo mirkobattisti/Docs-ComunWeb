@@ -460,7 +460,7 @@ Se invece vuoi eliminare definitivamente un contenuto dal sito vai nella sezione
 .. _hf3471237531973125b384b395d3612:
 
 Gestisci i conflitti di modifica
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------
 
 Durante l’attività di gestione dei contenuti, soprattutto nei casi in cui più persone lavorano su uno stesso contenuto, può capitare che ci si imbatta in un messaggio che segnala un \ |STYLE101|\  del contenuto. 
 
