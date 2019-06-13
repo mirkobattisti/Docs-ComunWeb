@@ -100,14 +100,14 @@ Per eliminare le bozze, fai clic sul pulsante Svuota bozze.
 Gestisci i contenuti: l’interfaccia del redattore
 *************************************************
 
-Questa sezione spiega come gestire i tuoi contenuti attraverso l'\ |STYLE26|\ . 
+Questa sezione spiega come gestire i tuoi contenuti attraverso l’\ |STYLE26|\ . 
 
 Per gestire i contenuti del sito web, è necessario aver effettuato l'accesso come utente con diritti di modifica (per impostazione predefinita, bisogna essere un membro dei gruppi Editor o Amministratori).
 
 .. _h117f26752b3d1b796c432369501ce22:
 
 Il sistema di gestione dei contenuti: come funziona?
-----------------------------------------------------
+====================================================
 
 Tutti i siti web appartenenti alla suite OpenPA, che si basano sulla piattaforma eZ Publish, hanno un forte orientamento alla \ |STYLE27|\ . 
 
@@ -122,7 +122,7 @@ Nota bene: alcune tipologie di contenuto sono in comune tra tutti i prodotti del
 .. _h46721d953744a52045c4d7212313d:
 
 Classe di contenuto
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 Che cos’è una classe di contenuto?
 
@@ -140,7 +140,7 @@ Una \ |STYLE32|\  può essere pensata come un \ |STYLE33|\ . Ad esempio, la clas
 .. _h1d4c543776b648667653d412d7421:
 
 Oggetto di contenuto
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Gli \ |STYLE34|\  possono essere sia \ |STYLE35|\  sia \ |STYLE36|\  che contengono altri oggetti situati al di sotto di essi nell’albero dei contenuti. Ad esempio, uno o più oggetti di tipo \ |STYLE37|\  (\ |STYLE38|\ ) possono essere memorizzati sotto un oggetto di tipo \ |STYLE39|\  (\ |STYLE40|\ ). Quando viene visualizzato l'oggetto \ |STYLE41|\ , questo visualizza automaticamente un elenco di riepilogo degli oggetti di tipo Avviso memorizzati al di sotto di esso.
 
@@ -151,7 +151,7 @@ Oltre alle caratteristiche di visualizzazione definite dal modello di ogni class
 .. _h28216c314279776926c20056637b7:
 
 Attributi
-~~~~~~~~~
+---------
 
 Ogni classe di contenuto è composta da una serie di voci o campi da compilare (\ |STYLE42|\ ) che rappresenta le principali caratteristiche che quel tipo di contenuto ha.
 
@@ -170,7 +170,7 @@ Ogni classe di contenuto è costituita da \ |STYLE46|\  - che variano da una cla
 .. _h10604b402c4d5175152c3fd415e671a:
 
 Tipologie di attributi
-~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
 Alcuni attributi possono essere di tipo “\ |STYLE49|\ ”, perché \ |STYLE50|\ . 
 
@@ -187,14 +187,14 @@ Se il numero dell’ufficio cambia, non è necessario eseguire un tedioso “tro
 .. _h92d5457251d2e4e1d3b3fa7e26d39:
 
 Albero dei contenuti
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 La \ |STYLE53|\  è un concetto importante quando si creano nuovi contenuti. Se si fa affidamento su oggetti di contenuto più in alto nella gerarchia per visualizzare il nuovo contenuto che si sta aggiungendo, è probabile che si desideri aggiungere il nuovo contenuto sotto il contenitore del contenuto. Ad esempio, se si desidera che un oggetto contenuto della cartella visualizzi automaticamente un elenco di articoli, tali articoli devono trovarsi al di sotto dell'oggetto contenuto della cartella. È possibile aggiungere manualmente un collegamento a un articolo nel testo di un oggetto contenuto della cartella; tuttavia, se elimini l'articolo, il link verrà interrotto.
 
 .. _h7c2b7466704f1f106c504a672c3d3750:
 
 La barra degli strumenti
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------
 
 Quando si effettua l'accesso con un account utente appartenente al gruppo Editor o Amministratore, la barra degli strumenti del sito web (mostrata sotto) viene visualizzata in ogni pagina del sito.
 
@@ -249,12 +249,12 @@ La barra degli strumenti permette di eseguire le seguenti operazioni sui contenu
 .. _h532262b6a2d80c102719ed613321:
 
 Per iniziare: le operazioni base
---------------------------------
+================================
 
 .. _h2f523a4e735e676d9226b7f6623535:
 
 Crea un nuovo contenuto
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 \ |IMG16|\ 
 
@@ -287,7 +287,7 @@ Una volta compilati i campi, pubblicare il contenuto oppure salvarlo come bozza.
 .. _h7631603230c4e6c57191d1d127b1c43:
 
 Modifica un contenuto esistente
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 \ |IMG19|\ 
 
@@ -296,7 +296,7 @@ Per modificare un contenuto esistente, è sufficiente \ |STYLE74|\  che si desid
 .. _h6f797b5ae124496622133f2621740:
 
 Spostare un contenuto
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 \ |IMG20|\ 
 
@@ -319,7 +319,7 @@ Dopo aver selezionato la nuova posizione, fare clic sul pulsante \ |STYLE79|\ .
 .. _h2b5a63585b6961744c767b394a355917:
 
 Elimina un contenuto
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 \ |IMG23|\ 
 
@@ -346,7 +346,7 @@ Fai molta attenzione durante la rimozione e l'eliminazione dei contenuti, poich�
 .. _h67762ba147f395535351c1cc1f7a19:
 
 Recupera un contenuto dal cestino
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------
 
 Per recuperare il contenuto rimosso dal contenitore del cestino, accedere all'interfaccia di amministrazione e fare clic sull'icona del cestino sul lato sinistro.
 
@@ -361,7 +361,7 @@ Se si tenta di recuperare un contenuto il cui contenitore originale è stato rim
 .. _h524527367fe522a5d4e1b6476582f43:
 
 Visualizza un contenuto in più posti
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------
 
 \ |IMG27|\ 
 
@@ -380,7 +380,7 @@ Fare clic sui nodi contenitore evidenziati per navigare nell'albero fino a raggi
 .. _h186d3e232255c2d71724e1d376f4d6c:
 
 Ordinare un elenco di contenuti
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 \ |IMG30|\ 
 
@@ -410,12 +410,12 @@ Dopo aver effettuato l’accesso al sistema, individua il contenitore dei conten
 .. _he534b7a5921502b2b7c1a2c22496c10:
 
 Gestisci la pubblicazione di un contenuto
------------------------------------------
+=========================================
 
 .. _h51795a45135634547911028624165a:
 
 Pubblica un contenuto
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 \ |IMG33|\ 
 
@@ -424,7 +424,7 @@ Durante la creazione di un nuovo contenuto o la modifica di un contenuto già es
 .. _h135b1173858785b746a581212b213a:
 
 Salvare una bozza
-~~~~~~~~~~~~~~~~~
+-----------------
 
 \ |IMG34|\ 
 
@@ -443,7 +443,7 @@ Esistono due metodi per recuperare le bozze: accedere alla pagina \ |STYLE97|\  
 .. _h195c6a4b765059a4e3f732775557f52:
 
 Annulla una bozza
-~~~~~~~~~~~~~~~~~
+-----------------
 
 \ |IMG37|\ 
 
@@ -513,7 +513,7 @@ In questo caso, ti consigliamo di \ |STYLE113|\  e/o di sbarazzarti delle tue bo
 .. _h1269667a4b36736232811641473f:
 
 Gestisci le versioni di un contenuto
-------------------------------------
+====================================
 
 Nei siti di OpenPA, ogni contenuto creato viene memorizzato come "\ |STYLE114|\ ". Ad esempio, un articolo è un oggetto, un account utente è un oggetto e così via.
 
@@ -526,7 +526,7 @@ Solo un numero limitato di versioni di ciascun oggetto contenuto viene memorizza
 .. _h1459581b83f6a7331524922d8201f:
 
 Ripristina la versione precedente di un oggetto
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------
 
 Per ripristinare una versione precedente di un oggetto, accedere al sistema, quindi accedere al contenuto che si desidera ripristinare. (Per impostazione predefinita, solo i membri dei gruppi Editor e Administrator hanno accesso a questa funzione.)
 
