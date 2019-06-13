@@ -6,7 +6,7 @@ Manuale OpenCity
 
 Guida per il redattore
 
-OpenCity è un \ |STYLE0|\  (basato sulla piattaforma Open Source eZ Publish) orientato alla \ |STYLE1|\ . 
+\ |LINK1|\  è un \ |STYLE0|\  (basato sulla piattaforma Open Source eZ Publish) orientato alla \ |STYLE1|\ . 
 
 Permette alle \ |STYLE2|\  di presentarsi con un \ |STYLE3|\ . 
 
@@ -17,8 +17,9 @@ Questo \ |STYLE4|\  è una \ |STYLE5|\  all’utilizzo del sistema e alla gestio
 
 .. toctree:: 
 
-        Gestione_contenuti.rst
+        gestione_contenuti.rst
         funzionalita_opencity.rst
+        editor_online.rst
     
     
 
@@ -37,3 +38,9 @@ Questo \ |STYLE4|\  è una \ |STYLE5|\  all’utilizzo del sistema e alla gestio
 .. |STYLE4| replace:: **Manuale OpenCity**
 
 .. |STYLE5| replace:: **guida per il redattore**
+
+
+.. |LINK1| raw:: html
+
+    <a href="https://www.opencontent.it/Per-la-PA/OpenCity" target="_blank">OpenCity</a>
+
