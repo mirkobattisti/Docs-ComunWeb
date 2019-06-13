@@ -16,8 +16,10 @@ Questo \ |STYLE4|\  è una \ |STYLE5|\  all’utilizzo del sistema e alla gestio
 
 
 .. toctree:: 
+
+        Gestione_contenuti.rst
         funzionalita_opencity.rst
-        gestione_contenuti.rst
+    
     
 
 
