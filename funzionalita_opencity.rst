@@ -4,29 +4,10 @@
 
 
 
-| `Funzionalità di OpenCity <#h472425424a674c4f672e6655245d6f>`_
-|     `Aspetto estetico del sito web <#h6f5150673f2401a4b21804d4b464224>`_
-|     `Classi di contenuto <#h2878256a793dd584a14e7776663c4a>`_
-|         `Pagina del sito <#h45157173d5d196e7e2f554452e2a7b>`_
-|             `Modalità di visualizzazione dei figli <#ha74627d763497d63d685d57631276>`_
-|         `Organigramma <#h112e363548804723d644a25d2e5020>`_
-|             `Come funziona <#h201f103596e646a163d386454463551>`_
-|             `Creare un organigramma <#h4a505c44654d271f804d3844784d4d40>`_
-|             `Costruire un organigramma <#h7c175c3c7122d68524e227c661942>`_
-|             `Aggiornare l’organigramma <#h44f04f9252cf3f57f65364f5d66>`_
-|         `Menu principale <#h56733513cc4274f186abd7f4548>`_
-|             `Modificare il menu principale <#h19761121312e4621493e1172595d3630>`_
-|             `Aggiornare il menu principale <#h5ec6c6f634d3d4b16575d7d7a465e>`_
+.. _h256f44685f63564426473c5e2876461:
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h472425424a674c4f672e6655245d6f:
-
-Funzionalità di OpenCity
-************************
+Personalizza il tuo sito OpenCity
+*********************************
 
 .. _h6f5150673f2401a4b21804d4b464224:
 
@@ -38,6 +19,11 @@ Dal punto di vista del design, un sito web basato su \ |STYLE0|\  è allineato a
 \ |IMG1|\ 
 
 \ |STYLE1|\ 
+
+.. _hf46106a6b6e4355d545e4210117e3:
+
+Personalizza l’Homepage
+=======================
 
 .. _h2878256a793dd584a14e7776663c4a:
 
@@ -122,10 +108,10 @@ Le scelte possibili sono:
 
 
 
-.. _h112e363548804723d644a25d2e5020:
+.. _h532d4d6d54247b5019a742a6d1c186c:
 
-Organigramma
-------------
+Inserisci l’organigramma della tua struttura
+--------------------------------------------
 
 .. _h201f103596e646a163d386454463551:
 
@@ -402,46 +388,46 @@ Dopo aver apportato una modifica al menu, o ai contenuti che fanno parte del men
     <a href="https://manuale-opencity.readthedocs.io/it/latest/gestione_contenuti.html#modificare-un-contenuto-esistente" target="_blank">Modificare un contenuto esistente</a>
 
 
-.. |IMG1| image:: static/2_1.png
+.. |IMG1| image:: static/Funzionalità_Opencity_1.png
    :height: 326 px
    :width: 624 px
 
-.. |IMG2| image:: static/2_2.png
+.. |IMG2| image:: static/Funzionalità_Opencity_2.png
    :height: 102 px
    :width: 624 px
 
-.. |IMG3| image:: static/2_3.png
+.. |IMG3| image:: static/Funzionalità_Opencity_3.png
    :height: 646 px
    :width: 552 px
 
-.. |IMG4| image:: static/2_4.png
+.. |IMG4| image:: static/Funzionalità_Opencity_4.png
    :height: 257 px
    :width: 624 px
 
-.. |IMG5| image:: static/2_5.png
+.. |IMG5| image:: static/Funzionalità_Opencity_5.png
    :height: 550 px
    :width: 376 px
 
-.. |IMG6| image:: static/2_6.png
+.. |IMG6| image:: static/Funzionalità_Opencity_6.png
    :height: 185 px
    :width: 474 px
 
-.. |IMG7| image:: static/2_6.png
+.. |IMG7| image:: static/Funzionalità_Opencity_6.png
    :height: 185 px
    :width: 474 px
 
-.. |IMG8| image:: static/2_7.png
+.. |IMG8| image:: static/Funzionalità_Opencity_7.png
    :height: 184 px
    :width: 624 px
 
-.. |IMG9| image:: static/2_8.png
+.. |IMG9| image:: static/Funzionalità_Opencity_8.png
    :height: 261 px
    :width: 624 px
 
-.. |IMG10| image:: static/2_9.png
+.. |IMG10| image:: static/Funzionalità_Opencity_9.png
    :height: 306 px
    :width: 624 px
 
-.. |IMG11| image:: static/2_10.png
+.. |IMG11| image:: static/Funzionalità_Opencity_10.png
    :height: 45 px
    :width: 564 px
