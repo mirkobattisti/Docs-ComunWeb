@@ -1,40 +1,44 @@
 
-.. _h50f222f584470655b17a9783d1046:
+.. _h2578336d3c5e4bd30212210763efe:
 
-Gestisci i contenuti: l’interfaccia del redattore
-*************************************************
+Inizia ad usare OpenCity
+************************
 
 .. _hf464843526245477320527c5120671:
 
 Panoramica
 ==========
 
-L'\ |STYLE0|\  di un sito OpenPA \ |STYLE1|\  da parte degli utenti redattori. Si integra nel front-end del sito web, rendendo la gestione dei contenuti intuitiva, facile da imparare e da utilizzare. \ |STYLE2|\ 
+\ |LINK1|\  è un \ |STYLE0|\ , appartenente alla \ |STYLE1|\  \ |LINK2|\ , che si basa sulla piattaforma \ |STYLE2|\  \ |STYLE3|\ . 
 
-Su OpenPA ci sono due modalità che permettono per lavorare con i contenuti del sito: l’\ |STYLE3|\  e l’\ |STYLE4|\ .
+Per quanto riguarda la gestione dei contenuti, OpenCity condivide molte funzionalità con tutti i prodotti OpenPA che si basano proprio su questa piattaforma \ |STYLE4|\ .
 
-* \ |STYLE5|\ 
+L'\ |STYLE5|\  di un sito OpenPA è pensata per \ |STYLE6|\  da parte degli utenti redattori. La maggior parte delle attività di gestione del sito web, infatti, può essere eseguita tramite un’interfaccia che si integra perfettamente nel front-end del sito web, rendendo così la gestione dei contenuti intuitiva, facile da imparare e da utilizzare.
 
-La maggior parte del lavoro, su un sito OpenPA - basato su piattaforma eZ Publish -, avviene tramite l’\ |STYLE6|\ . Gli elementi di questa interfaccia vengono visualizzati solo dagli utenti che appartengono a un gruppo con privilegi, per esempio, di \ |STYLE7|\  o \ |STYLE8|\ . Pertanto, gli ospiti del sito, anche se sono registrati, non possono accedere all'interfaccia del redattore. 
-
-Fai riferimento alla sezione "\ |LINK1|\ " per istruzioni su come accedere all'interfaccia del redattore.
-
-L'accesso e l'utilizzo delle funzioni di gestione dei contenuti nell'interfaccia del redattore è descritto nella sezione "\ |LINK2|\ ".
+Su OpenPA ci sono infatti due modalità che permettono per lavorare con i contenuti del sito: l’\ |STYLE7|\  e l’\ |STYLE8|\ .
 
 * \ |STYLE9|\ 
 
-Le attività amministrative più complesse, come la \ |STYLE10|\  e la \ |STYLE11|\ , vengono eseguite tramite l'interfaccia di amministrazione. Generalmente solo gli utenti avanzati, come amministratori di siti e webmaster, devono utilizzare l'interfaccia di amministrazione. Tutte le attività di modifica che possono essere eseguite tramite l'interfaccia del redattore possono anche essere eseguite tramite l'interfaccia di amministrazione.
+La maggior parte del lavoro, su un sito OpenPA - basato su piattaforma eZ Publish -, avviene tramite l’\ |STYLE10|\ . Gli elementi di questa interfaccia vengono visualizzati solo dagli utenti che appartengono a un gruppo con privilegi, per esempio, di \ |STYLE11|\  o \ |STYLE12|\ . Pertanto, gli ospiti del sito, anche se sono registrati, non possono accedere a questa interfaccia. 
+
+Per istruzioni su come accedere all'interfaccia del redattore, fai riferimento alla sezione “Accedi al sistema”.
+
+L'accesso e l'utilizzo delle funzioni di gestione dei contenuti nell'interfaccia del redattore è descritto nella sezione "Gestisci i contenuti".
+
+* \ |STYLE13|\ 
+
+Le attività amministrative più complesse, invece, come la \ |STYLE14|\  e la \ |STYLE15|\ , vengono eseguite tramite l'interfaccia di amministrazione. Generalmente solo gli utenti avanzati, come amministratori di siti e webmaster, devono utilizzare l'interfaccia di amministrazione. In ogni caso, tutte le attività di modifica che possono essere eseguite tramite l'interfaccia del redattore possono anche essere eseguite tramite l'interfaccia di amministrazione.
 
 .. _h4415848433f221aec1a14347f613e:
 
 Accedi al sistema
 =================
 
-Per accedere al sistema è necessario spostarsi in fondo alla pagina  e cliccare sul pulsante \ |STYLE12|\ .
+Per accedere al sistema è necessario spostarsi in fondo alla pagina  e cliccare sul pulsante \ |STYLE16|\ .
 
 \ |IMG1|\ 
 
-Inserisci il tuo nome utente e password e quindi fai clic sul pulsante \ |STYLE13|\ .
+Inserisci il tuo nome utente e password e quindi fai clic sul pulsante \ |STYLE17|\ .
 
 \ |IMG2|\ 
 
@@ -42,23 +46,23 @@ Nel caso in cui le informazioni fornite (Username o Password) non siano valide (
 
 \ |IMG3|\ 
 
-\ |STYLE14|\ 
+\ |STYLE18|\ 
 
-Se l’accesso invece va a buon fine, comparirà in alto la \ |STYLE15|\  del redattore e in fondo alla pagina i link \ |STYLE16|\ , \ |STYLE17|\  e \ |STYLE18|\ .\ |IMG4|\ 
+Se l’accesso invece va a buon fine, comparirà in alto la \ |STYLE19|\  del redattore e in fondo alla pagina i link \ |STYLE20|\ , \ |STYLE21|\  e \ |STYLE22|\ .\ |IMG4|\ 
 
 .. _h4635145e5a54773a6d9144a52b215e:
 
 Gestisci il tuo profilo utente
 ==============================
 
-I dettagli personali e le preferenze dell'account associati a un account utente sono chiamati "Profilo utente". Per visualizzare o modificare il proprio profilo utente, utilizzare l'interfaccia del redattore. 
+I dettagli personali e le preferenze dell'account associati a un account utente sono chiamati "Profilo utente". Per visualizzare o modificare il tuo profilo utente, puoi utilizzare l'interfaccia del redattore. 
 
 .. _h254773682e787c2a7342801623527c28:
 
 Modifica il tuo profilo
 -----------------------
 
-Una volta effettuato l’\ |LINK3|\ , l'interfaccia del sito web può essere utilizzata per modificare alcune delle informazioni personali nel tuo profilo utente. Dopo aver effettuato l'accesso, fai clic sul link \ |STYLE19|\  posizionato (per impostazione predefinita) nell'angolo in basso a destra della pagina. Verrà visualizzata una pagina che mostra le impostazioni correnti e contiene collegamenti a pagine in cui è possibile configurare le preferenze (descritte di seguito). Per modificare le tue informazioni personali, fai clic sul pulsante Modifica profilo.
+Una volta effettuato l’accesso al sistema, l'interfaccia del sito web può essere utilizzata per modificare alcune delle informazioni personali nel tuo profilo utente. Dopo aver effettuato l'accesso, fai clic sul link \ |STYLE23|\  posizionato - per impostazione predefinita - nell'angolo in basso a destra della pagina. Verrà visualizzata una pagina che mostra le impostazioni correnti e contiene collegamenti a pagine in cui è possibile configurare le preferenze (descritte di seguito). Per modificare le tue informazioni personali, fai clic sul pulsante Modifica profilo.
 
 \ |IMG5|\ 
 
@@ -67,11 +71,11 @@ Una volta effettuato l’\ |LINK3|\ , l'interfaccia del sito web può essere uti
 Gestisci le tue bozze
 ---------------------
 
-Una \ |STYLE20|\  è un contenuto che è stato inserito in eZ Publish ma che non è ancora stato pubblicato. Le bozze possono essere nuovi contenuti o modifiche a contenuti esistenti. I visitatori del sito non possono vedere il contenuto della bozza, ma l'utente che ha creato la bozza può \ |STYLE21|\ .
+Una \ |STYLE24|\  è un contenuto che è stato inserito in eZ Publish ma che non è ancora stato pubblicato. Le bozze possono essere nuovi contenuti o modifiche a contenuti esistenti. I visitatori del sito non possono vedere il contenuto della bozza, ma l'utente che ha creato la bozza può \ |STYLE25|\ .
 
 Per visualizzare tutte le pagine in cui sono state salvate le bozze:
 
-\ |LINK4|\  come descritto sopra.
+Accedi al tuo profilo utente come descritto sopra.
 
 \ |IMG6|\ 
 
@@ -83,7 +87,7 @@ Fai clic sul nome di una bozza (o sul pulsante Modifica sul lato destro della bo
 
 \ |IMG8|\ 
 
-Verrà visualizzata l'interfaccia di \ |LINK5|\  standard. Dopo aver apportato le modifiche, puoi \ |LINK6|\  o \ |LINK7|\  per la successiva modifica.
+Verrà visualizzata l'interfaccia di modifica standard. Dopo aver apportato le modifiche, puoi pubblicare l'oggetto oppure salvarlo di nuovo come bozza per la successiva modifica.
 
 Per eliminare le bozze, fai clic sul pulsante Svuota bozze.
 
@@ -96,20 +100,22 @@ Per eliminare le bozze, fai clic sul pulsante Svuota bozze.
 Gestisci i contenuti
 ====================
 
-Questa sezione spiega come aggiungere, modificare e rimuovere contenuti utilizzando l'\ |LINK8|\ . Per gestire il contenuto, è necessario aver effettuato l'\ |LINK9|\  con diritti di modifica (per impostazione predefinita, bisogna essere un membro dei gruppi Editor o Amministratori).
+Questa sezione spiega come gestire i tuoi contenuti attraverso l'\ |STYLE26|\ . 
+
+Per gestire i contenuti del sito web, è necessario aver effettuato l'accesso come utente con diritti di modifica (per impostazione predefinita, bisogna essere un membro dei gruppi Editor o Amministratori).
 
 .. _h117f26752b3d1b796c432369501ce22:
 
 Il sistema di gestione dei contenuti: come funziona?
 ----------------------------------------------------
 
-Tutti i siti web appartenenti alla suite OpenPA, che si basano sulla piattaforma eZ Publish, hanno un forte orientamento alla \ |STYLE22|\ . 
+Tutti i siti web appartenenti alla suite OpenPA, che si basano sulla piattaforma eZ Publish, hanno un forte orientamento alla \ |STYLE27|\ . 
 
 La strutturazione dei dati e, quindi, la gestione dei contenuti avviene attraverso le cosiddette classi di contenuto. 
 
 I siti appartenenti alla suite OpenPA infatti possono supportare vari tipi di contenuto, come immagini, articoli, file multimediali, forum, moduli di feedback, ecc. 
 
-Ogni particolare tipo di contenuto viene chiamato una \ |STYLE23|\ , mentre uno specifico contenuto è chiamato \ |STYLE24|\ .
+Ogni particolare tipo di contenuto viene chiamato una \ |STYLE28|\ , mentre uno specifico contenuto è chiamato \ |STYLE29|\ .
 
 Nota bene: alcune tipologie di contenuto sono in comune tra tutti i prodotti della suite OpenPA, mentre altre tipologie sono specifiche per ogni prodotto (es.: OpenCity, OpenTrasparenza, etc.).
 
@@ -122,9 +128,9 @@ Che cos’è una classe di contenuto?
 
 .. admonition:: Definizione
 
-    Una \ |STYLE25|\  di contenuto è una \ |STYLE26|\ . 
+    Una \ |STYLE30|\  di contenuto è una \ |STYLE31|\ . 
 
-Una \ |STYLE27|\  può essere pensata come un \ |STYLE28|\  \ |LINK10|\  \ |STYLE29|\ . Ad esempio, la classe di contenuto dell'Avviso contiene attributi come titolo, data di pubblicazione, breve descrizione, testo dell’avviso, ecc. Sebbene non tutti questi attributi siano obbligatori, fanno tutti parte della classe di contenuto dell'avviso, quindi tutti gli oggetti di contenuto basati su questa classe possono contenere dati per tutti gli attributi definiti dalla classe di contenuto.
+Una \ |STYLE32|\  può essere pensata come un \ |STYLE33|\ . Ad esempio, la classe di contenuto dell'Avviso contiene attributi come titolo, data di pubblicazione, breve descrizione, testo dell’avviso, ecc. Sebbene non tutti questi attributi siano obbligatori, fanno tutti parte della classe di contenuto dell'avviso, quindi tutti gli oggetti di contenuto basati su questa classe possono contenere dati per tutti gli attributi definiti dalla classe di contenuto.
 
 
 .. admonition:: Un sistema per la mappatura della realtà
@@ -136,7 +142,7 @@ Una \ |STYLE27|\  può essere pensata come un \ |STYLE28|\  \ |LINK10|\  \ |STYL
 Oggetto di contenuto
 ~~~~~~~~~~~~~~~~~~~~
 
-Gli \ |STYLE30|\  possono essere sia \ |STYLE31|\  sia \ |STYLE32|\  che contengono altri oggetti situati al di sotto di essi nell’\ |LINK11|\ . Ad esempio, uno o più oggetti di tipo \ |STYLE33|\  (\ |STYLE34|\ ) possono essere memorizzati sotto un oggetto di tipo \ |STYLE35|\  (\ |STYLE36|\ ). Quando viene visualizzato l'oggetto \ |STYLE37|\ , questo visualizza automaticamente un elenco di riepilogo degli oggetti di tipo Avviso memorizzati al di sotto di esso.
+Gli \ |STYLE34|\  possono essere sia \ |STYLE35|\  sia \ |STYLE36|\  che contengono altri oggetti situati al di sotto di essi nell’albero dei contenuti. Ad esempio, uno o più oggetti di tipo \ |STYLE37|\  (\ |STYLE38|\ ) possono essere memorizzati sotto un oggetto di tipo \ |STYLE39|\  (\ |STYLE40|\ ). Quando viene visualizzato l'oggetto \ |STYLE41|\ , questo visualizza automaticamente un elenco di riepilogo degli oggetti di tipo Avviso memorizzati al di sotto di esso.
 
 Ogni classe di contenuto ha un modello diverso per la visualizzazione degli attributi di un oggetto di contenuto. Pertanto, solo perché un oggetto contenuto è memorizzato sotto un altro oggetto contenuto nell’albero dei contenuto non significa che l'oggetto contenuto inferiore verrà visualizzato quando viene visualizzato l'oggetto di contenuto più alto. Ad esempio, se "Articolo B" si trova al di sotto di "Articolo A", "Articolo B" non verrà visualizzato quando viene visualizzato "Articolo A", poiché la visualizzazione di elementi situati nella gerarchia inferiore non fa parte del modello di classe del contenuto dell'articolo.
 
@@ -147,28 +153,28 @@ Oltre alle caratteristiche di visualizzazione definite dal modello di ogni class
 Attributi
 ~~~~~~~~~
 
-Ogni \ |LINK12|\  è composta da una serie di voci o campi da compilare (\ |STYLE38|\ ) che rappresenta le principali caratteristiche che quel tipo di contenuto ha.
+Ogni classe di contenuto è composta da una serie di voci o campi da compilare (\ |STYLE42|\ ) che rappresenta le principali caratteristiche che quel tipo di contenuto ha.
 
 Per esempio, facendo riferimento alla classe Tasso di assenza, gli attributi che compongono la tipologia di contenuto sono quelli che sono stati individuati come caratteristiche principali di un contenuto di tipo Tasso di assenza (Anno di riferimento, Trimestre, Mese, Contratto, Numero dipendenti, Giorni di presenza, Giorni di assenza, Allegato, Data di archiviazione).
 
 \ |IMG11|\ 
 
-\ |STYLE39|\  \ |STYLE40|\  \ |STYLE41|\ 
+\ |STYLE43|\  \ |STYLE44|\  \ |STYLE45|\ 
 
-Ogni classe di contenuto è costituita da \ |STYLE42|\  - che variano da una classe all’altra - (ad esempio “Titolo”, “Testo”, “Data di inizio validità”, “Ufficio proponente”) e che vanno compilati in fase di \ |LINK13|\  e/o \ |LINK14|\  dei contenuti: \ |STYLE43|\ .
+Ogni classe di contenuto è costituita da \ |STYLE46|\  - che variano da una classe all’altra - (ad esempio “Titolo”, “Testo”, “Data di inizio validità”, “Ufficio proponente”) e che vanno compilati in fase di creazione e/o modifica dei contenuti: \ |STYLE47|\ .
 
 \ |IMG12|\ 
 
- \ |STYLE44|\ 
+ \ |STYLE48|\ 
 
 .. _h10604b402c4d5175152c3fd415e671a:
 
 Tipologie di attributi
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Alcuni attributi possono essere di tipo “\ |STYLE45|\ ”, perché \ |STYLE46|\ . 
+Alcuni attributi possono essere di tipo “\ |STYLE49|\ ”, perché \ |STYLE50|\ . 
 
-Nel caso della classe di contenuto \ |STYLE47|\ , ad esempio, uno degli attributi si chiama \ |STYLE48|\ . In fase di compilazione in quel campo non si scriverà il nome dell’ufficio proponente, ma si cercherà tra gli oggetti di classe “Ufficio” già censiti all’interno del sistema, per selezionare quello che rappresenta l’ufficio proponente per quella circolare.
+Nel caso della classe di contenuto \ |STYLE51|\ , ad esempio, uno degli attributi si chiama \ |STYLE52|\ . In fase di compilazione in quel campo non si scriverà il nome dell’ufficio proponente, ma si cercherà tra gli oggetti di classe “Ufficio” già censiti all’interno del sistema, per selezionare quello che rappresenta l’ufficio proponente per quella circolare.
 
 \ |IMG13|\ 
 
@@ -183,7 +189,7 @@ Se il numero dell’ufficio cambia, non è necessario eseguire un tedioso “tro
 Albero dei contenuti
 ~~~~~~~~~~~~~~~~~~~~
 
-La \ |STYLE49|\  è un concetto importante quando si creano nuovi contenuti. Se si fa affidamento su oggetti di contenuto più in alto nella gerarchia per visualizzare il nuovo contenuto che si sta aggiungendo, è probabile che si desideri aggiungere il nuovo contenuto sotto il contenitore del contenuto. Ad esempio, se si desidera che un oggetto contenuto della cartella visualizzi automaticamente un elenco di articoli, tali articoli devono trovarsi al di sotto dell'oggetto contenuto della cartella. È possibile aggiungere manualmente un collegamento a un articolo nel testo di un oggetto contenuto della cartella; tuttavia, se elimini l'articolo, il link verrà interrotto.
+La \ |STYLE53|\  è un concetto importante quando si creano nuovi contenuti. Se si fa affidamento su oggetti di contenuto più in alto nella gerarchia per visualizzare il nuovo contenuto che si sta aggiungendo, è probabile che si desideri aggiungere il nuovo contenuto sotto il contenitore del contenuto. Ad esempio, se si desidera che un oggetto contenuto della cartella visualizzi automaticamente un elenco di articoli, tali articoli devono trovarsi al di sotto dell'oggetto contenuto della cartella. È possibile aggiungere manualmente un collegamento a un articolo nel testo di un oggetto contenuto della cartella; tuttavia, se elimini l'articolo, il link verrà interrotto.
 
 .. _h7c2b7466704f1f106c504a672c3d3750:
 
@@ -192,18 +198,18 @@ La barra degli strumenti
 
 Quando si effettua l'accesso con un account utente appartenente al gruppo Editor o Amministratore, la barra degli strumenti del sito web (mostrata sotto) viene visualizzata in ogni pagina del sito.
 
-La barra degli strumenti consente di disporre delle funzionalità di \ |STYLE50|\  direttamente sulle pagine del sito (senza bisogno di accedere all’\ |LINK15|\ ). In questo modo è possibile navigare il sito come un normale visitatore, operare modifiche a contenuti esistenti, spostare contenuti, dargli un ordine oppure creare nuovi contenuti.
+La barra degli strumenti consente di disporre delle funzionalità di \ |STYLE54|\  direttamente sulle pagine del sito (senza bisogno di accedere all’interfaccia di amministrazione). In questo modo è possibile navigare il sito come un normale visitatore, operare modifiche a contenuti esistenti, spostare contenuti, dargli un ordine oppure creare nuovi contenuti.
 
 .. _h717555207d51694a6f1e644765525a6a:
 
 \ |IMG15|\ -----------
 
-\ |STYLE51|\ 
+\ |STYLE55|\ 
 
 
 .. admonition:: Importante
 
-    Le azioni che è possibile svolgere attraverso l’uso della barra degli strumenti \ |STYLE52|\  in quel momento: ad esempio se si sta visualizzando un contenuto di tipo “Avviso” e si clicca sull’icona con la matita (modifica), verrà modificato esattamente quel contenuto, la stessa cosa vale per la creazione di nuovi contenuti, la cancellazione, e così via.
+    Le azioni che è possibile svolgere attraverso l’uso della barra degli strumenti \ |STYLE56|\  in quel momento: ad esempio se si sta visualizzando un contenuto di tipo “Avviso” e si clicca sull’icona con la matita (modifica), verrà modificato esattamente quel contenuto, la stessa cosa vale per la creazione di nuovi contenuti, la cancellazione, e così via.
 
 I pulsanti disponibili dalla barra degli strumenti del sito Web variano a seconda che l'account utente appartenga all'editor o al gruppo di amministratori. Se appartiene al gruppo Editor, sono disponibili solo i pulsanti applicabili nel contesto corrente. Inoltre, i pulsanti visualizzati dagli Editor sono limitati in base ai diritti concessi al gruppo di utenti Editor. (Tutti i pulsanti invece vengono visualizzati dagli utenti che appartengono al gruppo di utenti Administrator.)
 
@@ -216,29 +222,29 @@ Oltre ai pulsanti visualizzati, anche le classi di contenuti visualizzate nell'e
 
 La barra degli strumenti permette di eseguire le seguenti operazioni sui contenuti:
 
-* \ |STYLE53|\ 
-
-* \ |STYLE54|\ 
-
-* \ |STYLE55|\ 
-
-* \ |STYLE56|\ 
-
 * \ |STYLE57|\ 
 
 * \ |STYLE58|\ 
 
-* \ |STYLE59|\  è possibile caricare dei file direttamente dal proprio pc (immagini, documenti pdf), che vengono convertiti in contenuti (seguendo una mappatura file/contenuto definita a livello di configurazione);
+* \ |STYLE59|\ 
 
-* \ |STYLE60|\  nel caso in cui il menù non mostra le modifiche apportate, è possibile forzare un refresh della visualizzazione del menù stesso;
+* \ |STYLE60|\ 
 
 * \ |STYLE61|\ 
 
 * \ |STYLE62|\ 
 
-* \ |STYLE63|\ 
+* \ |STYLE63|\  è possibile caricare dei file direttamente dal proprio pc (immagini, documenti pdf), che vengono convertiti in contenuti (seguendo una mappatura file/contenuto definita a livello di configurazione);
 
-* \ |STYLE64|\  apre (o chiude) il box con informazioni sul contenuto che si sta visualizzando (data di creazione,  autore, tipologia di contenuto, …)
+* \ |STYLE64|\  nel caso in cui il menù non mostra le modifiche apportate, è possibile forzare un refresh della visualizzazione del menù stesso;
+
+* \ |STYLE65|\ 
+
+* \ |STYLE66|\ 
+
+* \ |STYLE67|\ 
+
+* \ |STYLE68|\  apre (o chiude) il box con informazioni sul contenuto che si sta visualizzando (data di creazione,  autore, tipologia di contenuto, …)
 
 .. _h532262b6a2d80c102719ed613321:
 
@@ -262,12 +268,12 @@ Dalla tendina nella barra degli strumenti (1), è possibile filtrare le tipologi
 
 \ |IMG18|\ 
 
-\ |STYLE65|\  \ |STYLE66|\ \ |STYLE67|\ 
+\ |STYLE69|\  \ |STYLE70|\ \ |STYLE71|\ 
 
 
 .. admonition:: Attenzione!
 
-    Siccome le azioni svolte attraverso la barra degli strumenti \ |STYLE68|\  in quel momento, è molto importante fare attenzione al contenitore in cui ci si trova nel momento in cui si clicca il pulsante \ |STYLE69|\ : il contenuto verrà creato esattamente lì.
+    Siccome le azioni svolte attraverso la barra degli strumenti \ |STYLE72|\  in quel momento, è molto importante fare attenzione al contenitore in cui ci si trova nel momento in cui si clicca il pulsante \ |STYLE73|\ : il contenuto verrà creato esattamente lì.
 
 Una volta effettuate queste operazioni, il sistema presenta una interfaccia identica a quella di modifica di un contenuto, con la differenza che i campi (attributi) saranno tutti vuoti.
 
@@ -285,7 +291,7 @@ Modifica un contenuto esistente
 
 \ |IMG19|\ 
 
-Per modificare un contenuto esistente, è sufficiente \ |STYLE70|\  che si desidera modificare attraverso i menu e i link del sito, esattamente come farebbe un visitatore. Una volta raggiunto il contenuto da modificare, \ |STYLE71|\  e si passa alla modalità di modifica del contenuto: viene mostrata l’\ |STYLE72|\ , \ |STYLE73|\  \ |LINK16|\  di quel particolare contenuto.
+Per modificare un contenuto esistente, è sufficiente \ |STYLE74|\  che si desidera modificare attraverso i menu e i link del sito, esattamente come farebbe un visitatore. Una volta raggiunto il contenuto da modificare, \ |STYLE75|\  e si passa alla modalità di modifica del contenuto: viene mostrata l’\ |STYLE76|\ , \ |STYLE77|\  \ |LINK3|\  di quel particolare contenuto.
 
 .. _h6f797b5ae124496622133f2621740:
 
@@ -294,17 +300,17 @@ Spostare un contenuto
 
 \ |IMG20|\ 
 
-Per spostare il contenuto da una posizione a un'altra sul sito, utilizzare il pulsante \ |STYLE74|\  nella barra degli strumenti del sito web. Dopo aver fatto clic su Sposta, sarai in grado di esplorare il sito web e scegliere la nuova posizione per il contenuto.
+Per spostare il contenuto da una posizione a un'altra sul sito, utilizzare il pulsante \ |STYLE78|\  nella barra degli strumenti del sito web. Dopo aver fatto clic su Sposta, sarai in grado di esplorare il sito web e scegliere la nuova posizione per il contenuto.
 
 \ |IMG21|\ 
 
 Puoi scegliere il nuovo contenitore facendo clic sul pulsante di opzione accanto al nome o fare clic sul nome del contenitore per visualizzare il contenuto all’interno del contenitore.
 
-Dopo aver selezionato la nuova posizione, fare clic sul pulsante \ |STYLE75|\ .
+Dopo aver selezionato la nuova posizione, fare clic sul pulsante \ |STYLE79|\ .
 
 \ |IMG22|\ 
 
-\ |STYLE76|\ 
+\ |STYLE80|\ 
 
 #. Se sposti un contenitore di contenuti, il sistema sposta anche qualsiasi contenuto sotto quell'oggetto. Ad esempio, se sposti una cartella contenente articoli da una posizione a un'altra, tutti gli articoli verranno spostati.
 
@@ -317,17 +323,17 @@ Elimina un contenuto
 
 \ |IMG23|\ 
 
-I siti di OpenPA utilizzano un contenitore denominato \ |STYLE77|\ . Quando rimuovi il contenuto, in realtà lo stai spostando nel contenitore del Cestino. Può essere ripristinato in qualsiasi momento fino a quando il Cestino non viene svuotato.
+I siti di OpenPA utilizzano un contenitore denominato \ |STYLE81|\ . Quando rimuovi il contenuto, in realtà lo stai spostando nel contenitore del Cestino. Può essere ripristinato in qualsiasi momento fino a quando il Cestino non viene svuotato.
 
-Per rimuovere il contenuto, selezionare l'oggetto desiderato e fare clic sul pulsante \ |STYLE78|\  sulla barra degli strumenti del sito Web. In alternativa, per i contenuti incorporati, fare clic sul pulsante Elimina vicino all'oggetto contenuto.
+Per rimuovere il contenuto, selezionare l'oggetto desiderato e fare clic sul pulsante \ |STYLE82|\  sulla barra degli strumenti del sito Web. In alternativa, per i contenuti incorporati, fare clic sul pulsante Elimina vicino all'oggetto contenuto.
 
 Ti verrà richiesto di specificare se il contenuto deve essere spostato nel cestino o eliminato completamente:
 
-\ |STYLE79|\ 
+\ |STYLE83|\ 
 
 \ |IMG24|\ 
 
-\ |STYLE80|\ 
+\ |STYLE84|\ 
 
 \ |IMG25|\ 
 
@@ -342,7 +348,7 @@ Fai molta attenzione durante la rimozione e l'eliminazione dei contenuti, poich�
 Recupera un contenuto dal cestino
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Per recuperare il contenuto rimosso dal contenitore del cestino, accedere all'\ |LINK17|\  e fare clic sull'icona del cestino sul lato sinistro.
+Per recuperare il contenuto rimosso dal contenitore del cestino, accedere all'interfaccia di amministrazione e fare clic sull'icona del cestino sul lato sinistro.
 
 \ |IMG26|\ 
 
@@ -359,15 +365,15 @@ Visualizza un contenuto in più posti
 
 \ |IMG27|\ 
 
-Come visto in precedenza, ogni contenuto del sito ha una collocazione in una struttura ad albero. La funzionalità \ |STYLE81|\  consente di rendere uno stesso contenuto visibile in più sezioni del sito. Lo stesso oggetto di contenuto può infatti avere più collocazioni all'interno dell'albero dei contenuti. 
+Come visto in precedenza, ogni contenuto del sito ha una collocazione in una struttura ad albero. La funzionalità \ |STYLE85|\  consente di rendere uno stesso contenuto visibile in più sezioni del sito. Lo stesso oggetto di contenuto può infatti avere più collocazioni all'interno dell'albero dei contenuti. 
 
-Per pubblicare un contenuto in una posizione aggiuntiva, accedere alla pagina desiderata, quindi fare clic sul pulsante \ |STYLE82|\ .
+Per pubblicare un contenuto in una posizione aggiuntiva, accedere alla pagina desiderata, quindi fare clic sul pulsante \ |STYLE86|\ .
 
 Dopo aver fatto clic sul pulsante, verrà visualizzato il nodo di livello superiore dell'albero dei contenuto. 
 
 \ |IMG28|\ 
 
-Fare clic sui nodi contenitore evidenziati per navigare nell'albero fino a raggiungere la posizione in cui si desidera pubblicare il contenuto. Quando hai trovato la nuova posizione, seleziona la casella e fai clic sul pulsante \ |STYLE83|\ .
+Fare clic sui nodi contenitore evidenziati per navigare nell'albero fino a raggiungere la posizione in cui si desidera pubblicare il contenuto. Quando hai trovato la nuova posizione, seleziona la casella e fai clic sul pulsante \ |STYLE87|\ .
 
 \ |IMG29|\ 
 
@@ -382,17 +388,17 @@ Quando si hanno diversi oggetti di contenuto in un contenitore, è possibile dis
 
 Esistono molti modi diversi per ordinare un elenco di contenuti. Questa sezione mostra un metodo, che può essere applicato alle preferenze di ordinamento più comuni (per esempio: manualmente, in ordine alfabetico o per data).
 
-Dopo aver effettuato l’\ |LINK18|\ , individua il contenitore dei contenuti a cui desideri dare un ordinamento e clicca sul pulsante \ |STYLE84|\ .
+Dopo aver effettuato l’accesso al sistema, individua il contenitore dei contenuti a cui desideri dare un ordinamento e clicca sul pulsante \ |STYLE88|\ .
 
 \ |IMG31|\ 
 
-\ |STYLE85|\ 
+\ |STYLE89|\ 
 
-* \ |STYLE86|\ : ordine alfabetico ascendente (dalla A alla Z) oppure discendente (dalla Z alla A)
+* \ |STYLE90|\ : ordine alfabetico ascendente (dalla A alla Z) oppure discendente (dalla Z alla A)
 
-* \ |STYLE87|\ : ordine cronologico in base alla data di pubblicazione ascendente (dal primo pubblicato all’ultimo) oppure discendente (dall’ultimo pubblicato al primo)
+* \ |STYLE91|\ : ordine cronologico in base alla data di pubblicazione ascendente (dal primo pubblicato all’ultimo) oppure discendente (dall’ultimo pubblicato al primo)
 
-* \ |STYLE88|\ : in questa modalità è possibile ordinare i contenuti manualmente in base alla priorità che gli si vuole affidare. La priorità può essere impostata come ascendente (dal numero più basso al più alto) oppure discendente (dal numero più alto al più basso). Può essere impostata sia attraverso l’inserimento di numeri interi nella sezione a destra “Priorità” (1) oppure attraverso il trascinamento manuale (2).
+* \ |STYLE92|\ : in questa modalità è possibile ordinare i contenuti manualmente in base alla priorità che gli si vuole affidare. La priorità può essere impostata come ascendente (dal numero più basso al più alto) oppure discendente (dal numero più alto al più basso). Può essere impostata sia attraverso l’inserimento di numeri interi nella sezione a destra “Priorità” (1) oppure attraverso il trascinamento manuale (2).
 
 \ |IMG32|\ 
 
@@ -413,7 +419,7 @@ Pubblica un contenuto
 
 \ |IMG33|\ 
 
-Durante la creazione di un nuovo contenuto o la modifica di un contenuto già esistente, dopo aver inserito tutte le informazioni che desideri inserire, puoi pubblicare il tuo contenuto attraverso il pulsante \ |STYLE89|\ , che si trova sia in alto sia in fondo sulla destra.
+Durante la creazione di un nuovo contenuto o la modifica di un contenuto già esistente, dopo aver inserito tutte le informazioni che desideri inserire, puoi pubblicare il tuo contenuto attraverso il pulsante \ |STYLE93|\ , che si trova sia in alto sia in fondo sulla destra.
 
 .. _h135b1173858785b746a581212b213a:
 
@@ -422,15 +428,15 @@ Salvare una bozza
 
 \ |IMG34|\ 
 
-Quando lavori su un oggetto, puoi salvare il tuo lavoro senza renderlo visibile subito sul sito web. Quando si crea una \ |STYLE90|\ , la versione “bozza” dell'oggetto viene salvata senza essere pubblicata. Per salvare una bozza, fai clic sul pulsante \ |STYLE91|\  nella \ |LINK19|\ : questo ti permetterà di salvare il tuo lavoro e di continuare a lavorare sulla tua bozza; se invece vuoi salvare una bozza ma preferisci continuare a lavorarci in un secondo momento, clicca su \ |STYLE92|\ .
+Quando lavori su un oggetto, puoi salvare il tuo lavoro senza renderlo visibile subito sul sito web. Quando si crea una \ |STYLE94|\ , la versione “bozza” dell'oggetto viene salvata senza essere pubblicata. Per salvare una bozza, fai clic sul pulsante \ |STYLE95|\  nella pagina di modifica: questo ti permetterà di salvare il tuo lavoro e di continuare a lavorare sulla tua bozza; se invece vuoi salvare una bozza ma preferisci continuare a lavorarci in un secondo momento, clicca su \ |STYLE96|\ .
 
 \ |IMG35|\ 
 
-Esistono due metodi per recuperare le bozze: accedere alla pagina \ |LINK20|\  nel tuo profilo o \ |LINK21|\  precedentemente pubblicata. 
+Esistono due metodi per recuperare le bozze: accedere alla pagina \ |STYLE97|\  nel tuo profilo o modificare una pagina precedentemente pubblicata. 
 
-#. Se l'oggetto contenuto non è stato pubblicato in precedenza, seleziona \ |STYLE93|\  dall'angolo in basso a destra di qualsiasi pagina, quindi seleziona \ |LINK22|\ . Verrà visualizzata una pagina con tutte le bozze.
+#. Se l'oggetto contenuto non è stato pubblicato in precedenza, seleziona \ |STYLE98|\  dall'angolo in basso a destra di qualsiasi pagina, quindi seleziona Le mie bozze. Verrà visualizzata una pagina con tutte le bozze.
 
-#. Per continuare invece a lavorare su una bozza di un oggetto che è stato precedentemente pubblicato, è possibile in alternativa \ |LINK23|\  semplicemente l'oggetto contenuto esistente. Dopo aver fatto clic sul pulsante Modifica, avrai la possibilità di modificare la versione corrente - quella pubblicata - creando quindi una nuova bozza (2) oppure di continuare a modificare la bozza precedentemente creata (1).
+#. Per continuare invece a lavorare su una bozza di un oggetto che è stato precedentemente pubblicato, è possibile in alternativa modificare semplicemente l'oggetto contenuto esistente. Dopo aver fatto clic sul pulsante Modifica, avrai la possibilità di modificare la versione corrente - quella pubblicata - creando quindi una nuova bozza (2) oppure di continuare a modificare la bozza precedentemente creata (1).
 
 \ |IMG36|\ 
 
@@ -441,22 +447,22 @@ Annulla una bozza
 
 \ |IMG37|\ 
 
-Durante la \ |LINK24|\  o la \ |LINK25|\ , puoi decidere di annullare il lavoro apportato, eliminando la bozza creata. Questo non influirà in alcun modo sul contenuto eventualmente già pubblicato, ma eliminerà semplicemente la bozza contenente le nuove informazioni apportate. Per farlo clicca il pulsante \ |STYLE94|\ , che si trova sia in alto sia in fondo sulla sinistra.
+Durante la creazione un nuovo contenuto o la modifica di un contenuto già esistente, puoi decidere di annullare il lavoro apportato, eliminando la bozza creata. Questo non influirà in alcun modo sul contenuto eventualmente già pubblicato, ma eliminerà semplicemente la bozza contenente le nuove informazioni apportate. Per farlo clicca il pulsante \ |STYLE99|\ , che si trova sia in alto sia in fondo sulla sinistra.
 
-Un altro modo per eliminare le bozze, è quello di \ |LINK26|\ , cliccare su \ |LINK27|\  e fare clic sul pulsante Svuota bozze.
+Un altro modo per eliminare le bozze, è quello di accedere al tuo Profilo utente, cliccare su Le mie bozze e fare clic sul pulsante Svuota bozze.
 
 \ |IMG38|\ 
 
 \ |IMG39|\ 
 
-Se invece vuoi eliminare definitivamente un contenuto dal sito vai nella sezione \ |LINK28|\ .
+Se invece vuoi eliminare definitivamente un contenuto dal sito vai nella sezione \ |STYLE100|\ .
 
 .. _hf3471237531973125b384b395d3612:
 
 Gestisci i conflitti di modifica
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Durante l’attività di gestione dei contenuti, soprattutto nei casi in cui più persone lavorano su uno stesso contenuto, può capitare che ci si imbatta in un messaggio che segnala un \ |STYLE95|\  del contenuto. 
+Durante l’attività di gestione dei contenuti, soprattutto nei casi in cui più persone lavorano su uno stesso contenuto, può capitare che ci si imbatta in un messaggio che segnala un \ |STYLE101|\  del contenuto. 
 
 Questo di solito accade quando due persone stanno cercando di lavorare sullo stesso oggetto, oppure quando qualcuno ha lasciato una bozza aperta. Il messaggio di possibile conflitto di modifica del contenuto è il seguente:
 
@@ -464,7 +470,7 @@ Questo di solito accade quando due persone stanno cercando di lavorare sullo ste
 
 I paragrafi seguenti spiegano quali possono essere le diverse cause del conflitto di modifica e propongono alcune relative soluzioni.
 
-\ |STYLE96|\ 
+\ |STYLE102|\ 
 
 A volte, quando si modifica un contenuto, può capitare di chiudere accidentalmente il browser, di uscire dall’interfaccia di modifica utilizzando il tasto “Indietro” del proprio browser oppure semplicemente di fare clic sul pulsante "Salva bozza e esci". 
 
@@ -474,46 +480,46 @@ L'immagine seguente mostra come appare questo avvertimento.
 
 \ |IMG41|\ 
 
-\ |STYLE97|\ 
+\ |STYLE103|\ 
 
 Il sistema sta semplicemente cercando di dirti che hai già iniziato a modificare questo oggetto ma non ne hai ancora pubblicato il contenuto. Tieni presente che potresti aver lasciato aperte diverse bozze. In tal caso, la finestra sotto l'avviso ti mostrerà tutte le bozze non pubblicate relative a questo oggetto.
 
-\ |STYLE98|\ 
+\ |STYLE104|\ 
 
-* È possibile selezionare una delle bozze (es.: n. 55) e modificarla utilizzando il pulsante \ |STYLE99|\ . Questo è l'approccio più comunemente usato poiché di solito c'è solo una bozza non pubblicata. Se ci sono diverse bozze non pubblicate, dovresti rimuoverle per evitare ulteriori conflitti. Inoltre, dovresti selezionare la bozza più recente da modificare per continuare a lavorare sulla versione più aggiornata.
+* È possibile selezionare una delle bozze (es.: n. 55) e modificarla utilizzando il pulsante \ |STYLE105|\ . Questo è l'approccio più comunemente usato poiché di solito c'è solo una bozza non pubblicata. Se ci sono diverse bozze non pubblicate, dovresti rimuoverle per evitare ulteriori conflitti. Inoltre, dovresti selezionare la bozza più recente da modificare per continuare a lavorare sulla versione più aggiornata.
 
-* Puoi creare una nuova bozza facendo clic sul pulsante \ |STYLE100|\  e modificarla (in questo caso verrà creata una nuova bozza, n. 56). Tuttavia, tieni presente che la nuova bozza sarà una copia della versione pubblicata. La bozza che causa il conflitto (n. 55) potrebbe contenere informazioni aggiornate/nuove. Se crei una nuova bozza, dovresti quindi assicurarti di rimuovere quella che causa il conflitto.
+* Puoi creare una nuova bozza facendo clic sul pulsante \ |STYLE106|\  e modificarla (in questo caso verrà creata una nuova bozza, n. 56). Tuttavia, tieni presente che la nuova bozza sarà una copia della versione pubblicata. La bozza che causa il conflitto (n. 55) potrebbe contenere informazioni aggiornate/nuove. Se crei una nuova bozza, dovresti quindi assicurarti di rimuovere quella che causa il conflitto.
 
-\ |STYLE101|\ 
+\ |STYLE107|\ 
 
 A volte, può capitare che qualcun altro stia modificando lo stesso oggetto che vorresti modificare tu. Potrebbe essere che l'altra persona lo stia modificando proprio in quel momento, oppure che l'altra persona abbia lasciato una bozza aperta (5). In tutti questi casi, quando proverai a modificare lo stesso oggetto, il sistema mostrerà un avviso che indica che esiste un conflitto di modifica.
 
 \ |IMG42|\ 
 
-Il sistema sta semplicemente cercando di dirti che dovresti stare attento, perché qualcun altro sta lavorando sullo stesso oggetto. Si noti che potrebbero esserci diverse bozze nell'elenco. Tuttavia, il caso più comune è che ce n'è una sola. A differenza dello scenario precedente, non è possibile modificare la bozza (che causa il conflitto) perché \ |STYLE102|\ .
+Il sistema sta semplicemente cercando di dirti che dovresti stare attento, perché qualcun altro sta lavorando sullo stesso oggetto. Si noti che potrebbero esserci diverse bozze nell'elenco. Tuttavia, il caso più comune è che ce n'è una sola. A differenza dello scenario precedente, non è possibile modificare la bozza (che causa il conflitto) perché \ |STYLE108|\ .
 
-\ |STYLE103|\ 
+\ |STYLE109|\ 
 
-* Puoi creare una nuova bozza facendo clic sul pulsante \ |STYLE104|\  e modificarla. Tuttavia, tieni presente che la nuova bozza sarà una copia della versione pubblicata (n. 4). La bozza che causa il conflitto (n. 5) potrebbe contenere informazioni aggiornate/nuove. Ti consigliamo in questo caso di \ |STYLE105|\ . Se decidi invece di procedere nella creazione di una nuova bozza (n. 6) devi essere consapevole che le modifiche apportate da te potrebbe essere sovrascritte nel momento in cui la persona che sta modificando la bozza n. 5 decide di pubblicarla.
+* Puoi creare una nuova bozza facendo clic sul pulsante \ |STYLE110|\  e modificarla. Tuttavia, tieni presente che la nuova bozza sarà una copia della versione pubblicata (n. 4). La bozza che causa il conflitto (n. 5) potrebbe contenere informazioni aggiornate/nuove. Ti consigliamo in questo caso di \ |STYLE111|\ . Se decidi invece di procedere nella creazione di una nuova bozza (n. 6) devi essere consapevole che le modifiche apportate da te potrebbe essere sovrascritte nel momento in cui la persona che sta modificando la bozza n. 5 decide di pubblicarla.
 
-\ |STYLE106|\ 
+\ |STYLE112|\ 
 
 A volte, può capitare che qualcun altro stia modificando lo stesso oggetto che desideri modificare. Inoltre, potrebbero esserci ulteriori bozze che sono state lasciate aperte da te durante l’operazione di modifica di una pagina. In questo caso, l'interfaccia di amministrazione mostrerà un avviso simile a quelli mostrati nei casi precedenti.
 
 \ |IMG43|\ 
 
-In questo caso, ti consigliamo di \ |STYLE107|\  e/o di sbarazzarti delle tue bozze aperte, se necessario.
+In questo caso, ti consigliamo di \ |STYLE113|\  e/o di sbarazzarti delle tue bozze aperte, se necessario.
 
 .. _h1269667a4b36736232811641473f:
 
 Gestisci le versioni di un contenuto
 ------------------------------------
 
-Nei siti di OpenPA, ogni contenuto creato viene memorizzato come "\ |STYLE108|\ ". Ad esempio, un articolo è un oggetto, un account utente è un oggetto e così via.
+Nei siti di OpenPA, ogni contenuto creato viene memorizzato come "\ |STYLE114|\ ". Ad esempio, un articolo è un oggetto, un account utente è un oggetto e così via.
 
-Quando si \ |LINK29|\ , viene assegnato un \ |STYLE109|\  (es.: 1). Se si modifica l'oggetto, viene assegnato un nuovo numero di versione (es.: 2, 3 e così via). Sia l'originale che le nuove versioni dell'oggetto vengono memorizzate nel database.
+Quando si crea un nuovo oggetto, viene assegnato un \ |STYLE115|\  (es.: 1). Se si modifica l'oggetto, viene assegnato un nuovo numero di versione (es.: 2, 3 e così via). Sia l'originale che le nuove versioni dell'oggetto vengono memorizzate nel database.
 
-Grazie a questo sistema di controllo delle versioni, è possibile \ |STYLE110|\ . Ad esempio, se una nuova versione di un oggetto contiene un errore, è possibile ripristinare l'oggetto alla versione precedente.
+Grazie a questo sistema di controllo delle versioni, è possibile \ |STYLE116|\ . Ad esempio, se una nuova versione di un oggetto contiene un errore, è possibile ripristinare l'oggetto alla versione precedente.
 
 Solo un numero limitato di versioni di ciascun oggetto contenuto viene memorizzato nel database (per evitare che il database diventi troppo grande). Nel caso dei siti di OpenPA vengono memorizzate al massimo 10 versioni precedenti dell’oggetto pubblicato.
 
@@ -522,7 +528,7 @@ Solo un numero limitato di versioni di ciascun oggetto contenuto viene memorizza
 Ripristina la versione precedente di un oggetto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Per ripristinare una versione precedente di un oggetto, \ |LINK30|\ , quindi accedere al contenuto che si desidera ripristinare. (Per impostazione predefinita, solo i membri dei gruppi Editor e Administrator hanno accesso a questa funzione.)
+Per ripristinare una versione precedente di un oggetto, accedere al sistema, quindi accedere al contenuto che si desidera ripristinare. (Per impostazione predefinita, solo i membri dei gruppi Editor e Administrator hanno accesso a questa funzione.)
 
 Clicca sul pulsante Informazioni per l’editor (in alto a destra, sulla barra degli strumenti)
 
@@ -540,7 +546,7 @@ Questo creerà una nuova bozza. Fai clic sul pulsante Modifica per modificare la
 
 \ |IMG47|\ 
 
-Fai clic sul pulsante \ |STYLE111|\  per pubblicare l’oggetto e ripristinare così la sua versione precedente. Se lo desideri, puoi comunque modificare l'oggetto prima di pubblicare la versione ripristinata.
+Fai clic sul pulsante \ |STYLE117|\  per pubblicare l’oggetto e ripristinare così la sua versione precedente. Se lo desideri, puoi comunque modificare l'oggetto prima di pubblicare la versione ripristinata.
 
 La nuova versione (3) sostituirà la versione corrente (2). La versione dell'oggetto che hai appena sostituito invece rimarrà comunque nel database delle versioni precedenti come “Archiviata” e potrà essere ripristinata nello stesso modo appena descritto.
 
@@ -549,7 +555,7 @@ La nuova versione (3) sostituirà la versione corrente (2). La versione dell'ogg
 Gestisci i contenuti: l’interfaccia di amministrazione
 ******************************************************
 
-Lo scopo di questo capitolo è presentare una panoramica delle parti più comuni dell'\ |STYLE112|\  presente su tutti i siti appartenenti alla suite OpenPA (basati su piattaforma eZ Publish). L'interfaccia di amministrazione è composta da molte parti. Questo capitolo non tratta argomenti avanzati, ma si concentra sulle parti che sono maggiormente utilizzate da persone che si occupano della \ |STYLE113|\ .
+Lo scopo di questo capitolo è presentare una panoramica delle parti più comuni dell'\ |STYLE118|\  presente su tutti i siti appartenenti alla suite OpenPA (basati su piattaforma eZ Publish). L'interfaccia di amministrazione è composta da molte parti. Questo capitolo non tratta argomenti avanzati, ma si concentra sulle parti che sono maggiormente utilizzate da persone che si occupano della \ |STYLE119|\ .
 
 .. _h7c262e70684c79565c672495443d45:
 
@@ -568,7 +574,7 @@ Per superare la pagina di accesso, il visitatore deve fornire un nome utente e u
 
 Per avere un nome utente e una password validi, devi essere un utente registrato. 
 
-Dopo aver digitato il nome utente e la password corretti, fai clic sul pulsante \ |STYLE114|\  ("Accedi"):
+Dopo aver digitato il nome utente e la password corretti, fai clic sul pulsante \ |STYLE120|\  ("Accedi"):
 
 \ |IMG50|\ 
 
@@ -576,7 +582,7 @@ Nel caso in cui le informazioni fornite (Username o Password) non siano valide (
 
 \ |IMG51|\ 
 
-\ |STYLE115|\ 
+\ |STYLE121|\ 
 
 .. _hf464843526245477320527c5120671:
 
@@ -588,31 +594,31 @@ Panoramica
 Pannello strumenti
 ------------------
 
-Dopo aver effettuato correttamente il \ |LINK31|\ , l'interfaccia di amministrazione sarà, per impostazione predefinita, la pagina \ |STYLE116|\ .
+Dopo aver effettuato correttamente il login, l'interfaccia di amministrazione sarà, per impostazione predefinita, la pagina \ |STYLE122|\ .
 
 \ |IMG52|\ 
 
 \ |IMG53|\ 
 
-Il Pannello Strumenti è l'\ |STYLE117|\ . Questa area consente di accedere a diversi elementi e interfacce che appartengono all'utente che ha effettuato l'accesso.
+Il Pannello Strumenti è l'\ |STYLE123|\ . Questa area consente di accedere a diversi elementi e interfacce che appartengono all'utente che ha effettuato l'accesso.
 
 
 .. admonition:: Nota
 
-    \ |STYLE118|\ 
+    \ |STYLE124|\ 
 
 .. _h2f6451396a283a194b374719425122:
 
 Struttura contenuti
 -------------------
 
-La seguente schermata mostra la pagina che appare quando si fa clic sulla scheda \ |STYLE119|\ . Questa è l'area in cui, come redattore, trascorrerai la maggior parte del tuo tempo, aggiungendo e modificando i contenuti.
+La seguente schermata mostra la pagina che appare quando si fa clic sulla scheda \ |STYLE125|\ . Questa è l'area in cui, come redattore, trascorrerai la maggior parte del tuo tempo, aggiungendo e modificando i contenuti.
 
 \ |IMG54|\ 
 
 \ |IMG55|\ 
 
-\ |STYLE120|\ 
+\ |STYLE126|\ 
 
 Come mostrato sopra, l'interfaccia può essere divisa in 8 zone. Queste zone sono interattive e saranno sempre presenti. Sono gli elementi principali dell'interfaccia di amministrazione. Si noti che alcune zone verranno automaticamente disabilitate quando un utente attiva un'azione specifica (ad esempio, alcune parti dell'interfaccia non sono interattive durante la modifica).
 
@@ -620,7 +626,7 @@ L'interfaccia è composta dai seguenti elementi:
 
 #. Menù principale
 
-#. Menù \ |STYLE121|\  (“briciole di pane”)
+#. Menù \ |STYLE127|\  (“briciole di pane”)
 
 #. Menù secondario
 
@@ -656,20 +662,20 @@ La seguente tabella fornisce una breve panoramica delle voci di menu disponibili
 +------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |Voce del menù     |Descrizione                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 +==================+=============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================+
-|Pannello strumenti|Corrisponde all’\ |STYLE122|\  dell’utente. Quest’area consente di accedere a diversi elementi e interfacce che appartengono all'utente che ha effettuato l'accesso.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|Pannello strumenti|Corrisponde all’\ |STYLE128|\  dell’utente. Quest’area consente di accedere a diversi elementi e interfacce che appartengono all'utente che ha effettuato l'accesso.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 +------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE123|\     |Questa scheda porta l'utente in cima all'\ |STYLE124|\ . L’albero dei contenuti corrisponde ad una rappresentazione dei contenuti presenti sul sito web pubblico che si diramano a partire dalla pagina principale (spesso, l’Homepage).                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|\ |STYLE129|\     |Questa scheda porta l'utente in cima all'\ |STYLE130|\ . L’albero dei contenuti corrisponde ad una rappresentazione dei contenuti presenti sul sito web pubblico che si diramano a partire dalla pagina principale (spesso, l’Homepage).                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |                  |Se abilitato, il menù di sinistra (3) mostrerà invece un albero interattivo contenente i nodi che appartengono all'albero dei contenuti. L'area principale (4) visualizzerà le informazioni sul nodo di livello superiore selezionato insieme con un elenco di nodi collocati direttamente sotto di esso (5).                                                                                                                                                                                                                                                                                                                                                                                                |
 +------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE125|\     |La scheda Media (o “Libreria multimediale”) porta l'utente in cima all'\ |STYLE126|\ . Questa sezione può essere utilizzata per archiviare dati utilizzati frequentemente da altri nodi. Viene in genere utilizzato per archiviare \ |STYLE127|\ , \ |STYLE128|\  e \ |STYLE129|\  correlati ai nodi che si trovano nell'albero dei contenuti. La sezione non è accessibile all’utente esterno. Se abilitato, il menù di sinistra (3) mostrerà invece un albero interattivo contenente i nodi che appartengono all'albero dei contenuti. L'area principale (4) visualizzerà le informazioni sul nodo di livello superiore selezionato insieme con un elenco di nodi collocati direttamente sotto di esso (5).|
+|\ |STYLE131|\     |La scheda Media (o “Libreria multimediale”) porta l'utente in cima all'\ |STYLE132|\ . Questa sezione può essere utilizzata per archiviare dati utilizzati frequentemente da altri nodi. Viene in genere utilizzato per archiviare \ |STYLE133|\ , \ |STYLE134|\  e \ |STYLE135|\  correlati ai nodi che si trovano nell'albero dei contenuti. La sezione non è accessibile all’utente esterno. Se abilitato, il menù di sinistra (3) mostrerà invece un albero interattivo contenente i nodi che appartengono all'albero dei contenuti. L'area principale (4) visualizzerà le informazioni sul nodo di livello superiore selezionato insieme con un elenco di nodi collocati direttamente sotto di esso (5).|
 +------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE130|\     |La scheda Account utenti pporta l'utente in cima all'\ |STYLE131|\ . Lo scopo di questo albero è quello di memorizzare utenti e gruppi di utenti in modo strutturato.  Se abilitato, il menù di sinistra (3) mostrerà invece un albero interattivo contenente i nodi che appartengono all'albero dei contenuti. L'area principale (4) visualizzerà le informazioni sul nodo di livello superiore selezionato insieme con un elenco di nodi collocati direttamente sotto di esso (5).                                                                                                                                                                                                                         |
+|\ |STYLE136|\     |La scheda Account utenti pporta l'utente in cima all'\ |STYLE137|\ . Lo scopo di questo albero è quello di memorizzare utenti e gruppi di utenti in modo strutturato.  Se abilitato, il menù di sinistra (3) mostrerà invece un albero interattivo contenente i nodi che appartengono all'albero dei contenuti. L'area principale (4) visualizzerà le informazioni sul nodo di livello superiore selezionato insieme con un elenco di nodi collocati direttamente sotto di esso (5).                                                                                                                                                                                                                         |
 +------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE132|\     |La scheda Impostazioni porta l'utente nell'\ |STYLE133|\  principale. Questa area è per \ |STYLE134|\ .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|\ |STYLE138|\     |La scheda Impostazioni porta l'utente nell'\ |STYLE139|\  principale. Questa area è per \ |STYLE140|\ .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 +------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -687,7 +693,7 @@ Percorso interattivo (2) situato proprio sotto le schede del menu principale (1)
 
 \ |IMG58|\ 
 
-Il menù secondario consente di accedere al contenuto e/o alle interfacce associate alla scheda selezionata nel menu principale (1). Il menù a sinistra delle prime tre schede ("Struttura contenuti", "Media" e "Account utenti") si presenta e si comporta allo stesso modo. Queste schede forniscono \ |STYLE135|\ . Quando la scheda "Struttura  contenuti" è selezionata, il menù a sinistra darà accesso all'albero dei contenuti, quando è selezionata la sezione "Media”, il menù a sinistra darà accesso all'albero dei media, ecc. Il menù a sinistra, per le schede rimanenti, si comporta diversamente e dà accesso a diverse interfacce. A differenza delle rappresentazioni ad albero, questo menù non può essere disabilitato e quindi sarà sempre visualizzato.
+Il menù secondario consente di accedere al contenuto e/o alle interfacce associate alla scheda selezionata nel menu principale (1). Il menù a sinistra delle prime tre schede ("Struttura contenuti", "Media" e "Account utenti") si presenta e si comporta allo stesso modo. Queste schede forniscono \ |STYLE141|\ . Quando la scheda "Struttura  contenuti" è selezionata, il menù a sinistra darà accesso all'albero dei contenuti, quando è selezionata la sezione "Media”, il menù a sinistra darà accesso all'albero dei media, ecc. Il menù a sinistra, per le schede rimanenti, si comporta diversamente e dà accesso a diverse interfacce. A differenza delle rappresentazioni ad albero, questo menù non può essere disabilitato e quindi sarà sempre visualizzato.
 
 #. Area principale
 
@@ -699,7 +705,7 @@ Il menù secondario consente di accedere al contenuto e/o alle interfacce associ
 
 L'area dei sotto-elementi visualizza le pagine secondarie, le cartelle, i contenuti multimediali, gli oggetti utente o altri oggetti contenuti all’interno della pagina principale selezionata.
 
-L'elenco dei sotto-elementi (chiamati anche “\ |STYLE136|\ ”) ha una funzione di ordinamento che permette di ordinare i “figli” come si desidera. 
+L'elenco dei sotto-elementi (chiamati anche “\ |STYLE142|\ ”) ha una funzione di ordinamento che permette di ordinare i “figli” come si desidera. 
 
 Si noti che le schede "Struttura contenuti", "Media" e "Account utenti" sono predefinite con un diverso set predefinito di colonne nella tabella dei sotto-elementi. Queste colonne possono essere personalizzate dall'utente in "Opzioni tabella" come descritto nella documentazione della scheda Struttura contenuti.
 
@@ -709,13 +715,13 @@ Si noti che le schede "Struttura contenuti", "Media" e "Account utenti" sono pre
 
 L'area destra è dedicata all'utente che ha effettuato l'accesso. Si tratta di un menù comprimibile. FaI clic sull'icona con la freccia per espandere/comprimere il menù. 
 
-Questo menù rivela il nome dell'utente e fornisce collegamenti che possono essere utilizzati per modificare le informazioni e la password dell'utente. La sezione \ |STYLE137|\  contiene un elenco dei segnalibri dell'utente corrente. Questi sono i segnalibri interni al sito web che si è deciso di aggiungere. Fornisce anche un pulsante che può essere utilizzato per contrassegnare con un segnalibro il nodo attualmente visualizzato (“Aggiungi ai segnalibri”). La parte inferiore del menù a destra contiene inoltre strumenti per sviluppatori.
+Questo menù rivela il nome dell'utente e fornisce collegamenti che possono essere utilizzati per modificare le informazioni e la password dell'utente. La sezione \ |STYLE143|\  contiene un elenco dei segnalibri dell'utente corrente. Questi sono i segnalibri interni al sito web che si è deciso di aggiungere. Fornisce anche un pulsante che può essere utilizzato per contrassegnare con un segnalibro il nodo attualmente visualizzato (“Aggiungi ai segnalibri”). La parte inferiore del menù a destra contiene inoltre strumenti per sviluppatori.
 
 #. Motore di ricerca
 
 \ |IMG62|\ 
 
-Il motore di ricerca si trova nell'angolo in alto a destra. È sempre presente e può essere utilizzato per la ricerca indipendentemente dalla sezione in cui ci si trova. Il motore di ricerca viene disabilitato ogni volta che l'interfaccia è in modalità \ |STYLE138|\  (ad esempio, quando un oggetto viene modificato). 
+Il motore di ricerca si trova nell'angolo in alto a destra. È sempre presente e può essere utilizzato per la ricerca indipendentemente dalla sezione in cui ci si trova. Il motore di ricerca viene disabilitato ogni volta che l'interfaccia è in modalità \ |STYLE144|\  (ad esempio, quando un oggetto viene modificato). 
 
 Il comportamento predefinito del motore di ricerca è che il sistema cercherà le parole specificate all'interno dell'intero albero dei nodi. 
 
@@ -727,7 +733,7 @@ Il pulsante di opzione "Nella stessa collocazione" consente di limitare la ricer
 
 \ |IMG64|\ 
 
-Il pulsante \ |STYLE139|\  può essere utilizzato per terminare la sessione disconnettendosi dal sistema.
+Il pulsante \ |STYLE145|\  può essere utilizzato per terminare la sessione disconnettendosi dal sistema.
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -736,835 +742,568 @@ Il pulsante \ |STYLE139|\  può essere utilizzato per terminare la sessione disc
 
  
 
-.. _h1d702a1d12456626641e4c30244166:
-
-Personalizza i tuoi testi 
-**************************
-
-.. _h4f6c2911a4178503d30662c55756643:
-
-Panoramica: l’Editor online
-===========================
-
-.. _h4fbf22304b276e215b655a353c7f25:
-
-\ |IMG65|\ ***********
-
-L'Editor online è un’estensione che si trova installata su tutti i siti web della suite OpenPA (basati su piattaforma eZ Publish). Consente di \ |STYLE140|\  utilizzando un'interfaccia intuitiva. 
-
-Con l'Editor online puoi facilmente personalizzare e ottimizzare - dal punto di vista della formattazione - grandi sezioni di testo inserite all’interno dei tuoi articoli e/o della tue pagine del sito: esso consente infatti di inserire \ |STYLE141|\  e \ |STYLE142|\ , di aggiungere \ |STYLE143|\ , creare \ |STYLE144|\  e molto altro ancora. 
-
-\ |STYLE145|\ 
-
-L’Editor online converte automaticamente ttute le tue istruzioni in \ |STYLE146|\  eZ Publish, un formato molto facile da esportare su canali diversi, senza che tu mai debba lavorare direttamente sul codice XML.
-
-L'interfaccia dell’Editor online infatti è molto simile a quella che si trova in molti editor di testo (es.: Microsoft Word, LibreOffice Writer, OpenOffice Writer, Google Documents).
-
-L'Editor online, inoltre, \ |STYLE147|\ . In altre parole, è possibile creare collegamenti/titoli/tabelle/elenchi ecc., ma non è possibile impostare direttamente i loro colori o altre specifiche relative al layout. (L’impostazione grafica viene decisa dallo sviluppatore a livello di template).
-
-Grazie all’Editor online sono supportate le seguenti opzioni di formattazione:
-
-* Formati di testo e titoli
-
-* Testo in grassetto
-
-* Testo in corsivo
-
-* Testo sottolineato
-
-* Sub-script
-
-* Super-script
-
-* Liste ordinate (numerate)
-
-* Liste non ordinate (elenco puntato)
-
-* Collegamenti ipertestuali
-
-* Ancore
-
-* Oggetti incorporati (immagini e oggetti)
-
-* Tag personalizzati
-
-* Testo letterale
-
-* Tabelle
-
-* Tabella righe e colonne
-
-* Celle di intestazione della tabella
-
-* Unisci/dividi celle
-
-* Linee e paragrafi
-
-.. _h4f451185029547d38734478361d5051:
-
-La barra degli strumenti 
-=========================
-
-La barra degli strumenti dell’online Editor contiene strumenti per la modifica del contenuto che viene visualizzato nell'area di testo sottostante. I pulsanti sono molto simili a quelli presenti in molti Editor di testo (es.: Microsoft Word). 
-
-Ad esempio, se selezioni una parte di testo e fai clic sul pulsante \ |STYLE148|\ , il testo selezionato diventerà grassetto. 
-
-La seguente schermata mostra i diversi pulsanti:
-
-\ |IMG66|\ 
-
-\ |IMG67|\ 
-
-.. _h195511344f4a5c69502674a63e7e74:
-
-Ridimensiona l'area di testo
-----------------------------
-
-Il testo formattato viene inserito in un'\ |STYLE149|\  multilinea modificabile.
-
-È possibile modificare l'altezza dell'area di testo dell’Editor online trascinando la maniglia di ridimensionamento situata nell'angolo in basso a destra dell'interfaccia.
-
-\ |IMG68|\ 
-
-.. _h3944f29446246664579191a6b80a38:
-
-Visualizza i suggerimenti dei pulsanti
---------------------------------------
-
-Ogni pulsante ha un suggerimento che viene visualizzato quando il puntatore del mouse si posiziona sopra il pulsante stesso. I suggerimenti vengono utilizzati per fornire ulteriori informazioni sull'azione che verrà eseguita dal pulsante quando si fa clic. Lo screenshot qui sotto ne è un esempio.
-
-\ |IMG69|\ 
-
-I pulsanti della barra degli strumenti temporaneamente disabilitati dispongono ancora di suggerimenti sul comando, ma non è possibile fare clic sui pulsanti come mostrato nell'immagine seguente.
-
-\ |IMG70|\ 
-
-.. _h5c753b115859025631267f56753646:
-
-Inserisci allegati all'interno del testo
-----------------------------------------
-
-All'interno del campo dove è possibile inserire testo formattato (ad esempio il corpo dell'articolo) nella barra degli strumenti. Si utilizza l'icona con la graffetta (1) per allegare un file, che viene visualizzato nella posizione in cui si trova il cursore dentro il campo (2).
-
-\ |IMG71|\ 
-
-Facendo clic sulla graffetta, si aprirà una finestra che consente di caricare un file (carica) oppure scegliere un oggetto già presente a sistema (cerca, naviga, preferiti).
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **interfaccia**
+.. |STYLE0| replace:: **sistema di gestione dei contenuti web**
 
-.. |STYLE1| replace:: **semplifica la creazione e la gestione dei contenuti del sito web**
+.. |STYLE1| replace:: *suite*
 
-.. |STYLE2| replace:: **La maggior parte delle attività di gestione del sito web può essere eseguita tramite l'interfaccia del redattore.**
+.. |STYLE2| replace:: *open source*
 
-.. |STYLE3| replace:: **interfaccia del redattore (front-end)**
+.. |STYLE3| replace:: **eZ Publish**
 
-.. |STYLE4| replace:: **interfaccia di amministrazione (back-end)**
+.. |STYLE4| replace:: *open source*
 
-.. |STYLE5| replace:: **L'interfaccia del redattore**
+.. |STYLE5| replace:: **interfaccia**
 
-.. |STYLE6| replace:: **interfaccia del redattore**
+.. |STYLE6| replace:: **semplificare la creazione e la gestione dei contenuti del sito web**
 
-.. |STYLE7| replace:: **Editor**
+.. |STYLE7| replace:: **interfaccia del redattore (front-end)**
 
-.. |STYLE8| replace:: **Amministratore**
+.. |STYLE8| replace:: **interfaccia di amministrazione (back-end)**
 
-.. |STYLE9| replace:: **L'interfaccia di amministrazione**
+.. |STYLE9| replace:: **L'interfaccia del redattore**
 
-.. |STYLE10| replace:: **gestione degli utenti**
+.. |STYLE10| replace:: **interfaccia del redattore**
 
-.. |STYLE11| replace:: **progettazione del sito**
+.. |STYLE11| replace:: **Editor**
 
-.. |STYLE12| replace:: **Accedi con il tuo account**
+.. |STYLE12| replace:: **Amministratore**
 
-.. |STYLE13| replace:: **Login**
+.. |STYLE13| replace:: **L'interfaccia di amministrazione**
 
-.. |STYLE14| replace:: *Messaggio di accesso non riuscito*
+.. |STYLE14| replace:: **gestione degli utenti**
 
-.. |STYLE15| replace:: **barra degli strumenti**
+.. |STYLE15| replace:: **progettazione del sito**
 
-.. |STYLE16| replace:: **Profilo utente**
+.. |STYLE16| replace:: **Accedi con il tuo account**
 
-.. |STYLE17| replace:: **Strumenti**
+.. |STYLE17| replace:: **Login**
 
-.. |STYLE18| replace:: **Logout**
+.. |STYLE18| replace:: *Messaggio di accesso non riuscito*
 
-.. |STYLE19| replace:: **Profilo utente**
+.. |STYLE19| replace:: **barra degli strumenti**
 
-.. |STYLE20| replace:: **bozza**
+.. |STYLE20| replace:: **Profilo utente**
 
-.. |STYLE21| replace:: **accedervi, modificarla ed eventualmente pubblicarla**
+.. |STYLE21| replace:: **Strumenti**
 
-.. |STYLE22| replace:: **strutturazione dei dati**
+.. |STYLE22| replace:: **Logout**
 
-.. |STYLE23| replace:: **classe di contenuto**
+.. |STYLE23| replace:: **Profilo utente**
 
-.. |STYLE24| replace:: **oggetto di contenuto**
+.. |STYLE24| replace:: **bozza**
 
-.. |STYLE25| replace:: **classe**
+.. |STYLE25| replace:: **accedervi, modificarla ed eventualmente pubblicarla**
 
-.. |STYLE26| replace:: **struttura dati predefinita che rappresenta una specifica tipologia di contenuto**
+.. |STYLE26| replace:: **interfaccia del redattore**
 
-.. |STYLE27| replace:: **classe di contenuto**
+.. |STYLE27| replace:: **strutturazione dei dati**
 
-.. |STYLE28| replace:: **modello per un particolare tipo di contenuto che esprime gli**
+.. |STYLE28| replace:: **classe di contenuto**
 
-.. |STYLE29| replace:: **di quell'oggetto**
+.. |STYLE29| replace:: **oggetto di contenuto**
 
-.. |STYLE30| replace:: **oggetti di contenuto**
+.. |STYLE30| replace:: **classe**
 
-.. |STYLE31| replace:: **singoli oggetti**
+.. |STYLE31| replace:: **struttura dati predefinita che rappresenta una specifica tipologia di contenuto**
 
-.. |STYLE32| replace:: **contenitori**
+.. |STYLE32| replace:: **classe di contenuto**
 
-.. |STYLE33| replace:: **Avviso**
+.. |STYLE33| replace:: **modello per un particolare tipo di contenuto che esprime gli attributi di quell'oggetto**
 
-.. |STYLE34| replace:: *contenuti*
+.. |STYLE34| replace:: **oggetti di contenuto**
 
-.. |STYLE35| replace:: **Pagina del sito**
+.. |STYLE35| replace:: **singoli oggetti**
 
-.. |STYLE36| replace:: *contenitore*
+.. |STYLE36| replace:: **contenitori**
 
-.. |STYLE37| replace:: **Pagina del sito**
+.. |STYLE37| replace:: **Avviso**
 
-.. |STYLE38| replace:: **attributi**
+.. |STYLE38| replace:: *contenuti*
 
-.. |STYLE39| replace:: *La classe*
+.. |STYLE39| replace:: **Pagina del sito**
 
-.. |STYLE40| replace:: **Tasso di assenza**
+.. |STYLE40| replace:: *contenitore*
 
-.. |STYLE41| replace:: *con i suoi attributi.*
+.. |STYLE41| replace:: **Pagina del sito**
 
 .. |STYLE42| replace:: **attributi**
 
-.. |STYLE43| replace:: **le interfacce di creazione e modifica di un contenuto sono infatti basate sugli attributi specifici di ogni classe di contenuto**
+.. |STYLE43| replace:: *La classe*
 
-.. |STYLE44| replace:: *Interfaccia di creazione e di modifica di un contenuto*
+.. |STYLE44| replace:: **Tasso di assenza**
 
-.. |STYLE45| replace:: **Relazione oggetti**
+.. |STYLE45| replace:: *con i suoi attributi.*
 
-.. |STYLE46| replace:: **mettono in relazione un oggetto con altri presenti nel sistema**
+.. |STYLE46| replace:: **attributi**
 
-.. |STYLE47| replace:: **Avviso**
+.. |STYLE47| replace:: **le interfacce di creazione e modifica di un contenuto sono infatti basate sugli attributi specifici di ogni classe di contenuto**
 
-.. |STYLE48| replace:: **Ufficio proponente**
+.. |STYLE48| replace:: *Interfaccia di creazione e di modifica di un contenuto*
 
-.. |STYLE49| replace:: **gerarchia dei contenuti**
+.. |STYLE49| replace:: **Relazione oggetti**
 
-.. |STYLE50| replace:: *content management*
+.. |STYLE50| replace:: **mettono in relazione un oggetto con altri presenti nel sistema**
 
-.. |STYLE51| replace:: *La barra degli strumenti con le varie funzionalità*
+.. |STYLE51| replace:: **Avviso**
 
-.. |STYLE52| replace:: **sono contestuali al contenuto visualizzato**
+.. |STYLE52| replace:: **Ufficio proponente**
 
-.. |STYLE53| replace:: **Creare un nuovo contenuto**
+.. |STYLE53| replace:: **gerarchia dei contenuti**
 
-.. |STYLE54| replace:: **Modificare un contenuto esistente**
+.. |STYLE54| replace:: *content management*
 
-.. |STYLE55| replace:: **Spostare un contenuto**
+.. |STYLE55| replace:: *La barra degli strumenti con le varie funzionalità*
 
-.. |STYLE56| replace:: **Eliminare un contenuto**
+.. |STYLE56| replace:: **sono contestuali al contenuto visualizzato**
 
-.. |STYLE57| replace:: **Visualizzare un contenuto in più posti**
+.. |STYLE57| replace:: **Creare un nuovo contenuto**
 
-.. |STYLE58| replace:: **Ordinare un elenco di contenuti**
+.. |STYLE58| replace:: **Modificare un contenuto esistente**
 
-.. |STYLE59| replace:: **Caricare file multipli:**
+.. |STYLE59| replace:: **Spostare un contenuto**
 
-.. |STYLE60| replace:: **Aggiornare i menu:**
+.. |STYLE60| replace:: **Eliminare un contenuto**
 
-.. |STYLE61| replace:: **Copiare un contenuto**
+.. |STYLE61| replace:: **Visualizzare un contenuto in più posti**
 
-.. |STYLE62| replace:: **Accedere all’interfaccia di amministrazione**
+.. |STYLE62| replace:: **Ordinare un elenco di contenuti**
 
-.. |STYLE63| replace:: **Tradurre un contenuto**
+.. |STYLE63| replace:: **Caricare file multipli:**
 
-.. |STYLE64| replace:: **Visualizzazione le informazioni sul contenuto:**
+.. |STYLE64| replace:: **Aggiornare i menu:**
 
-.. |STYLE65| replace:: *Creazione di un nuovo oggetto di tipo*
+.. |STYLE65| replace:: **Copiare un contenuto**
 
-.. |STYLE66| replace:: **Evento**
+.. |STYLE66| replace:: **Accedere all’interfaccia di amministrazione**
 
-.. |STYLE67| replace:: *.*
+.. |STYLE67| replace:: **Tradurre un contenuto**
 
-.. |STYLE68| replace:: **sono contestuali al contenuto visualizzato**
+.. |STYLE68| replace:: **Visualizzazione le informazioni sul contenuto:**
 
-.. |STYLE69| replace:: **Crea qui**
+.. |STYLE69| replace:: *Creazione di un nuovo oggetto di tipo*
 
-.. |STYLE70| replace:: **navigare verso il contenuto**
+.. |STYLE70| replace:: **Evento**
 
-.. |STYLE71| replace:: **si clicca sull’icona della matita**
+.. |STYLE71| replace:: *.*
 
-.. |STYLE72| replace:: **interfaccia di modifica**
+.. |STYLE72| replace:: **sono contestuali al contenuto visualizzato**
 
-.. |STYLE73| replace:: **basata sugli attributi della**
+.. |STYLE73| replace:: **Crea qui**
 
-.. |STYLE74| replace:: **Sposta**
+.. |STYLE74| replace:: **navigare verso il contenuto**
 
-.. |STYLE75| replace:: **Seleziona**
+.. |STYLE75| replace:: **si clicca sull’icona della matita**
 
-.. |STYLE76| replace:: **Informazioni tecniche**
+.. |STYLE76| replace:: **interfaccia di modifica**
 
-.. |STYLE77| replace:: **Cestino**
+.. |STYLE77| replace:: **basata sugli attributi della**
 
-.. |STYLE78| replace:: **Elimina**
+.. |STYLE78| replace:: **Sposta**
 
-.. |STYLE79| replace:: **Rimuovi il contenuto spostandolo nel cestino (predefinito)**
+.. |STYLE79| replace:: **Seleziona**
 
-.. |STYLE80| replace:: **Cancella il contenuto de-selezionando la casella Sposta nel cestino**
+.. |STYLE80| replace:: **Informazioni tecniche**
 
-.. |STYLE81| replace:: **Aggiungi collocazioni**
+.. |STYLE81| replace:: **Cestino**
 
-.. |STYLE82| replace:: **Aggiungi collocazioni**
+.. |STYLE82| replace:: **Elimina**
 
-.. |STYLE83| replace:: **Seleziona**
+.. |STYLE83| replace:: **Rimuovi il contenuto spostandolo nel cestino (predefinito)**
 
-.. |STYLE84| replace:: **Ordina**
+.. |STYLE84| replace:: **Cancella il contenuto de-selezionando la casella Sposta nel cestino**
 
-.. |STYLE85| replace:: **Modalità di ordinamento**
+.. |STYLE85| replace:: **Aggiungi collocazioni**
 
-.. |STYLE86| replace:: **Nome**
+.. |STYLE86| replace:: **Aggiungi collocazioni**
 
-.. |STYLE87| replace:: **Pubblicato**
+.. |STYLE87| replace:: **Seleziona**
 
-.. |STYLE88| replace:: **Priorità**
+.. |STYLE88| replace:: **Ordina**
 
-.. |STYLE89| replace:: **Salva**
+.. |STYLE89| replace:: **Modalità di ordinamento**
 
-.. |STYLE90| replace:: **bozza**
+.. |STYLE90| replace:: **Nome**
 
-.. |STYLE91| replace:: **Salva bozza**
+.. |STYLE91| replace:: **Pubblicato**
 
-.. |STYLE92| replace:: **Salva bozza e esci**
+.. |STYLE92| replace:: **Priorità**
 
-.. |STYLE93| replace:: **Profilo utente**
+.. |STYLE93| replace:: **Salva**
 
-.. |STYLE94| replace:: **Annulla**
+.. |STYLE94| replace:: **bozza**
 
-.. |STYLE95| replace:: **conflitto di modifica**
+.. |STYLE95| replace:: **Salva bozza**
 
-.. |STYLE96| replace:: **Problema di bozza non pubblicata: stesso utente**
+.. |STYLE96| replace:: **Salva bozza e esci**
 
-.. |STYLE97| replace:: *Conflitto di modifica dell'oggetto*
+.. |STYLE97| replace:: **Le mie bozze**
 
-.. |STYLE98| replace:: **Possibili soluzioni**
+.. |STYLE98| replace:: **Profilo utente**
 
-.. |STYLE99| replace:: **Modifica**
+.. |STYLE99| replace:: **Annulla**
 
-.. |STYLE100| replace:: **Nuova bozza**
+.. |STYLE100| replace:: **Eliminare un contenuto**
 
-.. |STYLE101| replace:: **Problema di bozza non pubblicata: utente diverso**
+.. |STYLE101| replace:: **conflitto di modifica**
 
-.. |STYLE102| replace:: **appartiene a un altro utente**
+.. |STYLE102| replace:: **Problema di bozza non pubblicata: stesso utente**
 
-.. |STYLE103| replace:: **Possibili soluzioni**
+.. |STYLE103| replace:: *Conflitto di modifica dell'oggetto*
 
-.. |STYLE104| replace:: **Nuova bozza**
+.. |STYLE104| replace:: **Possibili soluzioni**
 
-.. |STYLE105| replace:: **contattare la persona a cui appartiene la bozza esistente prima di apportare ulteriori modifiche**
+.. |STYLE105| replace:: **Modifica**
 
-.. |STYLE106| replace:: **Problema di bozza non pubblicata: più utenti compreso te**
+.. |STYLE106| replace:: **Nuova bozza**
 
-.. |STYLE107| replace:: **contattare l'altra persona prima di fare qualsiasi altra cosa**
+.. |STYLE107| replace:: **Problema di bozza non pubblicata: utente diverso**
 
-.. |STYLE108| replace:: **oggetto**
+.. |STYLE108| replace:: **appartiene a un altro utente**
 
-.. |STYLE109| replace:: **numero di versione**
+.. |STYLE109| replace:: **Possibili soluzioni**
 
-.. |STYLE110| replace:: **ripristinare una versione precedente di un oggetto**
+.. |STYLE110| replace:: **Nuova bozza**
 
-.. |STYLE111| replace:: **Salva**
+.. |STYLE111| replace:: **contattare la persona a cui appartiene la bozza esistente prima di apportare ulteriori modifiche**
 
-.. |STYLE112| replace:: **interfaccia di amministrazione**
+.. |STYLE112| replace:: **Problema di bozza non pubblicata: più utenti compreso te**
 
-.. |STYLE113| replace:: **gestione dei contenuti**
+.. |STYLE113| replace:: **contattare l'altra persona prima di fare qualsiasi altra cosa**
 
-.. |STYLE114| replace:: **Login**
+.. |STYLE114| replace:: **oggetto**
 
-.. |STYLE115| replace:: *Messaggio di accesso non riuscito*
+.. |STYLE115| replace:: **numero di versione**
 
-.. |STYLE116| replace:: **Pannello Strumenti**
+.. |STYLE116| replace:: **ripristinare una versione precedente di un oggetto**
 
-.. |STYLE117| replace:: **area personale degli utenti**
+.. |STYLE117| replace:: **Salva**
 
-.. |STYLE118| replace:: *La prossima volta che effettui il login, la pagina iniziale sarà, per impostazione predefinita, la pagina in cui hai lavorato per ultima.*
+.. |STYLE118| replace:: **interfaccia di amministrazione**
 
-.. |STYLE119| replace:: **Struttura contenuti**
+.. |STYLE119| replace:: **gestione dei contenuti**
 
-.. |STYLE120| replace:: *Nota: le opzioni mostrate dipendono dai diritti dell'utente che accede.*
+.. |STYLE120| replace:: **Login**
 
-.. |STYLE121| replace:: *breadcrumb*
+.. |STYLE121| replace:: *Messaggio di accesso non riuscito*
 
-.. |STYLE122| replace:: **area personale**
+.. |STYLE122| replace:: **Pannello Strumenti**
 
-.. |STYLE123| replace:: **Struttura contenuti**
+.. |STYLE123| replace:: **area personale degli utenti**
 
-.. |STYLE124| replace:: **albero dei contenuti**
+.. |STYLE124| replace:: *La prossima volta che effettui il login, la pagina iniziale sarà, per impostazione predefinita, la pagina in cui hai lavorato per ultima.*
 
-.. |STYLE125| replace:: **Media**
+.. |STYLE125| replace:: **Struttura contenuti**
 
-.. |STYLE126| replace:: **albero dei Media**
+.. |STYLE126| replace:: *Nota: le opzioni mostrate dipendono dai diritti dell'utente che accede.*
 
-.. |STYLE127| replace:: **immagini**
+.. |STYLE127| replace:: *breadcrumb*
 
-.. |STYLE128| replace:: **animazioni**
+.. |STYLE128| replace:: **area personale**
 
-.. |STYLE129| replace:: **documenti**
+.. |STYLE129| replace:: **Struttura contenuti**
 
-.. |STYLE130| replace:: **Account utenti**
+.. |STYLE130| replace:: **albero dei contenuti**
 
-.. |STYLE131| replace:: **albero degli Utenti**
+.. |STYLE131| replace:: **Media**
 
-.. |STYLE132| replace:: **Impostazioni**
+.. |STYLE132| replace:: **albero dei Media**
 
-.. |STYLE133| replace:: **area di configurazione**
+.. |STYLE133| replace:: **immagini**
 
-.. |STYLE134| replace:: **utenti esperti**
+.. |STYLE134| replace:: **animazioni**
 
-.. |STYLE135| replace:: **accesso a diverse parti dell'albero dei nodi**
+.. |STYLE135| replace:: **documenti**
 
-.. |STYLE136| replace:: **figli**
+.. |STYLE136| replace:: **Account utenti**
 
-.. |STYLE137| replace:: **Preferiti**
+.. |STYLE137| replace:: **albero degli Utenti**
 
-.. |STYLE138| replace:: *modifica*
+.. |STYLE138| replace:: **Impostazioni**
 
-.. |STYLE139| replace:: **Scollegati**
+.. |STYLE139| replace:: **area di configurazione**
 
-.. |STYLE140| replace:: **formattare il testo**
+.. |STYLE140| replace:: **utenti esperti**
 
-.. |STYLE141| replace:: **immagini**
+.. |STYLE141| replace:: **accesso a diverse parti dell'albero dei nodi**
 
-.. |STYLE142| replace:: **tabelle**
+.. |STYLE142| replace:: **figli**
 
-.. |STYLE143| replace:: **collegamenti**
+.. |STYLE143| replace:: **Preferiti**
 
-.. |STYLE144| replace:: **elenchi puntati e ordinati**
+.. |STYLE144| replace:: *modifica*
 
-.. |STYLE145| replace:: **Come funziona?**
-
-.. |STYLE146| replace:: *codice XML*
-
-.. |STYLE147| replace:: **formatta il testo a un livello logico**
-
-.. |STYLE148| replace:: **Grassetto**
-
-.. |STYLE149| replace:: **area di testo**
+.. |STYLE145| replace:: **Scollegati**
 
 
 .. |LINK1| raw:: html
 
-    <a href="#heading=h.n4svwnvcjsjv">Gestione del profilo utente</a>
+    <a href="https://www.opencontent.it/Per-la-PA/OpenCity" target="_blank">OpenCity</a>
 
 .. |LINK2| raw:: html
 
-    <a href="#heading=h.puwcf7tgiycx">Gestione dei contenuti</a>
+    <a href="https://www.opencontent.it/Per-la-PA" target="_blank">OpenPA</a>
 
 .. |LINK3| raw:: html
 
-    <a href="#heading=h.n4svwnvcjsjv">accesso al sistema</a>
-
-.. |LINK4| raw:: html
-
-    <a href="#heading=h.llkhyy9sdqd2">Accedi al tuo profilo utente</a>
-
-.. |LINK5| raw:: html
-
-    <a href="#heading=h.1mcnduslphd4">modifica</a>
-
-.. |LINK6| raw:: html
-
-    <a href="#heading=h.juza122b5gfb">pubblicare l'oggetto</a>
-
-.. |LINK7| raw:: html
-
-    <a href="#heading=h.wnigikt1lo9g">salvarlo di nuovo come bozza</a>
-
-.. |LINK8| raw:: html
-
-    <a href="#heading=h.nwxpw7bjnq2z">interfaccia del redattore</a>
-
-.. |LINK9| raw:: html
-
-    <a href="#heading=h.n4svwnvcjsjv">accesso come utente</a>
-
-.. |LINK10| raw:: html
-
-    <a href="#heading=h.q57u6ojsxflq">attributi</a>
-
-.. |LINK11| raw:: html
-
-    <a href="#heading=h.joqishgpytei">albero dei contenuto</a>
-
-.. |LINK12| raw:: html
-
-    <a href="#heading=h.p2ynpnmf2tr2">classe di contenuto</a>
-
-.. |LINK13| raw:: html
-
-    <a href="#heading=h.drjohrpw70wm">creazione</a>
-
-.. |LINK14| raw:: html
-
-    <a href="#heading=h.1mcnduslphd4">modifica</a>
-
-.. |LINK15| raw:: html
-
-    <a href="#heading=h.jtp4r2o0ttqb">interfaccia di amministrazione</a>
-
-.. |LINK16| raw:: html
-
     <a href="#heading=h.ru6obljf61tc">classe di contenuto</a>
 
-.. |LINK17| raw:: html
 
-    <a href="#heading=h.jtp4r2o0ttqb">interfaccia di amministrazione</a>
-
-.. |LINK18| raw:: html
-
-    <a href="#heading=h.n4svwnvcjsjv">accesso al sistema</a>
-
-.. |LINK19| raw:: html
-
-    <a href="#heading=h.1mcnduslphd4">pagina di modifica</a>
-
-.. |LINK20| raw:: html
-
-    <a href="#heading=h.h9pifzd4qg2c">Le mie bozze</a>
-
-.. |LINK21| raw:: html
-
-    <a href="#heading=h.1mcnduslphd4">modificare una pagina</a>
-
-.. |LINK22| raw:: html
-
-    <a href="#heading=h.h9pifzd4qg2c">Le mie bozze</a>
-
-.. |LINK23| raw:: html
-
-    <a href="#heading=h.1mcnduslphd4">modificare</a>
-
-.. |LINK24| raw:: html
-
-    <a href="#heading=h.drjohrpw70wm">creazione un nuovo contenuto</a>
-
-.. |LINK25| raw:: html
-
-    <a href="#heading=h.1mcnduslphd4">modifica di un contenuto già esistente</a>
-
-.. |LINK26| raw:: html
-
-    <a href="#heading=h.rvrai39cv162">accedere al tuo Profilo utente</a>
-
-.. |LINK27| raw:: html
-
-    <a href="#heading=h.h9pifzd4qg2c">Le mie bozze</a>
-
-.. |LINK28| raw:: html
-
-    <a href="#heading=h.ql3gqguzc4sb">Eliminare un contenuto</a>
-
-.. |LINK29| raw:: html
-
-    <a href="#heading=h.drjohrpw70wm">crea un nuovo oggetto</a>
-
-.. |LINK30| raw:: html
-
-    <a href="#heading=h.n4svwnvcjsjv">accedere al sistema</a>
-
-.. |LINK31| raw:: html
-
-    <a href="#heading=h.p3mrka7hvlgn">login</a>
-
-
-.. |IMG1| image:: static/1_1.png
+.. |IMG1| image:: static/Gestione_dei_contenuti_1.png
    :height: 48 px
    :width: 624 px
 
-.. |IMG2| image:: static/1_2.png
+.. |IMG2| image:: static/Gestione_dei_contenuti_2.png
    :height: 341 px
    :width: 313 px
 
-.. |IMG3| image:: static/1_3.png
+.. |IMG3| image:: static/Gestione_dei_contenuti_3.png
    :height: 224 px
    :width: 429 px
 
-.. |IMG4| image:: static/1_4.png
+.. |IMG4| image:: static/Gestione_dei_contenuti_4.png
    :height: 49 px
    :width: 624 px
 
-.. |IMG5| image:: static/1_4.png
+.. |IMG5| image:: static/Gestione_dei_contenuti_4.png
    :height: 49 px
    :width: 624 px
 
-.. |IMG6| image:: static/1_5.png
+.. |IMG6| image:: static/Gestione_dei_contenuti_5.png
    :height: 22 px
    :width: 624 px
 
-.. |IMG7| image:: static/1_6.png
+.. |IMG7| image:: static/Gestione_dei_contenuti_6.png
    :height: 208 px
    :width: 560 px
 
-.. |IMG8| image:: static/1_7.png
+.. |IMG8| image:: static/Gestione_dei_contenuti_7.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG9| image:: static/1_8.png
+.. |IMG9| image:: static/Gestione_dei_contenuti_8.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG10| image:: static/1_9.png
+.. |IMG10| image:: static/Gestione_dei_contenuti_9.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG11| image:: static/1_10.png
+.. |IMG11| image:: static/Gestione_dei_contenuti_10.png
    :height: 368 px
    :width: 624 px
 
-.. |IMG12| image:: static/1_11.png
+.. |IMG12| image:: static/Gestione_dei_contenuti_11.png
    :height: 813 px
    :width: 601 px
 
-.. |IMG13| image:: static/1_12.png
+.. |IMG13| image:: static/Gestione_dei_contenuti_12.png
    :height: 569 px
    :width: 505 px
 
-.. |IMG14| image:: static/1_13.png
+.. |IMG14| image:: static/Gestione_dei_contenuti_13.png
    :height: 916 px
    :width: 550 px
 
-.. |IMG15| image:: static/1_14.png
+.. |IMG15| image:: static/Gestione_dei_contenuti_14.png
    :height: 153 px
    :width: 624 px
 
-.. |IMG16| image:: static/1_15.png
+.. |IMG16| image:: static/Gestione_dei_contenuti_15.png
    :height: 41 px
    :width: 624 px
 
-.. |IMG17| image:: static/1_16.png
+.. |IMG17| image:: static/Gestione_dei_contenuti_16.png
    :height: 193 px
    :width: 349 px
 
-.. |IMG18| image:: static/1_17.png
+.. |IMG18| image:: static/Gestione_dei_contenuti_17.png
    :height: 134 px
    :width: 434 px
 
-.. |IMG19| image:: static/1_18.png
+.. |IMG19| image:: static/Gestione_dei_contenuti_18.png
    :height: 46 px
    :width: 624 px
 
-.. |IMG20| image:: static/1_19.png
+.. |IMG20| image:: static/Gestione_dei_contenuti_19.png
    :height: 46 px
    :width: 624 px
 
-.. |IMG21| image:: static/1_20.png
+.. |IMG21| image:: static/Gestione_dei_contenuti_20.png
    :height: 352 px
    :width: 624 px
 
-.. |IMG22| image:: static/1_21.png
+.. |IMG22| image:: static/Gestione_dei_contenuti_21.png
    :height: 352 px
    :width: 624 px
 
-.. |IMG23| image:: static/1_22.png
+.. |IMG23| image:: static/Gestione_dei_contenuti_22.png
    :height: 42 px
    :width: 624 px
 
-.. |IMG24| image:: static/1_23.png
+.. |IMG24| image:: static/Gestione_dei_contenuti_23.png
    :height: 228 px
    :width: 602 px
 
-.. |IMG25| image:: static/1_24.png
+.. |IMG25| image:: static/Gestione_dei_contenuti_24.png
    :height: 238 px
    :width: 624 px
 
-.. |IMG26| image:: static/1_25.png
+.. |IMG26| image:: static/Gestione_dei_contenuti_25.png
    :height: 201 px
    :width: 188 px
 
-.. |IMG27| image:: static/1_26.png
+.. |IMG27| image:: static/Gestione_dei_contenuti_26.png
    :height: 46 px
    :width: 624 px
 
-.. |IMG28| image:: static/1_27.png
+.. |IMG28| image:: static/Gestione_dei_contenuti_27.png
    :height: 317 px
    :width: 624 px
 
-.. |IMG29| image:: static/1_28.png
+.. |IMG29| image:: static/Gestione_dei_contenuti_28.png
    :height: 317 px
    :width: 624 px
 
-.. |IMG30| image:: static/1_29.png
+.. |IMG30| image:: static/Gestione_dei_contenuti_29.png
    :height: 42 px
    :width: 624 px
 
-.. |IMG31| image:: static/1_30.png
+.. |IMG31| image:: static/Gestione_dei_contenuti_30.png
    :height: 364 px
    :width: 624 px
 
-.. |IMG32| image:: static/1_31.png
+.. |IMG32| image:: static/Gestione_dei_contenuti_31.png
    :height: 305 px
    :width: 624 px
 
-.. |IMG33| image:: static/1_32.png
+.. |IMG33| image:: static/Gestione_dei_contenuti_32.png
    :height: 42 px
    :width: 492 px
 
-.. |IMG34| image:: static/1_33.png
+.. |IMG34| image:: static/Gestione_dei_contenuti_33.png
    :height: 45 px
    :width: 496 px
 
-.. |IMG35| image:: static/1_34.png
+.. |IMG35| image:: static/Gestione_dei_contenuti_34.png
    :height: 45 px
    :width: 496 px
 
-.. |IMG36| image:: static/1_35.png
+.. |IMG36| image:: static/Gestione_dei_contenuti_35.png
    :height: 142 px
    :width: 624 px
 
-.. |IMG37| image:: static/1_36.png
+.. |IMG37| image:: static/Gestione_dei_contenuti_36.png
    :height: 42 px
    :width: 492 px
 
-.. |IMG38| image:: static/1_8.png
+.. |IMG38| image:: static/Gestione_dei_contenuti_8.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG39| image:: static/1_9.png
+.. |IMG39| image:: static/Gestione_dei_contenuti_9.png
    :height: 202 px
    :width: 624 px
 
-.. |IMG40| image:: static/1_37.png
+.. |IMG40| image:: static/Gestione_dei_contenuti_37.png
    :height: 204 px
    :width: 624 px
 
-.. |IMG41| image:: static/1_38.png
+.. |IMG41| image:: static/Gestione_dei_contenuti_38.png
    :height: 222 px
    :width: 624 px
 
-.. |IMG42| image:: static/1_39.png
+.. |IMG42| image:: static/Gestione_dei_contenuti_39.png
    :height: 204 px
    :width: 624 px
 
-.. |IMG43| image:: static/1_40.png
+.. |IMG43| image:: static/Gestione_dei_contenuti_40.png
    :height: 228 px
    :width: 624 px
 
-.. |IMG44| image:: static/1_41.png
+.. |IMG44| image:: static/Gestione_dei_contenuti_41.png
    :height: 29 px
    :width: 624 px
 
-.. |IMG45| image:: static/1_42.png
+.. |IMG45| image:: static/Gestione_dei_contenuti_42.png
    :height: 240 px
    :width: 624 px
 
-.. |IMG46| image:: static/1_43.png
+.. |IMG46| image:: static/Gestione_dei_contenuti_43.png
    :height: 204 px
    :width: 624 px
 
-.. |IMG47| image:: static/1_44.png
+.. |IMG47| image:: static/Gestione_dei_contenuti_44.png
    :height: 190 px
    :width: 624 px
 
-.. |IMG48| image:: static/1_45.png
+.. |IMG48| image:: static/Gestione_dei_contenuti_45.png
    :height: 441 px
    :width: 624 px
 
-.. |IMG49| image:: static/1_46.png
+.. |IMG49| image:: static/Gestione_dei_contenuti_46.png
    :height: 188 px
    :width: 344 px
 
-.. |IMG50| image:: static/1_47.png
+.. |IMG50| image:: static/Gestione_dei_contenuti_47.png
    :height: 188 px
    :width: 344 px
 
-.. |IMG51| image:: static/1_48.png
+.. |IMG51| image:: static/Gestione_dei_contenuti_48.png
    :height: 178 px
    :width: 561 px
 
-.. |IMG52| image:: static/1_49.png
+.. |IMG52| image:: static/Gestione_dei_contenuti_49.png
    :height: 40 px
    :width: 624 px
 
-.. |IMG53| image:: static/1_50.png
+.. |IMG53| image:: static/Gestione_dei_contenuti_50.png
    :height: 253 px
    :width: 624 px
 
-.. |IMG54| image:: static/1_51.png
+.. |IMG54| image:: static/Gestione_dei_contenuti_51.png
    :height: 41 px
    :width: 624 px
 
-.. |IMG55| image:: static/1_52.png
+.. |IMG55| image:: static/Gestione_dei_contenuti_52.png
    :height: 309 px
    :width: 624 px
 
-.. |IMG56| image:: static/1_53.png
+.. |IMG56| image:: static/Gestione_dei_contenuti_53.png
    :height: 38 px
    :width: 624 px
 
-.. |IMG57| image:: static/1_54.png
+.. |IMG57| image:: static/Gestione_dei_contenuti_54.png
    :height: 117 px
    :width: 602 px
 
-.. |IMG58| image:: static/1_55.png
+.. |IMG58| image:: static/Gestione_dei_contenuti_55.png
    :height: 576 px
    :width: 624 px
 
-.. |IMG59| image:: static/1_56.png
+.. |IMG59| image:: static/Gestione_dei_contenuti_56.png
    :height: 217 px
    :width: 624 px
 
-.. |IMG60| image:: static/1_57.png
+.. |IMG60| image:: static/Gestione_dei_contenuti_57.png
    :height: 106 px
    :width: 624 px
 
-.. |IMG61| image:: static/1_58.png
+.. |IMG61| image:: static/Gestione_dei_contenuti_58.png
    :height: 381 px
    :width: 174 px
 
-.. |IMG62| image:: static/1_59.png
+.. |IMG62| image:: static/Gestione_dei_contenuti_59.png
    :height: 78 px
    :width: 402 px
 
-.. |IMG63| image:: static/1_60.png
+.. |IMG63| image:: static/Gestione_dei_contenuti_60.png
    :height: 204 px
    :width: 613 px
 
-.. |IMG64| image:: static/1_61.png
+.. |IMG64| image:: static/Gestione_dei_contenuti_61.png
    :height: 62 px
    :width: 380 px
-
-.. |IMG65| image:: static/1_62.png
-   :height: 201 px
-   :width: 600 px
-
-.. |IMG66| image:: static/1_63.png
-   :height: 18 px
-   :width: 600 px
-
-.. |IMG67| image:: static/1_64.png
-   :height: 149 px
-   :width: 600 px
-
-.. |IMG68| image:: static/1_65.png
-   :height: 258 px
-   :width: 600 px
-
-.. |IMG69| image:: static/1_66.png
-   :height: 64 px
-   :width: 168 px
-
-.. |IMG70| image:: static/1_67.png
-   :height: 64 px
-   :width: 165 px
-
-.. |IMG71| image:: static/1_68.png
-   :height: 313 px
-   :width: 616 px
