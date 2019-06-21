@@ -19,6 +19,7 @@ Questo \ |STYLE4|\  è una \ |STYLE5|\  all’utilizzo del sistema e alla gestio
 
         gestione_contenuti.rst
         funzionalita_opencity.rst
+        blocchi_opencity.rst
         editor_online.rst
     
     
