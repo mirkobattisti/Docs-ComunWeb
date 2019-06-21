@@ -49,63 +49,6 @@ Se il contenuto non ha l’immagine l’abstract occupa tutto l’ingombro
 
 \ |IMG4|\ 
 
-.. _h7f3332d11511d3d543639785d345f:
-
-Lista manuale
--------------
-
-Selezione manuale di massimo 5 elementi
-
-.. _h4d5a52b2176b4a2fc513b6643430:
-
-Accordion
-~~~~~~~~~
-
-\ |IMG5|\ 
-
-.. _h32307a597018792c57d252b6f59401f:
-
-Elenco ultimi 4 figli 
-~~~~~~~~~~~~~~~~~~~~~~
-
-\ |IMG6|\ 
-
-.. _h40117d10496d54353546257a7a13439:
-
-Elenco su due colonne
-~~~~~~~~~~~~~~~~~~~~~
-
-\ |IMG7|\ 
-
-.. _h7015777b347a33c5e481931d625040:
-
-Tabs
-~~~~
-
-\ |IMG8|\ 
-
-.. _h2d6566764f50424b1fe1b2f3263b61:
-
-Slider
-~~~~~~
-
-\ |IMG9|\ 
-
-.. _h32326a1177164785e7e5511db8073:
-
-In evidenza
-~~~~~~~~~~~
-
-\ |IMG10|\ 
-
-.. _h5647777d3a38475e3b592656276fb14:
-
-Masonry
-~~~~~~~
-
-\ |IMG11|\ 
-
-
 .. _h5151374a254c4a24f1275507dfd:
 
 Maps
@@ -118,7 +61,7 @@ Selezione di un contenitore
 Open street map
 ~~~~~~~~~~~~~~~
 
-\ |IMG12|\ 
+\ |IMG5|\ 
 
 
 .. _h1a39193865195c181462595a354c02b:
@@ -133,21 +76,21 @@ Selezione di un contenitore (calendario)
 Tabs
 ~~~~
 
-\ |IMG13|\ 
+\ |IMG6|\ 
 
 .. _h225bd2729b5f536b2e442259197a52:
 
 Carousel
 ~~~~~~~~
 
-\ |IMG14|\ 
+\ |IMG7|\ 
 
 .. _h51164662845596a185f716a411e4369:
 
 Wide 
 ~~~~~
 
-\ |IMG15|\ 
+\ |IMG8|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -177,45 +120,17 @@ Wide
    :width: 601 px
 
 .. |IMG5| image:: static/Blocchi_Opencity_5.jpeg
-   :height: 157 px
-   :width: 601 px
-
-.. |IMG6| image:: static/Blocchi_Opencity_6.jpeg
-   :height: 160 px
-   :width: 601 px
-
-.. |IMG7| image:: static/Blocchi_Opencity_7.jpeg
-   :height: 424 px
-   :width: 601 px
-
-.. |IMG8| image:: static/Blocchi_Opencity_8.jpeg
-   :height: 113 px
-   :width: 601 px
-
-.. |IMG9| image:: static/Blocchi_Opencity_9.jpeg
-   :height: 196 px
-   :width: 601 px
-
-.. |IMG10| image:: static/Blocchi_Opencity_10.jpeg
-   :height: 265 px
-   :width: 601 px
-
-.. |IMG11| image:: static/Blocchi_Opencity_11.jpeg
-   :height: 506 px
-   :width: 601 px
-
-.. |IMG12| image:: static/Blocchi_Opencity_12.jpeg
    :height: 213 px
    :width: 601 px
 
-.. |IMG13| image:: static/Blocchi_Opencity_13.jpeg
+.. |IMG6| image:: static/Blocchi_Opencity_6.jpeg
    :height: 173 px
    :width: 601 px
 
-.. |IMG14| image:: static/Blocchi_Opencity_14.jpeg
+.. |IMG7| image:: static/Blocchi_Opencity_7.jpeg
    :height: 328 px
    :width: 601 px
 
-.. |IMG15| image:: static/Blocchi_Opencity_15.jpeg
+.. |IMG8| image:: static/Blocchi_Opencity_8.jpeg
    :height: 288 px
    :width: 601 px
