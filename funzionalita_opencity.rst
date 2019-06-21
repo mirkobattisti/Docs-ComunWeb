@@ -4,65 +4,6 @@
 
 
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-| `Personalizza il tuo sito OpenCity <#h256f44685f63564426473c5e2876461>`_
-|     `Aspetto estetico del sito web <#h6f5150673f2401a4b21804d4b464224>`_
-|     `Classi di contenuto <#h2878256a793dd584a14e7776663c4a>`_
-|     `Utilizza i blocchi per personalizzare l’Homepage o una Pagina del sito <#h5b2d791843252d436c44807f5e712858>`_
-|         `Panoramica <#hf464843526245477320527c5120671>`_
-|         `Blocco singolo <#h11463f11d25257d421058164d5c6216>`_
-|             `Default <#h7a19202a115655405a60135a11184467>`_
-|                 `Banner/Link <#h712b773e21122268615f80427587773>`_
-|                 `Gallery <#h5c6d31d30291e12117f18303326772e>`_
-|                 `Amministrazione trasparente <#h3c2a1e6b4f599172c2e2063691a54e>`_
-|             `Titolo del blocco o dell’oggetto, miniatura e abstract <#h793d5d52f5b327c4821533d105e2347>`_
-|             `Panel <#h48266df4b10627d35b78216968722e>`_
-|             `Banner <#h6fe6716761163246c2e72721a197e>`_
-|             `In evidenza <#h32326a1177164785e7e5511db8073>`_
-|         `Lista automatica <#ha437e453681612161612158575267>`_
-|             `Carousel <#h225bd2729b5f536b2e442259197a52>`_
-|             `Accordion <#h4d5a52b2176b4a2fc513b6643430>`_
-|             `Elenco <#h25294ec1f554534b464e1e3d317e40>`_
-|             `Slider <#h2d6566764f50424b1fe1b2f3263b61>`_
-|             `Masonry <#h5647777d3a38475e3b592656276fb14>`_
-|             `Banner <#h6fe6716761163246c2e72721a197e>`_
-|             `In evidenza <#h32326a1177164785e7e5511db8073>`_
-|         `Lista manuale <#h7f3332d11511d3d543639785d345f>`_
-|             `Accordion <#h4d5a52b2176b4a2fc513b6643430>`_
-|             `Elenco ultimi 4 figli <#h81975b1a5b56796e433b447b125a3b>`_
-|             `Elenco su due colonne <#h40117d10496d54353546257a7a13439>`_
-|             `Tabs <#h7015777b347a33c5e481931d625040>`_
-|             `Slider <#h2d6566764f50424b1fe1b2f3263b61>`_
-|             `In evidenza <#h32326a1177164785e7e5511db8073>`_
-|             `Masonry <#h5647777d3a38475e3b592656276fb14>`_
-|         `Maps <#h5151374a254c4a24f1275507dfd>`_
-|             `Open street map <#h31735759454e6a13612b695719321056>`_
-|         `Eventi <#h1a39193865195c181462595a354c02b>`_
-|             `Tabs <#h7015777b347a33c5e481931d625040>`_
-|             `Carousel <#h225bd2729b5f536b2e442259197a52>`_
-|             `Wide <#h1939705a1d4381c5722522601d273f>`_
-|     `Imposta una modalità di visualizzazione per i contenuti delle tue pagine <#h1c63143fd635a7f21a67164b387443>`_
-|     `Inserisci l’organigramma della tua struttura <#h532d4d6d54247b5019a742a6d1c186c>`_
-|         `Come funziona <#h201f103596e646a163d386454463551>`_
-|         `Crea un organigramma <#h274aa5a5c52583b7665a5a62374923>`_
-|         `Costruisci la struttura dell’organigramma <#h3a537e7c2a1d4b3a4a381a471f2d453>`_
-|         `Aggiorna l’organigramma <#hb6d213f592214722ec5a21495c785f>`_
-|     `Aggiorna il menu principale <#h297a7b6f45463da546d281a497e784>`_
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h256f44685f63564426473c5e2876461:
 
 Personalizza il tuo sito OpenCity
