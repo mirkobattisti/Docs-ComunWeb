@@ -31,6 +31,24 @@ Per aggiungere un blocco segui i seguenti passaggi:
 
 \ |IMG3|\ 
 
+.. _h11463f11d25257d421058164d5c6216:
+
+Blocco singolo
+--------------
+
+Selezione di un singolo oggetto
+
+.. _h7a19202a115655405a60135a11184467:
+
+Default
+~~~~~~~
+
+Titolo e abstract a sinistra Immagine a destra. 
+
+Se il contenuto non ha l’immagine l’abstract occupa tutto l’ingombro
+
+\ |IMG4|\ 
+
 
 .. bottom of content
 
@@ -48,3 +66,7 @@ Per aggiungere un blocco segui i seguenti passaggi:
 .. |IMG3| image:: static/Blocchi_Opencity_3.png
    :height: 28 px
    :width: 413 px
+
+.. |IMG4| image:: static/Blocchi_Opencity_4.jpeg
+   :height: 192 px
+   :width: 601 px
