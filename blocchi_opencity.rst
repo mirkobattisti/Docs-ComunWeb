@@ -49,69 +49,167 @@ Se il contenuto non ha l’immagine l’abstract occupa tutto l’ingombro
 
 \ |IMG4|\ 
 
-.. _h712b773e21122268615f80427587773:
+.. _h2c1d74277104e41780968148427e:
 
-Banner/Link
-^^^^^^^^^^^
 
-Se l’oggetto è un banner o un link
+
+
+.. _ha437e453681612161612158575267:
+
+Lista automatica
+----------------
+
+Selezione del nodo padre, possibilità di filtrare ed ordinare i figli del nodo passato come genitore.
+
+.. _h225bd2729b5f536b2e442259197a52:
+
+Carousel
+~~~~~~~~
 
 \ |IMG5|\ 
 
-Se nel link o nel banner non c’è immagine viene esposto un pulsantone con background colorato e testo bianco
+.. _h4d5a52b2176b4a2fc513b6643430:
 
-.. _h2853a65f2843553c4e2cb4b6f4b:
+Accordion
+~~~~~~~~~
 
-\ |IMG6|\ ==========
+\ |IMG6|\ 
 
-.. _h5c6d31d30291e12117f18303326772e:
+.. _h25294ec1f554534b464e1e3d317e40:
 
-Gallery
-^^^^^^^
-
-Se l’oggetto è una galleria \ |STYLE1|\ 
+Elenco
+~~~~~~
 
 \ |IMG7|\ 
 
-.. _h3c2a1e6b4f599172c2e2063691a54e:
+.. _h2d6566764f50424b1fe1b2f3263b61:
 
-Amministrazione trasparente
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Slider
+~~~~~~
 
 \ |IMG8|\ 
 
-.. _h793d5d52f5b327c4821533d105e2347:
+.. _h5647777d3a38475e3b592656276fb14:
 
-Titolo del blocco o dell’oggetto, miniatura e abstract
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Masonry
+~~~~~~~
 
 \ |IMG9|\ 
-
-.. _h48266df4b10627d35b78216968722e:
-
-Panel
-~~~~~
-
-\ |IMG10|\ 
 
 .. _h6fe6716761163246c2e72721a197e:
 
 Banner
 ~~~~~~
 
-\ |IMG11|\ 
+\ |IMG10|\ 
 
 .. _h32326a1177164785e7e5511db8073:
 
 In evidenza
 ~~~~~~~~~~~
 
+\ |IMG11|\ 
+
+
+.. _h7f3332d11511d3d543639785d345f:
+
+Lista manuale
+-------------
+
+Selezione manuale di massimo 5 elementi
+
+.. _h4d5a52b2176b4a2fc513b6643430:
+
+Accordion
+~~~~~~~~~
+
 \ |IMG12|\ 
 
-.. _h2c1d74277104e41780968148427e:
+.. _h32307a597018792c57d252b6f59401f:
+
+Elenco ultimi 4 figli 
+~~~~~~~~~~~~~~~~~~~~~~
+
+\ |IMG13|\ 
+
+.. _h40117d10496d54353546257a7a13439:
+
+Elenco su due colonne
+~~~~~~~~~~~~~~~~~~~~~
+
+\ |IMG14|\ 
+
+.. _h7015777b347a33c5e481931d625040:
+
+Tabs
+~~~~
+
+\ |IMG15|\ 
+
+.. _h2d6566764f50424b1fe1b2f3263b61:
+
+Slider
+~~~~~~
+
+\ |IMG16|\ 
+
+.. _h32326a1177164785e7e5511db8073:
+
+In evidenza
+~~~~~~~~~~~
+
+\ |IMG17|\ 
+
+.. _h5647777d3a38475e3b592656276fb14:
+
+Masonry
+~~~~~~~
+
+\ |IMG18|\ 
 
 
+.. _h5151374a254c4a24f1275507dfd:
 
+Maps
+----
+
+Selezione di un contenitore
+
+.. _h31735759454e6a13612b695719321056:
+
+Open street map
+~~~~~~~~~~~~~~~
+
+\ |IMG19|\ 
+
+
+.. _h1a39193865195c181462595a354c02b:
+
+Eventi
+------
+
+Selezione di un contenitore (calendario)
+
+.. _h7015777b347a33c5e481931d625040:
+
+Tabs
+~~~~
+
+\ |IMG20|\ 
+
+.. _h225bd2729b5f536b2e442259197a52:
+
+Carousel
+~~~~~~~~
+
+\ |IMG21|\ 
+
+.. _h51164662845596a185f716a411e4369:
+
+Wide 
+~~~~~
+
+\ |IMG22|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -123,8 +221,6 @@ In evidenza
 
 
 .. |STYLE0| replace:: **blocco**
-
-.. |STYLE1| replace:: *(c’è ambiguità perché parliamo di oggetto singolo ma in realtà ne mostriamo i figli?)*
 
 .. |IMG1| image:: static/Blocchi_Opencity_1.png
    :height: 222 px
@@ -143,33 +239,73 @@ In evidenza
    :width: 601 px
 
 .. |IMG5| image:: static/Blocchi_Opencity_5.jpeg
-   :height: 77 px
+   :height: 409 px
    :width: 601 px
 
 .. |IMG6| image:: static/Blocchi_Opencity_6.jpeg
-   :height: 65 px
+   :height: 157 px
    :width: 601 px
 
 .. |IMG7| image:: static/Blocchi_Opencity_7.jpeg
-   :height: 178 px
+   :height: 266 px
    :width: 601 px
 
 .. |IMG8| image:: static/Blocchi_Opencity_8.jpeg
-   :height: 94 px
+   :height: 196 px
    :width: 601 px
 
 .. |IMG9| image:: static/Blocchi_Opencity_9.jpeg
-   :height: 100 px
+   :height: 506 px
    :width: 601 px
 
 .. |IMG10| image:: static/Blocchi_Opencity_10.jpeg
-   :height: 388 px
+   :height: 364 px
    :width: 601 px
 
 .. |IMG11| image:: static/Blocchi_Opencity_11.jpeg
-   :height: 142 px
+   :height: 265 px
    :width: 601 px
 
-.. |IMG12| image:: static/Blocchi_Opencity_12.jpeg
-   :height: 244 px
+.. |IMG12| image:: static/Blocchi_Opencity_6.jpeg
+   :height: 157 px
+   :width: 601 px
+
+.. |IMG13| image:: static/Blocchi_Opencity_12.jpeg
+   :height: 160 px
+   :width: 601 px
+
+.. |IMG14| image:: static/Blocchi_Opencity_13.jpeg
+   :height: 424 px
+   :width: 601 px
+
+.. |IMG15| image:: static/Blocchi_Opencity_14.jpeg
+   :height: 113 px
+   :width: 601 px
+
+.. |IMG16| image:: static/Blocchi_Opencity_8.jpeg
+   :height: 196 px
+   :width: 601 px
+
+.. |IMG17| image:: static/Blocchi_Opencity_11.jpeg
+   :height: 265 px
+   :width: 601 px
+
+.. |IMG18| image:: static/Blocchi_Opencity_9.jpeg
+   :height: 506 px
+   :width: 601 px
+
+.. |IMG19| image:: static/Blocchi_Opencity_15.jpeg
+   :height: 213 px
+   :width: 601 px
+
+.. |IMG20| image:: static/Blocchi_Opencity_16.jpeg
+   :height: 173 px
+   :width: 601 px
+
+.. |IMG21| image:: static/Blocchi_Opencity_17.jpeg
+   :height: 328 px
+   :width: 601 px
+
+.. |IMG22| image:: static/Blocchi_Opencity_18.jpeg
+   :height: 288 px
    :width: 601 px
