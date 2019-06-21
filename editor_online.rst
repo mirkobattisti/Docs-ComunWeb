@@ -2,12 +2,12 @@
 .. _h1d702a1d12456626641e4c30244166:
 
 Personalizza i tuoi testi 
-**************************
+==========================
 
 .. _h4f6c2911a4178503d30662c55756643:
 
 Panoramica: l’Editor online
-===========================
+---------------------------
 
 .. _h761ab401543201137a78553757464:
 
@@ -66,7 +66,7 @@ Grazie all’Editor online sono supportate le seguenti opzioni di formattazione:
 .. _h4f451185029547d38734478361d5051:
 
 La barra degli strumenti 
-=========================
+-------------------------
 
 La barra degli strumenti dell’online Editor contiene strumenti per la modifica del contenuto che viene visualizzato nell'area di testo sottostante. I pulsanti sono molto simili a quelli presenti in molti Editor di testo (es.: Microsoft Word). 
 
@@ -81,7 +81,7 @@ La seguente schermata mostra i diversi pulsanti:
 .. _h195511344f4a5c69502674a63e7e74:
 
 Ridimensiona l'area di testo
-----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il testo formattato viene inserito in un'\ |STYLE9|\  multilinea modificabile.
 
@@ -92,7 +92,7 @@ Il testo formattato viene inserito in un'\ |STYLE9|\  multilinea modificabile.
 .. _h3944f29446246664579191a6b80a38:
 
 Visualizza i suggerimenti dei pulsanti
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ogni pulsante ha un suggerimento che viene visualizzato quando il puntatore del mouse si posiziona sopra il pulsante stesso. I suggerimenti vengono utilizzati per fornire ulteriori informazioni sull'azione che verrà eseguita dal pulsante quando si fa clic. Lo screenshot qui sotto ne è un esempio.
 
@@ -105,7 +105,7 @@ I pulsanti della barra degli strumenti temporaneamente disabilitati dispongono a
 .. _h5c753b115859025631267f56753646:
 
 Inserisci allegati all'interno del testo
-----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 All'interno del campo dove è possibile inserire testo formattato (ad esempio il corpo dell'articolo) nella barra degli strumenti. Si utilizza l'icona con la graffetta (1) per allegare un file, che viene visualizzato nella posizione in cui si trova il cursore dentro il campo (2).
 
