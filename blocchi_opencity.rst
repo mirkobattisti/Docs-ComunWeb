@@ -49,38 +49,19 @@ Se il contenuto non ha l’immagine l’abstract occupa tutto l’ingombro
 
 \ |IMG4|\ 
 
+.. _h5151374a254c4a24f1275507dfd:
 
-.. _h1a39193865195c181462595a354c02b:
+Maps
+----
 
-Eventi
-------
+Selezione di un contenitore
 
-Selezione di un contenitore (calendario)
+.. _h31735759454e6a13612b695719321056:
 
-.. _h7015777b347a33c5e481931d625040:
-
-Tabs
-~~~~
+Open street map
+~~~~~~~~~~~~~~~
 
 \ |IMG5|\ 
-
-.. _h225bd2729b5f536b2e442259197a52:
-
-Carousel
-~~~~~~~~
-
-\ |IMG6|\ 
-
-.. _h51164662845596a185f716a411e4369:
-
-Wide 
-~~~~~
-
-\ |IMG7|\ 
-
-.. _h2c1d74277104e41780968148427e:
-
-
 
 
 
@@ -106,13 +87,5 @@ Wide
    :width: 601 px
 
 .. |IMG5| image:: static/Blocchi_Opencity_5.jpeg
-   :height: 173 px
-   :width: 601 px
-
-.. |IMG6| image:: static/Blocchi_Opencity_6.jpeg
-   :height: 328 px
-   :width: 601 px
-
-.. |IMG7| image:: static/Blocchi_Opencity_7.jpeg
-   :height: 288 px
+   :height: 213 px
    :width: 601 px
