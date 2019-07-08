@@ -380,7 +380,7 @@ Fare clic sui nodi contenitore evidenziati per navigare nell'albero fino a raggi
 .. _h6331431d7e4d4c16425d30452b561147:
 
 Ordina un elenco di contenuti
-=============================
+-----------------------------
 
 \ |IMG30|\ 
 
