@@ -51,11 +51,6 @@ La seguente sezione descrive alcune funzionalità offerte dalle classi di conten
 Imposta una modalità di visualizzazione per i contenuti delle tue pagine
 ========================================================================
 
-.. _h721512647d633e292e6e1a401867145f:
-
- 
--
-
 La \ |LINK2|\  è una \ |LINK3|\  tra le più comunemente utilizzate. Viene utilizzata per contenuti generici, non molto strutturati, oppure come \ |STYLE8|\ . 
 
 Per \ |LINK4|\ , selezionare Pagina del sito dal menu a discesa nella \ |LINK5|\  del sito Web, quindi fare clic sul pulsante Crea.
