@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Manuale Open City"
-settings_copyright_copyleft = 'Opencontent'
-settings_editor_name = 'Opencontent'
+settings_project_name = "ComunWeb: il sito comunale"
+settings_copyright_copyleft = 'Consorzio Comuni Trentini'
+settings_editor_name = 'Consorzio Comuni Trentini'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
 settings_basename = 'manuale-opencity'
@@ -37,8 +37,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Manuale Open City'
-copyright = '[licenza CC - BY OpenContent - SA]'
+project = 'ComunWeb: il sito comunale'
+copyright = '[licenza CC - BY CCT - SA]'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
