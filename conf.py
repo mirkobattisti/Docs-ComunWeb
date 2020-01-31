@@ -6,8 +6,8 @@ from __future__ import unicode_literals
 settings_project_name = "ComunWeb: il sito comunale"
 settings_copyright_copyleft = 'Consorzio Comuni Trentini'
 settings_editor_name = 'Consorzio Comuni Trentini'
-settings_doc_version = 'version: latest'
-settings_doc_release = 'version: latest'
+settings_doc_version = 'version: 1.0'
+settings_doc_release = 'version: 1.0'
 settings_basename = 'manuale-opencity'
 settings_file_name = 'manuale-opencity'
 
